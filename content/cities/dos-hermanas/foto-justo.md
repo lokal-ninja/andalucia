@@ -1,0 +1,5 @@
+---
+title: "Foto Justo"
+url: /dos-hermanas/foto-justo/
+shop: foto
+---
