@@ -1,5 +1,5 @@
 ---
 title: "Polvillo"
-url: /sevilla/polvillo/
+url: /sevilla/polvillo-calle-madre-rafols/
 shop: panadería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Springfield"
-url: /cordoba/springfield/
+url: /cordoba/springfield-2/
 shop: ropa
 ---

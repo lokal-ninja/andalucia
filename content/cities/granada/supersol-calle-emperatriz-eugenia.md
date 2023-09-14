@@ -1,5 +1,5 @@
 ---
 title: "Supersol"
-url: /granada/supersol/
+url: /granada/supersol-calle-emperatriz-eugenia/
 shop: supermercado
 ---

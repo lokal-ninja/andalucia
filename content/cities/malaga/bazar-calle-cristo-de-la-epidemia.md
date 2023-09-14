@@ -1,5 +1,5 @@
 ---
 title: "Bazar"
-url: /malaga/bazar/
+url: /malaga/bazar-calle-cristo-de-la-epidemia/
 shop: comodidad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dia"
-url: /sevilla/dia/
+url: /sevilla/dia-calle-periodista-filiberto-mira/
 shop: supermercado
 ---

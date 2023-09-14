@@ -1,5 +1,5 @@
 ---
 title: "Dia"
-url: /sanlucar-de-barrameda/dia/
+url: /sanlucar-de-barrameda/dia-2/
 shop: supermercado
 ---

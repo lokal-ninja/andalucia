@@ -1,5 +1,5 @@
 ---
 title: "Labor"
-url: /sevilla/labor/
+url: /sevilla/labor-calle-carretera-de-carmona/
 shop: bicicleta
 ---

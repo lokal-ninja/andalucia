@@ -1,5 +1,5 @@
 ---
 title: "Mercadona"
-url: /almeria/mercadona/
+url: /almeria/mercadona-calle-anne-frank/
 shop: supermercado
 ---

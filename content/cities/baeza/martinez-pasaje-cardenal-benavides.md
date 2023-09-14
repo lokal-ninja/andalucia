@@ -1,5 +1,5 @@
 ---
 title: "Martínez"
-url: /baeza/martinez/
+url: /baeza/martinez-pasaje-cardenal-benavides/
 shop: zapatos
 ---

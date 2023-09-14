@@ -1,5 +1,5 @@
 ---
 title: "Masymas"
-url: /jaen/masymas/
+url: /jaen/masymas-2/
 shop: supermercado
 ---

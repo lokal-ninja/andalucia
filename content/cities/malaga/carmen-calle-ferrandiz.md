@@ -1,5 +1,5 @@
 ---
 title: "Carmen"
-url: /malaga/carmen/
+url: /malaga/carmen-calle-ferrandiz/
 shop: quiosco
 ---

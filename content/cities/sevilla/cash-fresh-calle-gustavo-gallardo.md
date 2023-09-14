@@ -1,5 +1,5 @@
 ---
 title: "CASH FRESH"
-url: /sevilla/cash-fresh/
+url: /sevilla/cash-fresh-calle-gustavo-gallardo/
 shop: supermercado
 ---

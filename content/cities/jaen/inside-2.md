@@ -1,5 +1,5 @@
 ---
 title: "Inside"
-url: /jaen/inside/
+url: /jaen/inside-2/
 shop: ropa
 ---

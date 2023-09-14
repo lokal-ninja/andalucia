@@ -1,5 +1,5 @@
 ---
 title: "Parfois"
-url: /granada/parfois/
+url: /granada/parfois-calle-recogidas/
 shop: ropa
 ---

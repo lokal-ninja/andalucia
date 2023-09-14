@@ -1,5 +1,5 @@
 ---
 title: "Recreo"
-url: /cordoba/recreo/
+url: /cordoba/recreo-calle-reyes-catolicos/
 shop: material de oficina
 ---

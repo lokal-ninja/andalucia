@@ -1,5 +1,5 @@
 ---
 title: "Mercadona"
-url: /almeria/mercadona/
+url: /almeria/mercadona-calle-pinito-del-oro/
 shop: supermercado
 ---

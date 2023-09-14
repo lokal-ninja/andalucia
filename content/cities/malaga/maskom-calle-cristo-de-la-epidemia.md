@@ -1,5 +1,5 @@
 ---
 title: "Maskom"
-url: /malaga/maskom/
+url: /malaga/maskom-calle-cristo-de-la-epidemia/
 shop: supermercado
 ---

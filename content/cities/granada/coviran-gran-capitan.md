@@ -1,5 +1,5 @@
 ---
 title: "Covirán"
-url: /granada/coviran/
+url: /granada/coviran-gran-capitan/
 shop: supermercado
 ---

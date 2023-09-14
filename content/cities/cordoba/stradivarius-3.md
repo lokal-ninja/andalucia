@@ -1,5 +1,5 @@
 ---
 title: "Stradivarius"
-url: /cordoba/stradivarius/
+url: /cordoba/stradivarius-3/
 shop: ropa
 ---

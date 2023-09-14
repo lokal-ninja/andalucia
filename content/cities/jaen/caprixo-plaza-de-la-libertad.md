@@ -1,5 +1,5 @@
 ---
 title: "CapriXo"
-url: /jaen/caprixo/
+url: /jaen/caprixo-plaza-de-la-libertad/
 shop: peluquería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Masymas"
-url: /ubeda/masymas/
+url: /ubeda/masymas-carretera-de-vilches/
 shop: supermercado
 ---

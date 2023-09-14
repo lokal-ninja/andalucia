@@ -1,5 +1,5 @@
 ---
 title: "Copicentro"
-url: /malaga/copicentro/
+url: /malaga/copicentro-paseo-de-reding/
 shop: copyshop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Supersol"
-url: /malaga/supersol/
+url: /malaga/supersol-avenida-del-mayorazgo/
 shop: supermercado
 ---

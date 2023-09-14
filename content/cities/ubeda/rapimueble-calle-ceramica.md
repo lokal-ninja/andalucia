@@ -1,5 +1,5 @@
 ---
 title: "Rapimueble"
-url: /ubeda/rapimueble/
+url: /ubeda/rapimueble-calle-ceramica/
 shop: muebles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Martinez"
-url: /baeza/martinez/
+url: /baeza/martinez-calle-san-francisco/
 shop: zapatos
 ---

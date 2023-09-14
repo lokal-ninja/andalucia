@@ -1,5 +1,5 @@
 ---
 title: "Panificadora Pinos"
-url: /malaga/panificadora-pinos/
+url: /malaga/panificadora-pinos-calle-ferrandiz/
 shop: panadería
 ---

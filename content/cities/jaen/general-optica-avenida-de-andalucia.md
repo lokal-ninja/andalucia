@@ -1,5 +1,5 @@
 ---
 title: "General Óptica"
-url: /jaen/general-optica/
+url: /jaen/general-optica-avenida-de-andalucia/
 shop: óptico
 ---

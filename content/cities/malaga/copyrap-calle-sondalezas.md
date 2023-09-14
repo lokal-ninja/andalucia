@@ -1,5 +1,5 @@
 ---
 title: "Copyrap"
-url: /malaga/copyrap/
+url: /malaga/copyrap-calle-sondalezas/
 shop: copyshop
 ---

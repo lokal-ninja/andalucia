@@ -1,5 +1,5 @@
 ---
 title: "Covirán"
-url: /atarfe/coviran/
+url: /atarfe/coviran-calle-jarales/
 shop: supermercado
 ---

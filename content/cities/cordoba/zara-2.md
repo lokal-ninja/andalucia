@@ -1,5 +1,5 @@
 ---
 title: "Zara"
-url: /cordoba/zara/
+url: /cordoba/zara-2/
 shop: ropa
 ---

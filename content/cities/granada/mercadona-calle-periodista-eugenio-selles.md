@@ -1,5 +1,5 @@
 ---
 title: "Mercadona"
-url: /granada/mercadona/
+url: /granada/mercadona-calle-periodista-eugenio-selles/
 shop: supermercado
 ---

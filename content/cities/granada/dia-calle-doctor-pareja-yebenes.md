@@ -1,5 +1,5 @@
 ---
 title: "Dia"
-url: /granada/dia/
+url: /granada/dia-calle-doctor-pareja-yebenes/
 shop: supermercado
 ---

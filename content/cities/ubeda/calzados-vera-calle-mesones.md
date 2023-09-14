@@ -1,5 +1,5 @@
 ---
 title: "Calzados Vera"
-url: /ubeda/calzados-vera/
+url: /ubeda/calzados-vera-calle-mesones/
 shop: zapatos
 ---
