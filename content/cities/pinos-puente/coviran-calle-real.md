@@ -1,5 +1,5 @@
 ---
 title: "Covirán"
-url: /padul/coviran-calle-real/
+url: /pinos-puente/coviran-calle-real/
 shop: supermercado
 ---

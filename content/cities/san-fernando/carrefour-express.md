@@ -1,5 +1,5 @@
 ---
-title: "Carrefour express"
+title: "Carrefour Express"
 url: /san-fernando/carrefour-express/
-shop: supermercado
+shop: comodidad
 ---
