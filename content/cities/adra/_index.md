@@ -1,6 +1,6 @@
 ---
 title: Adra
 url: /adra/
-latitude: 36.758
-longitude: -2.981
+latitude: 36.745
+longitude: -3.016
 ---
