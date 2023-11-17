@@ -1,5 +1,5 @@
 ---
-title: "CÓRDOBA BIKE"
+title: "Córdoba Bike"
 url: /cordoba/cordoba-bike/
 shop: bicicleta
 ---

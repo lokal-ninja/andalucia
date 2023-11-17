@@ -1,5 +1,5 @@
 ---
-title: "CICLOS MATEOS"
+title: "Ciclos Mateos"
 url: /sevilla/ciclos-mateos/
 shop: bicicleta
 ---

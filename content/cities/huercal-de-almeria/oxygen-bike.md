@@ -1,5 +1,5 @@
 ---
-title: "OXYGEN BIKE"
+title: "Oxygen Bike"
 url: /huercal-de-almeria/oxygen-bike/
 shop: bicicleta
 ---
