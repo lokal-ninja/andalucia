@@ -1,5 +1,5 @@
 ---
-title: "TYRE CENTER SL"
+title: "Tyre Center SL"
 url: /cordoba/tyre-center-sl/
-shop: neumáticos
+shop: reparación de automóviles
 ---
