@@ -1,6 +1,6 @@
 ---
 title: La Curva
 url: /la-curva/
-latitude: 36.76
-longitude: -2.979
+latitude: 36.759
+longitude: -2.983
 ---
