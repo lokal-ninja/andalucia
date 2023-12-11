@@ -2,5 +2,5 @@
 title: Dólar
 url: /dolar/
 latitude: 37.193
-longitude: -2.984
+longitude: -2.985
 ---
