@@ -1,6 +1,6 @@
 ---
 title: Trevélez
 url: /trevelez/
-latitude: 37.001
-longitude: -3.267
+latitude: 37.002
+longitude: -3.268
 ---
