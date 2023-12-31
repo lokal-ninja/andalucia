@@ -1,5 +1,5 @@
 ---
 title: "Bazar"
 url: /malaga/bazar/
-shop: comodidad
+shop: tienda de variedades
 ---
