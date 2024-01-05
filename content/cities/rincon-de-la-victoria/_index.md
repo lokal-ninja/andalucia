@@ -1,6 +1,6 @@
 ---
-title: Rincon de la Victoria
+title: Rincón de la Victoria
 url: /rincon-de-la-victoria/
-latitude: 36.724
-longitude: -4.297
+latitude: 36.715
+longitude: -4.287
 ---
