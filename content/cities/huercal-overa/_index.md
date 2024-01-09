@@ -1,6 +1,6 @@
 ---
-title: Huércal-Overa
+title: Huercal-Overa
 url: /huercal-overa/
-latitude: 37.391
-longitude: -1.944
+latitude: 37.398
+longitude: -1.939
 ---
