@@ -1,6 +1,6 @@
 ---
 title: Huétor Vega
 url: /huetor-vega/
-latitude: 37.143
-longitude: -3.566
+latitude: 37.145
+longitude: -3.571
 ---
