@@ -1,6 +1,6 @@
 ---
 title: Alhaurín el Grande
 url: /alhaurin-el-grande/
-latitude: 36.644
-longitude: -4.683
+latitude: 36.638
+longitude: -4.69
 ---
