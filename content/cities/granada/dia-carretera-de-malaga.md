@@ -1,5 +1,5 @@
 ---
 title: "Dia"
-url: /cordoba/dia-4/
+url: /granada/dia-carretera-de-malaga/
 shop: supermercado
 ---

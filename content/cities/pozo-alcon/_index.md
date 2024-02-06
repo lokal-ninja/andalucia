@@ -1,6 +1,6 @@
 ---
 title: Pozo Alcón
 url: /pozo-alcon/
-latitude: 37.703
-longitude: -2.938
+latitude: 37.707
+longitude: -2.939
 ---
