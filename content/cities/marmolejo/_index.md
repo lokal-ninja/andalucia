@@ -1,6 +1,6 @@
 ---
 title: Marmolejo
 url: /marmolejo/
-latitude: 38.046
-longitude: -4.169
+latitude: 38.047
+longitude: -4.171
 ---
