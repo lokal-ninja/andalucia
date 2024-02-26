@@ -1,5 +1,5 @@
 ---
 title: "Mercadona"
-url: /cordoba/mercadona-3/
+url: /sanlucar-de-barrameda/mercadona-2/
 shop: supermercado
 ---

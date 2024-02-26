@@ -1,5 +1,5 @@
 ---
 title: "Covirán"
-url: /guillena/coviran/
+url: /granada/coviran-calle-molinos/
 shop: supermercado
 ---
