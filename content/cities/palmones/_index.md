@@ -1,6 +1,6 @@
 ---
 title: Palmones
 url: /palmones/
-latitude: 36.186
-longitude: -5.43
+latitude: 36.185
+longitude: -5.432
 ---
