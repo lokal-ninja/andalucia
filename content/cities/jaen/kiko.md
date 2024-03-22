@@ -1,5 +1,5 @@
 ---
 title: "Kiko"
 url: /jaen/kiko/
-shop: tienda
+shop: ropa
 ---
