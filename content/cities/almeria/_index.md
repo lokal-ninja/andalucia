@@ -1,6 +1,6 @@
 ---
 title: Almería
 url: /almeria/
-latitude: 36.831
-longitude: -2.449
+latitude: 36.837
+longitude: -2.445
 ---
