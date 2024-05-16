@@ -1,5 +1,5 @@
 ---
 title: "Carrefour Express"
 url: /malaga/carrefour-express/
-shop: comodidad
+shop: supermercado
 ---
