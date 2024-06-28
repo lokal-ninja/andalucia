@@ -1,6 +1,6 @@
 ---
 title: Jérez del Marquesado
 url: /jerez-del-marquesado/
-latitude: 37.184
-longitude: -3.161
+latitude: 37.185
+longitude: -3.16
 ---
