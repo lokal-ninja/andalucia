@@ -1,5 +1,5 @@
 ---
 title: "Mercadona"
-url: /jaen/mercadona-calle-jesus-de-nazaret/
+url: /jaen/mercadona-calle-castellar/
 shop: supermercado
 ---
