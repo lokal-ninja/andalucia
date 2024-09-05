@@ -1,5 +1,5 @@
 ---
 title: "TecnoBerti"
 url: /villargordo/tecnoberti/
-shop: ordenador
+shop: Computer
 ---

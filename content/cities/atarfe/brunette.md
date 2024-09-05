@@ -1,5 +1,5 @@
 ---
 title: "Brunette"
 url: /atarfe/brunette/
-shop: peluquería
+shop: Friseur
 ---

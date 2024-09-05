@@ -1,5 +1,5 @@
 ---
 title: "Hipermueble"
 url: /atarfe/hipermueble/
-shop: muebles
+shop: Möbel
 ---

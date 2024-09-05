@@ -1,5 +1,5 @@
 ---
 title: "Plantacar"
 url: /ubeda/plantacar/
-shop: herbolario
+shop: Kräuter
 ---

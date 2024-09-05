@@ -1,5 +1,5 @@
 ---
 title: "Peluquería David Sánchez"
 url: /sevilla/peluqueria-david-sanchez/
-shop: peluquería
+shop: Friseur
 ---

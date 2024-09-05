@@ -1,5 +1,5 @@
 ---
 title: "Cortidea"
 url: /mijas/cortidea/
-shop: cortina
+shop: Gardinen
 ---

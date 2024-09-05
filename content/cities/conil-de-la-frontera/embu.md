@@ -1,5 +1,5 @@
 ---
 title: "Embu"
 url: /conil-de-la-frontera/embu/
-shop: ropa
+shop: Kleidung
 ---

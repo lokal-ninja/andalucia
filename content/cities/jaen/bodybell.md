@@ -1,5 +1,5 @@
 ---
 title: "BodyBell"
 url: /jaen/bodybell/
-shop: farmacia
+shop: Drogerie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "EffikaX28"
 url: /jaen/effikax28/
-shop: general
+shop: Allgemein
 ---

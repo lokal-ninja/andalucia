@@ -1,5 +1,5 @@
 ---
 title: "Fauna"
 url: /algeciras/fauna/
-shop: mascotas
+shop: Tiere
 ---

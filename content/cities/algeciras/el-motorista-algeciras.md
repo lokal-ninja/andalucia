@@ -1,5 +1,5 @@
 ---
 title: "El Motorista Algeciras"
 url: /algeciras/el-motorista-algeciras/
-shop: motocicleta
+shop: Motorrad
 ---

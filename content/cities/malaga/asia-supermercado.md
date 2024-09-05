@@ -1,5 +1,5 @@
 ---
 title: "Asia Supermercado"
 url: /malaga/asia-supermercado/
-shop: comodidad
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Springfield"
 url: /ubeda/springfield/
-shop: ropa
+shop: Kleidung
 ---

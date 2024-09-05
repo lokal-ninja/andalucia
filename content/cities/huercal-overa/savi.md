@@ -1,5 +1,5 @@
 ---
 title: "SAVI"
 url: /huercal-overa/savi/
-shop: joyería
+shop: Schmuck
 ---

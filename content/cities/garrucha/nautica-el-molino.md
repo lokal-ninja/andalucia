@@ -1,5 +1,5 @@
 ---
 title: "Nautica El Molino"
 url: /garrucha/nautica-el-molino/
-shop: pesca
+shop: Angeln
 ---

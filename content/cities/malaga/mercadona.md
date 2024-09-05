@@ -1,5 +1,5 @@
 ---
 title: "Mercadona"
 url: /malaga/mercadona/
-shop: supermercado
+shop: Supermarkt
 ---

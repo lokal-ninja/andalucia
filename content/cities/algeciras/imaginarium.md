@@ -1,5 +1,5 @@
 ---
 title: "Imaginarium"
 url: /algeciras/imaginarium/
-shop: juguetes
+shop: Spielzeug
 ---

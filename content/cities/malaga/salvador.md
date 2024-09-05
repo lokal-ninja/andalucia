@@ -1,5 +1,5 @@
 ---
 title: "Salvador"
 url: /malaga/salvador/
-shop: panadería
+shop: Bäckerei
 ---

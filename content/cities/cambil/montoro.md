@@ -1,5 +1,5 @@
 ---
 title: "Montoro"
 url: /cambil/montoro/
-shop: carnicero
+shop: Metzgerei
 ---

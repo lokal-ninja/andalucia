@@ -1,5 +1,5 @@
 ---
 title: "Game"
 url: /ubeda/game/
-shop: videojuegos
+shop: Videospiele
 ---

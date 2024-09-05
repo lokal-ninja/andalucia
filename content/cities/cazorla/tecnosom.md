@@ -1,5 +1,5 @@
 ---
 title: "TECNOSOM"
 url: /cazorla/tecnosom/
-shop: electrónica
+shop: Elektronik
 ---

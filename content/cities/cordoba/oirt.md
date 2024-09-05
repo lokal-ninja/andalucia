@@ -1,5 +1,5 @@
 ---
 title: "OirT"
 url: /cordoba/oirt/
-shop: audífonos
+shop: Hörgeräte
 ---

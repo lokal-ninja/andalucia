@@ -1,5 +1,5 @@
 ---
 title: "Fergavilla"
 url: /jaen/fergavilla/
-shop: supermercado
+shop: Supermarkt
 ---

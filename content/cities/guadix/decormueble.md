@@ -1,5 +1,5 @@
 ---
 title: "Decormueble"
 url: /guadix/decormueble/
-shop: muebles
+shop: Möbel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tramas+"
 url: /cordoba/tramas/
-shop: general
+shop: Allgemein
 ---

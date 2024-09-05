@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /gines/spar/
-shop: supermercado
+shop: Supermarkt
 ---

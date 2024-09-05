@@ -1,5 +1,5 @@
 ---
 title: "Zbitt Motril"
 url: /motril/zbitt-motril/
-shop: ordenador
+shop: Computer
 ---

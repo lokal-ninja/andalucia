@@ -1,5 +1,5 @@
 ---
 title: "Bollywood"
 url: /malaga/bollywood/
-shop: frutería
+shop: Gemüse & Obst
 ---

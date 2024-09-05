@@ -1,5 +1,5 @@
 ---
 title: "Primark"
 url: /sevilla/primark/
-shop: ropa
+shop: Kleidung
 ---

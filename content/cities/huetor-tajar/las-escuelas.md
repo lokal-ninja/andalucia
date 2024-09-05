@@ -1,5 +1,5 @@
 ---
 title: "Las Escuelas"
 url: /huetor-tajar/las-escuelas/
-shop: libros
+shop: Bücher
 ---

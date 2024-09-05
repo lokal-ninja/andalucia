@@ -1,5 +1,5 @@
 ---
 title: "Semillería Las Canarias"
 url: /carmona/semilleria-las-canarias/
-shop: floristería
+shop: Blumen
 ---

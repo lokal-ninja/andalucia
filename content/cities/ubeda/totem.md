@@ -1,5 +1,5 @@
 ---
 title: "Totem"
 url: /ubeda/totem/
-shop: ropa
+shop: Kleidung
 ---

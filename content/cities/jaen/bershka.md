@@ -1,5 +1,5 @@
 ---
 title: "Bershka"
 url: /jaen/bershka/
-shop: ropa
+shop: Kleidung
 ---

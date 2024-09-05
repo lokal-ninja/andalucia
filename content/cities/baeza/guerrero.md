@@ -1,5 +1,5 @@
 ---
 title: "Guerrero"
 url: /baeza/guerrero/
-shop: joyería
+shop: Schmuck
 ---

@@ -1,5 +1,5 @@
 ---
 title: "El Rincón de Ro"
 url: /sevilla/el-rincon-de-ro/
-shop: peluquería
+shop: Friseur
 ---

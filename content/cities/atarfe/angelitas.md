@@ -1,5 +1,5 @@
 ---
 title: "Angelitas"
 url: /atarfe/angelitas/
-shop: menaje del hogar
+shop: Haushaltsartikel
 ---

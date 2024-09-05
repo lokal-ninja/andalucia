@@ -1,5 +1,5 @@
 ---
 title: "La Tahona del Artesano"
 url: /san-fernando/la-tahona-del-artesano/
-shop: panadería
+shop: Bäckerei
 ---

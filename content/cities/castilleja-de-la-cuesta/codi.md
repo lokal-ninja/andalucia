@@ -1,5 +1,5 @@
 ---
 title: "Codi"
 url: /castilleja-de-la-cuesta/codi/
-shop: supermercado
+shop: Supermarkt
 ---

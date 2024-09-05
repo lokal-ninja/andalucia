@@ -1,5 +1,5 @@
 ---
 title: "Carrefour Market"
 url: /jerez-de-la-frontera/carrefour-market/
-shop: supermercado
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Romualdo"
 url: /sevilla/romualdo/
-shop: frutería
+shop: Gemüse & Obst
 ---

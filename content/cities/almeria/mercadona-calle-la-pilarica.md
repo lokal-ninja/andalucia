@@ -1,5 +1,5 @@
 ---
 title: "Mercadona"
 url: /almeria/mercadona-calle-la-pilarica/
-shop: supermercado
+shop: Supermarkt
 ---

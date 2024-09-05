@@ -1,5 +1,5 @@
 ---
 title: "Cazorla"
 url: /cazorla/cazorla/
-shop: hardware
+shop: Eisenwaren
 ---

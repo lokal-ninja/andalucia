@@ -1,5 +1,5 @@
 ---
 title: "Sesentainueve"
 url: /sevilla/sesentainueve/
-shop: tatuaje
+shop: Tattoo
 ---

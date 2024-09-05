@@ -1,5 +1,5 @@
 ---
 title: "Fontalmanzora"
 url: /albox/fontalmanzora/
-shop: energía
+shop: Energie
 ---

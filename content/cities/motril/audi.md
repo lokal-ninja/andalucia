@@ -1,5 +1,5 @@
 ---
 title: "Audi"
 url: /motril/audi/
-shop: coche
+shop: Autohaus
 ---

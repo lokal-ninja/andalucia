@@ -1,5 +1,5 @@
 ---
 title: "Ramilux"
 url: /granada/ramilux/
-shop: general
+shop: Allgemein
 ---

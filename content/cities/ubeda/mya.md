@@ -1,5 +1,5 @@
 ---
 title: "MYA"
 url: /ubeda/mya/
-shop: peluquería
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mercadona"
 url: /villacarrillo/mercadona/
-shop: supermercado
+shop: Supermarkt
 ---

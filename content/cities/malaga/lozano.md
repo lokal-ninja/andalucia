@@ -1,5 +1,5 @@
 ---
 title: "Lozano"
 url: /malaga/lozano/
-shop: frutería
+shop: Gemüse & Obst
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Frutería Vidasana"
 url: /sevilla/fruteria-vidasana/
-shop: frutería
+shop: Gemüse & Obst
 ---

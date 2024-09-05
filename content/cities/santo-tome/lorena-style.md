@@ -1,5 +1,5 @@
 ---
 title: "Lorena Style"
 url: /santo-tome/lorena-style/
-shop: peluquería
+shop: Friseur
 ---

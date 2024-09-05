@@ -1,5 +1,5 @@
 ---
 title: "Rossellimac"
 url: /jaen/rossellimac/
-shop: ordenador
+shop: Computer
 ---

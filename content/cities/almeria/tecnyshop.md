@@ -1,5 +1,5 @@
 ---
 title: "Tecnyshop"
 url: /almeria/tecnyshop/
-shop: electrónica
+shop: Elektronik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Joker"
 url: /jaen/joker/
-shop: comodidad
+shop: Lebensmittel
 ---

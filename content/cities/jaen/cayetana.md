@@ -1,5 +1,5 @@
 ---
 title: "Cayetana"
 url: /jaen/cayetana/
-shop: ropa
+shop: Kleidung
 ---

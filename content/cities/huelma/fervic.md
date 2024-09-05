@@ -1,5 +1,5 @@
 ---
 title: "Fervic"
 url: /huelma/fervic/
-shop: joyería
+shop: Schmuck
 ---

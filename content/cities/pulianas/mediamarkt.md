@@ -1,5 +1,5 @@
 ---
 title: "MediaMarkt"
 url: /pulianas/mediamarkt/
-shop: electrónica
+shop: Elektronik
 ---

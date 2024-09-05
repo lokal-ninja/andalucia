@@ -1,5 +1,5 @@
 ---
 title: "La Cheesequería"
 url: /malaga/la-cheesequeria-calle-carreteria/
-shop: pastelería
+shop: Konditorei
 ---

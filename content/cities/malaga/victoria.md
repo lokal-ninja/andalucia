@@ -1,5 +1,5 @@
 ---
 title: "Victoria"
 url: /malaga/victoria/
-shop: cosméticos
+shop: Kosmetik
 ---

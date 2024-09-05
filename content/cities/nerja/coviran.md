@@ -1,5 +1,5 @@
 ---
 title: "Covirán"
 url: /nerja/coviran/
-shop: supermercado
+shop: Supermarkt
 ---

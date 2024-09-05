@@ -1,5 +1,5 @@
 ---
 title: "Paco"
 url: /malaga/paco/
-shop: quiosco
+shop: Zeitungen
 ---

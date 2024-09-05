@@ -1,5 +1,5 @@
 ---
 title: "Fialba"
 url: /san-juan-de-aznalfarache/fialba/
-shop: coche
+shop: Autohaus
 ---

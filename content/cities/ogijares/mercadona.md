@@ -1,5 +1,5 @@
 ---
 title: "Mercadona"
 url: /ogijares/mercadona/
-shop: supermercado
+shop: Supermarkt
 ---

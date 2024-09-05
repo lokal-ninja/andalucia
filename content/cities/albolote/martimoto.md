@@ -1,5 +1,5 @@
 ---
 title: "Martimoto"
 url: /albolote/martimoto/
-shop: motocicleta
+shop: Motorrad
 ---

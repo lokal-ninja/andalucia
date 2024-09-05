@@ -1,5 +1,5 @@
 ---
 title: "Tabaco"
 url: /jaen/tabaco/
-shop: quiosco
+shop: Kiosk
 ---

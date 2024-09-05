@@ -1,5 +1,5 @@
 ---
 title: "Decathlon"
 url: /jaen/decathlon/
-shop: deportes
+shop: Sport
 ---

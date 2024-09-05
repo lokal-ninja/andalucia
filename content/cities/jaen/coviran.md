@@ -1,5 +1,5 @@
 ---
 title: "Covirán"
 url: /jaen/coviran/
-shop: supermercado
+shop: Supermarkt
 ---

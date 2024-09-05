@@ -1,5 +1,5 @@
 ---
 title: "Go Prints"
 url: /malaga/go-prints/
-shop: copyshop
+shop: Kopieren
 ---

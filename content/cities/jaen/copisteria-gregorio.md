@@ -1,5 +1,5 @@
 ---
 title: "Copistería Gregorio"
 url: /jaen/copisteria-gregorio/
-shop: libros
+shop: Bücher
 ---

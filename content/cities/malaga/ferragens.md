@@ -1,5 +1,5 @@
 ---
 title: "Ferragens"
 url: /malaga/ferragens/
-shop: hardware
+shop: Eisenwaren
 ---

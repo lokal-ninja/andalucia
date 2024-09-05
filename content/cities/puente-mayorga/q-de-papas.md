@@ -1,5 +1,5 @@
 ---
 title: "Q. de Papas"
 url: /puente-mayorga/q-de-papas/
-shop: quiosco
+shop: Kiosk
 ---

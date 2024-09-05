@@ -1,5 +1,5 @@
 ---
 title: "Titi"
 url: /mojacar/titi/
-shop: regalo
+shop: Andenken
 ---

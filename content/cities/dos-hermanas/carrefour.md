@@ -1,5 +1,5 @@
 ---
 title: "Carrefour"
 url: /dos-hermanas/carrefour/
-shop: supermercado
+shop: Supermarkt
 ---

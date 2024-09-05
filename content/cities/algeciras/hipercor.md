@@ -1,5 +1,5 @@
 ---
 title: "Hipercor"
 url: /algeciras/hipercor/
-shop: supermercado
+shop: Supermarkt
 ---

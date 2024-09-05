@@ -1,5 +1,5 @@
 ---
 title: "Pelostop"
 url: /sevilla/pelostop/
-shop: cosméticos
+shop: Kosmetik
 ---

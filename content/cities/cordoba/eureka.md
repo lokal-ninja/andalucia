@@ -1,5 +1,5 @@
 ---
 title: "Eureka"
 url: /cordoba/eureka/
-shop: libros
+shop: Bücher
 ---

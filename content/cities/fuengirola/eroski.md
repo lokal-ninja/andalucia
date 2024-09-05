@@ -1,5 +1,5 @@
 ---
 title: "Eroski"
 url: /fuengirola/eroski/
-shop: supermercado
+shop: Supermarkt
 ---

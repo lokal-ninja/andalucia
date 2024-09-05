@@ -1,5 +1,5 @@
 ---
 title: "Promúsica"
 url: /cordoba/promusica/
-shop: instrumento musical
+shop: Instrumente
 ---

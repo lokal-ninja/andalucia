@@ -1,5 +1,5 @@
 ---
 title: "Unimarket"
 url: /cordoba/unimarket/
-shop: muebles
+shop: Möbel
 ---

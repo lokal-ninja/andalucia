@@ -1,5 +1,5 @@
 ---
 title: "local"
 url: /sevilla/local-avenida-de-coria/
-shop: vacante
+shop: Leerstehend
 ---

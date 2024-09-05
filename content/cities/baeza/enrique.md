@@ -1,5 +1,5 @@
 ---
 title: "Enrique"
 url: /baeza/enrique/
-shop: panadería
+shop: Bäckerei
 ---

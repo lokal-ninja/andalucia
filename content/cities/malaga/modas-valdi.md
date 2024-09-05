@@ -1,5 +1,5 @@
 ---
 title: "Modas Valdi"
 url: /malaga/modas-valdi/
-shop: ropa
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "El Bailaor"
 url: /galera/el-bailaor/
-shop: panadería
+shop: Bäckerei
 ---

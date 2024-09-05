@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /algeciras/aldi/
-shop: supermercado
+shop: Supermarkt
 ---

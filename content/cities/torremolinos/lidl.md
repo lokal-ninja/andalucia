@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /torremolinos/lidl/
-shop: supermercado
+shop: Supermarkt
 ---

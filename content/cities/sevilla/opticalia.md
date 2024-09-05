@@ -1,5 +1,5 @@
 ---
 title: "Opticalia"
 url: /sevilla/opticalia/
-shop: óptico
+shop: Optiker
 ---

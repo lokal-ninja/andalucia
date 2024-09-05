@@ -1,5 +1,5 @@
 ---
 title: "Buceo La Herradura"
 url: /la-herradura/buceo-la-herradura/
-shop: exterior
+shop: Outdoor
 ---

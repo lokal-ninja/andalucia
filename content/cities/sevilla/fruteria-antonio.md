@@ -1,5 +1,5 @@
 ---
 title: "Frutería Antonio"
 url: /sevilla/fruteria-antonio/
-shop: frutería
+shop: Gemüse & Obst
 ---

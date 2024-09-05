@@ -1,5 +1,5 @@
 ---
 title: "Reciclaje"
 url: /granada/reciclaje/
-shop: libros
+shop: Bücher
 ---

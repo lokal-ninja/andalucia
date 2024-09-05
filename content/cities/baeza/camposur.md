@@ -1,5 +1,5 @@
 ---
 title: "Camposur"
 url: /baeza/camposur/
-shop: coche
+shop: Autohaus
 ---

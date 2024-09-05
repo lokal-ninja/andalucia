@@ -1,5 +1,5 @@
 ---
 title: "Gao II"
 url: /malaga/gao-ii/
-shop: frutería
+shop: Gemüse & Obst
 ---

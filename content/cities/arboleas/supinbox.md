@@ -1,5 +1,5 @@
 ---
 title: "Supinbox"
 url: /arboleas/supinbox/
-shop: pintura
+shop: Farben
 ---

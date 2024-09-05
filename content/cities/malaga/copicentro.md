@@ -1,5 +1,5 @@
 ---
 title: "Copicentro"
 url: /malaga/copicentro/
-shop: copyshop
+shop: Kopieren
 ---

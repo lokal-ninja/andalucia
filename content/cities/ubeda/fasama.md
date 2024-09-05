@@ -1,5 +1,5 @@
 ---
 title: "Fasama"
 url: /ubeda/fasama/
-shop: bebidas
+shop: Getränke
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Inside"
 url: /ubeda/inside/
-shop: ropa
+shop: Kleidung
 ---

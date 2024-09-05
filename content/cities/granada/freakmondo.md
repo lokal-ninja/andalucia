@@ -1,5 +1,5 @@
 ---
 title: "Freakmondo"
 url: /granada/freakmondo/
-shop: juegos
+shop: Spiele
 ---

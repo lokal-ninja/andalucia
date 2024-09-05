@@ -1,5 +1,5 @@
 ---
 title: "La Esencia"
 url: /arroyo-frio/la-esencia/
-shop: peluquería
+shop: Friseur
 ---

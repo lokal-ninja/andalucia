@@ -1,5 +1,5 @@
 ---
 title: "Carnicería Claudio"
 url: /sevilla/carniceria-claudio/
-shop: carnicero
+shop: Metzgerei
 ---

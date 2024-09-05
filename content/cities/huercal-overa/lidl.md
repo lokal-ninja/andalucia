@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /huercal-overa/lidl/
-shop: supermercado
+shop: Supermarkt
 ---

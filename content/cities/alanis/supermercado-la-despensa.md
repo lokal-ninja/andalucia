@@ -1,5 +1,5 @@
 ---
 title: "Supermercado La Despensa"
 url: /alanis/supermercado-la-despensa/
-shop: comodidad
+shop: Lebensmittel
 ---

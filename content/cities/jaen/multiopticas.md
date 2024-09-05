@@ -1,5 +1,5 @@
 ---
 title: "Multiópticas"
 url: /jaen/multiopticas/
-shop: óptico
+shop: Optiker
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Covirán"
 url: /aldeire/coviran/
-shop: supermercado
+shop: Supermarkt
 ---

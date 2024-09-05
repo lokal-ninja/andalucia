@@ -1,5 +1,5 @@
 ---
 title: "Gremicentro"
 url: /sevilla/gremicentro/
-shop: farmacia
+shop: Drogerie
 ---

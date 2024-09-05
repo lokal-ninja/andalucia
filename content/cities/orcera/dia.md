@@ -1,5 +1,5 @@
 ---
 title: "Dia"
 url: /orcera/dia/
-shop: supermercado
+shop: Supermarkt
 ---

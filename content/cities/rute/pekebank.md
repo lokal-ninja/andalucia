@@ -1,5 +1,5 @@
 ---
 title: "Pekebank"
 url: /rute/pekebank/
-shop: confitería
+shop: Süßwaren
 ---

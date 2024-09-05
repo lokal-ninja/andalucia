@@ -1,5 +1,5 @@
 ---
 title: "REMASA"
 url: /ubeda/remasa/
-shop: alquiler
+shop: Mieten
 ---

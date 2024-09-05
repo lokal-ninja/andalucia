@@ -1,5 +1,5 @@
 ---
 title: "Alimentación y Minibazar"
 url: /malaga/alimentacion-y-minibazar/
-shop: comodidad
+shop: Lebensmittel
 ---

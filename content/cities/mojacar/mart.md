@@ -1,5 +1,5 @@
 ---
 title: "Mart"
 url: /mojacar/mart/
-shop: regalo
+shop: Andenken
 ---

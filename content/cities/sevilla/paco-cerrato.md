@@ -1,5 +1,5 @@
 ---
 title: "Paco Cerrato"
 url: /sevilla/paco-cerrato/
-shop: peluquería
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Chuchelandia"
 url: /huetor-tajar/chuchelandia/
-shop: confitería
+shop: Süßwaren
 ---

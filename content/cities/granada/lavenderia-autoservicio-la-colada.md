@@ -1,5 +1,5 @@
 ---
 title: "Lavenderia Autoservicio la Colada"
 url: /granada/lavenderia-autoservicio-la-colada/
-shop: lavandería
+shop: Wäscherei
 ---

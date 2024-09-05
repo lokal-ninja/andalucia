@@ -1,5 +1,5 @@
 ---
 title: "Fruteria Chillón"
 url: /cazorla/fruteria-chillon/
-shop: frutería
+shop: Gemüse & Obst
 ---

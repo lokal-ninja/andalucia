@@ -1,5 +1,5 @@
 ---
 title: "Primor"
 url: /jaen/primor/
-shop: cosméticos
+shop: Kosmetik
 ---

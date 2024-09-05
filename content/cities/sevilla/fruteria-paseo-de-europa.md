@@ -1,5 +1,5 @@
 ---
 title: "Frutería Paseo de Europa"
 url: /sevilla/fruteria-paseo-de-europa/
-shop: frutería
+shop: Gemüse & Obst
 ---

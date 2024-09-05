@@ -1,5 +1,5 @@
 ---
 title: "Décimas"
 url: /torremolinos/decimas/
-shop: ropa
+shop: Kleidung
 ---

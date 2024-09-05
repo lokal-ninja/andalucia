@@ -1,5 +1,5 @@
 ---
 title: "SPAinAQUA"
 url: /sevilla/spainaqua/
-shop: cosméticos
+shop: Kosmetik
 ---

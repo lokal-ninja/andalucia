@@ -1,5 +1,5 @@
 ---
 title: "Bikefullness"
 url: /malaga/bikefullness/
-shop: bicicleta
+shop: Fahrrad
 ---

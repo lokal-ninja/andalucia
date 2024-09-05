@@ -1,5 +1,5 @@
 ---
 title: "DIMA Motor Los Remedios"
 url: /sevilla/dima-motor-los-remedios/
-shop: motocicleta
+shop: Motorrad
 ---

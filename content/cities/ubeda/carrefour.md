@@ -1,5 +1,5 @@
 ---
 title: "Carrefour"
 url: /ubeda/carrefour/
-shop: supermercado
+shop: Supermarkt
 ---

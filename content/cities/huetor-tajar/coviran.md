@@ -1,5 +1,5 @@
 ---
 title: "Covirán"
 url: /huetor-tajar/coviran/
-shop: supermercado
+shop: Supermarkt
 ---

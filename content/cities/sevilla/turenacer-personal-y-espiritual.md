@@ -1,5 +1,5 @@
 ---
 title: "TuRenacer Personal y Espiritual"
 url: /sevilla/turenacer-personal-y-espiritual/
-shop: masaje
+shop: Massage
 ---

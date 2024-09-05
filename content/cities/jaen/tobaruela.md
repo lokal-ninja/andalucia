@@ -1,5 +1,5 @@
 ---
 title: "Tobaruela"
 url: /jaen/tobaruela/
-shop: bebidas
+shop: Getränke
 ---

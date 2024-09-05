@@ -1,5 +1,5 @@
 ---
 title: "Morral"
 url: /baeza/morral/
-shop: panadería
+shop: Bäckerei
 ---

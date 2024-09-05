@@ -1,5 +1,5 @@
 ---
 title: "Dia"
 url: /malaga/dia/
-shop: supermercado
+shop: Supermarkt
 ---

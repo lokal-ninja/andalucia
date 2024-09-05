@@ -1,5 +1,5 @@
 ---
 title: "Mulhacén Ski"
 url: /sierra-nevada/mulhacen-ski/
-shop: deportes
+shop: Sport
 ---

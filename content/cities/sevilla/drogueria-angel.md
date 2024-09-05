@@ -1,5 +1,5 @@
 ---
 title: "Droguería Ángel"
 url: /sevilla/drogueria-angel/
-shop: hardware
+shop: Eisenwaren
 ---

@@ -1,5 +1,5 @@
 ---
 title: "CapriXo"
 url: /jaen/caprixo/
-shop: peluquería
+shop: Friseur
 ---

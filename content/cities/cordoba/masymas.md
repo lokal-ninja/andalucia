@@ -1,5 +1,5 @@
 ---
 title: "masymas"
 url: /cordoba/masymas/
-shop: supermercado
+shop: Supermarkt
 ---

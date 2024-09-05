@@ -1,5 +1,5 @@
 ---
 title: "Movistar"
 url: /algeciras/movistar/
-shop: teléfono móvil
+shop: Handy
 ---

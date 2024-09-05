@@ -1,5 +1,5 @@
 ---
 title: "Dia"
 url: /chipiona/dia/
-shop: supermercado
+shop: Supermarkt
 ---

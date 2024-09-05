@@ -1,5 +1,5 @@
 ---
 title: "Zuccaro"
 url: /sevilla/zuccaro/
-shop: confitería
+shop: Süßwaren
 ---

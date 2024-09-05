@@ -1,5 +1,5 @@
 ---
 title: "Mercería Mely"
 url: /sevilla/merceria-mely/
-shop: coser
+shop: Nähzubehör
 ---

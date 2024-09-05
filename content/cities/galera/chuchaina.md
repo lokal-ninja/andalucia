@@ -1,5 +1,5 @@
 ---
 title: "Chuchaina"
 url: /galera/chuchaina/
-shop: supermercado
+shop: Supermarkt
 ---

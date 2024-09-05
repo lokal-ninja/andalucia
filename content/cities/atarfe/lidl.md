@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /atarfe/lidl/
-shop: supermercado
+shop: Supermarkt
 ---

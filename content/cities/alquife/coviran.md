@@ -1,5 +1,5 @@
 ---
 title: "Covirán"
 url: /alquife/coviran/
-shop: supermercado
+shop: Supermarkt
 ---

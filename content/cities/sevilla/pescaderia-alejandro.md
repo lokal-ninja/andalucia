@@ -1,5 +1,5 @@
 ---
 title: "Pescadería Alejandro"
 url: /sevilla/pescaderia-alejandro/
-shop: marisco
+shop: Fisch
 ---

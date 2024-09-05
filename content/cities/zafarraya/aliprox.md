@@ -1,5 +1,5 @@
 ---
 title: "Aliprox"
 url: /zafarraya/aliprox/
-shop: supermercado
+shop: Supermarkt
 ---

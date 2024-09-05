@@ -1,5 +1,5 @@
 ---
 title: "Yamamay"
 url: /jaen/yamamay/
-shop: ropa
+shop: Kleidung
 ---

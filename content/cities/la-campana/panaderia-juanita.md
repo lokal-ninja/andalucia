@@ -1,5 +1,5 @@
 ---
 title: "Panadería Juanita"
 url: /la-campana/panaderia-juanita/
-shop: panadería
+shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Angela González"
 url: /sevilla/angela-gonzalez/
-shop: cosméticos
+shop: Kosmetik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kiosco Esperanza"
 url: /la-linea-de-la-concepcion/kiosco-esperanza/
-shop: quiosco
+shop: Kiosk
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Primark"
 url: /cordoba/primark/
-shop: ropa
+shop: Kleidung
 ---

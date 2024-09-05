@@ -1,5 +1,5 @@
 ---
 title: "La Ternerita"
 url: /cartaya/la-ternerita/
-shop: supermercado
+shop: Supermarkt
 ---

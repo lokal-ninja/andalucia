@@ -1,5 +1,5 @@
 ---
 title: "Consum"
 url: /adra/consum/
-shop: supermercado
+shop: Supermarkt
 ---

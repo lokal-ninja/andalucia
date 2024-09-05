@@ -1,5 +1,5 @@
 ---
 title: "Habitacle"
 url: /ubeda/habitacle/
-shop: grandes almacenes
+shop: Warenhaus
 ---

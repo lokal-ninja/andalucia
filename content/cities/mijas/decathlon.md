@@ -1,5 +1,5 @@
 ---
 title: "Decathlon"
 url: /mijas/decathlon/
-shop: deportes
+shop: Sport
 ---

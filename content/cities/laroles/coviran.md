@@ -1,5 +1,5 @@
 ---
 title: "Covirán"
 url: /laroles/coviran/
-shop: supermercado
+shop: Supermarkt
 ---

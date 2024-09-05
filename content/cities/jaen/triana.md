@@ -1,5 +1,5 @@
 ---
 title: "Triana"
 url: /jaen/triana/
-shop: confitería
+shop: Süßwaren
 ---

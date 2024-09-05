@@ -1,5 +1,5 @@
 ---
 title: "Škoda"
 url: /algeciras/skoda/
-shop: coche
+shop: Autohaus
 ---

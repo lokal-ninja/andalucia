@@ -1,5 +1,5 @@
 ---
 title: "Primadora"
 url: /almeria/primadora/
-shop: zapatos
+shop: Schuhe
 ---

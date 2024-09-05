@@ -1,5 +1,5 @@
 ---
 title: "Dextremadura Supermercado"
 url: /sevilla/dextremadura-supermercado/
-shop: charcutería
+shop: Feinkost
 ---

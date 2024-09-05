@@ -1,5 +1,5 @@
 ---
 title: "PELUQUERIA MARIBEL"
 url: /peal-de-becerro/peluqueria-maribel/
-shop: peluquería
+shop: Friseur
 ---

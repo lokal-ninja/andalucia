@@ -1,5 +1,5 @@
 ---
 title: "FARMAPLANT"
 url: /sevilla/farmaplant/
-shop: herbolario
+shop: Kräuter
 ---

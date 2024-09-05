@@ -1,5 +1,5 @@
 ---
 title: "Supeco"
 url: /san-fernando/supeco/
-shop: supermercado
+shop: Supermarkt
 ---

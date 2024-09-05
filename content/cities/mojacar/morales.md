@@ -1,5 +1,5 @@
 ---
 title: "Morales"
 url: /mojacar/morales/
-shop: carnicero
+shop: Metzgerei
 ---

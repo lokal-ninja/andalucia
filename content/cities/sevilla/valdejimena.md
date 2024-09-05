@@ -1,5 +1,5 @@
 ---
 title: "Valdejimena"
 url: /sevilla/valdejimena/
-shop: supermercado
+shop: Supermarkt
 ---

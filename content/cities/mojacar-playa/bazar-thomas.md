@@ -1,5 +1,5 @@
 ---
 title: "Bazar Thomas"
 url: /mojacar-playa/bazar-thomas/
-shop: general
+shop: Allgemein
 ---

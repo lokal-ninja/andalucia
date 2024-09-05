@@ -1,5 +1,5 @@
 ---
 title: "El Canario"
 url: /guadix/el-canario/
-shop: hardware
+shop: Eisenwaren
 ---

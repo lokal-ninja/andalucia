@@ -1,5 +1,5 @@
 ---
 title: "Jogafran"
 url: /ubeda/jogafran/
-shop: mayorista
+shop: Großhandel
 ---

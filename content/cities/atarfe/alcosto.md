@@ -1,5 +1,5 @@
 ---
 title: "Alcosto"
 url: /atarfe/alcosto/
-shop: ropa
+shop: Kleidung
 ---

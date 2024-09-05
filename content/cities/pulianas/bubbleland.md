@@ -1,5 +1,5 @@
 ---
 title: "Bubbleland"
 url: /pulianas/bubbleland/
-shop: confitería
+shop: Süßwaren
 ---

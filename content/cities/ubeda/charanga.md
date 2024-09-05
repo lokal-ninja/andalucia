@@ -1,5 +1,5 @@
 ---
 title: "Charanga"
 url: /ubeda/charanga/
-shop: ropa
+shop: Kleidung
 ---

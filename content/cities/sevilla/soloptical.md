@@ -1,5 +1,5 @@
 ---
 title: "Soloptical"
 url: /sevilla/soloptical/
-shop: óptico
+shop: Optiker
 ---

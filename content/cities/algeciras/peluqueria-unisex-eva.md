@@ -1,5 +1,5 @@
 ---
 title: "Peluquería Unisex Eva"
 url: /algeciras/peluqueria-unisex-eva/
-shop: peluquería
+shop: Friseur
 ---

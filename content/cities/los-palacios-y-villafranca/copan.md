@@ -1,5 +1,5 @@
 ---
 title: "COPAN"
 url: /los-palacios-y-villafranca/copan/
-shop: panadería
+shop: Bäckerei
 ---

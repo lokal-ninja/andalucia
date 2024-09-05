@@ -1,5 +1,5 @@
 ---
 title: "Paris"
 url: /cazorla/paris/
-shop: peluquería
+shop: Friseur
 ---

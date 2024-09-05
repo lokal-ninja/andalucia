@@ -1,5 +1,5 @@
 ---
 title: "Andrea"
 url: /mojacar/andrea/
-shop: general
+shop: Allgemein
 ---

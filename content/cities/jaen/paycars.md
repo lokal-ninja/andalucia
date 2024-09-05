@@ -1,5 +1,5 @@
 ---
 title: "Paycar's"
 url: /jaen/paycars/
-shop: ropa
+shop: Kleidung
 ---

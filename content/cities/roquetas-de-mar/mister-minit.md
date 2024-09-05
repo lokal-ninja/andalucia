@@ -1,5 +1,5 @@
 ---
 title: "Mister Minit"
 url: /roquetas-de-mar/mister-minit/
-shop: cerrajero
+shop: Schlüsseldienst
 ---

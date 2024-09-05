@@ -1,5 +1,5 @@
 ---
 title: "Jucamp"
 url: /ubeda/jucamp/
-shop: general
+shop: Allgemein
 ---

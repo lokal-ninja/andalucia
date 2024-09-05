@@ -1,5 +1,5 @@
 ---
 title: "Las Lagunas"
 url: /las-lagunas/las-lagunas/
-shop: panadería
+shop: Bäckerei
 ---

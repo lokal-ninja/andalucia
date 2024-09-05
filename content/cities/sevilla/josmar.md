@@ -1,5 +1,5 @@
 ---
 title: "Josmar"
 url: /sevilla/josmar/
-shop: hardware
+shop: Eisenwaren
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Supercor"
 url: /malaga/supercor/
-shop: supermercado
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kiabi"
 url: /motril/kiabi/
-shop: ropa
+shop: Kleidung
 ---

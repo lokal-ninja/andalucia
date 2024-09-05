@@ -1,5 +1,5 @@
 ---
 title: "Encuentra"
 url: /cordoba/encuentra/
-shop: hardware
+shop: Eisenwaren
 ---

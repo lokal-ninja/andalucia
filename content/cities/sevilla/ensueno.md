@@ -1,5 +1,5 @@
 ---
 title: "Ensueño"
 url: /sevilla/ensueno/
-shop: tela
+shop: Textil
 ---

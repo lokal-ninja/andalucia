@@ -1,5 +1,5 @@
 ---
 title: "Covirán"
 url: /algeciras/coviran/
-shop: supermercado
+shop: Supermarkt
 ---

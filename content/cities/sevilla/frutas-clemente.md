@@ -1,5 +1,5 @@
 ---
 title: "Frutas Clemente"
 url: /sevilla/frutas-clemente/
-shop: frutería
+shop: Gemüse & Obst
 ---

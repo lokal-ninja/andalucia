@@ -1,5 +1,5 @@
 ---
 title: "Sáenz"
 url: /malaga/saenz/
-shop: hardware
+shop: Eisenwaren
 ---

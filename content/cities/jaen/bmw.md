@@ -1,5 +1,5 @@
 ---
 title: "BMW"
 url: /jaen/bmw/
-shop: coche
+shop: Autohaus
 ---

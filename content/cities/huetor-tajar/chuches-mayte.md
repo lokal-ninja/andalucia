@@ -1,5 +1,5 @@
 ---
 title: "Chuches Mayte"
 url: /huetor-tajar/chuches-mayte/
-shop: confitería
+shop: Süßwaren
 ---

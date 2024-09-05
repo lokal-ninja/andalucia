@@ -1,5 +1,5 @@
 ---
 title: "Concesionario Mercedes Benz"
 url: /sevilla/concesionario-mercedes-benz/
-shop: coche
+shop: Autohaus
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Duldi"
 url: /pulianas/duldi/
-shop: confitería
+shop: Süßwaren
 ---

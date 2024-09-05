@@ -1,5 +1,5 @@
 ---
 title: "Milar"
 url: /cabra/milar/
-shop: electrónica
+shop: Elektronik
 ---

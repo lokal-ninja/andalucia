@@ -1,5 +1,5 @@
 ---
 title: "Optimar"
 url: /fuengirola/optimar/
-shop: óptico
+shop: Optiker
 ---

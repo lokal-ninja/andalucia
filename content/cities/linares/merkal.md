@@ -1,5 +1,5 @@
 ---
 title: "Merkal"
 url: /linares/merkal/
-shop: zapatos
+shop: Schuhe
 ---

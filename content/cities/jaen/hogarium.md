@@ -1,5 +1,5 @@
 ---
 title: "Hogarium"
 url: /jaen/hogarium/
-shop: cama
+shop: Betten
 ---

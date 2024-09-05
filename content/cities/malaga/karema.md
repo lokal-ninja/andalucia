@@ -1,5 +1,5 @@
 ---
 title: "Karema"
 url: /malaga/karema/
-shop: peluquería
+shop: Friseur
 ---

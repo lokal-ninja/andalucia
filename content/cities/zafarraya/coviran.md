@@ -1,5 +1,5 @@
 ---
 title: "Covirán"
 url: /zafarraya/coviran/
-shop: supermercado
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "TuSuper"
 url: /granada/tusuper/
-shop: supermercado
+shop: Supermarkt
 ---

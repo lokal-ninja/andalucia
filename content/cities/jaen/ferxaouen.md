@@ -1,5 +1,5 @@
 ---
 title: "Ferxaouen"
 url: /jaen/ferxaouen/
-shop: hardware
+shop: Eisenwaren
 ---

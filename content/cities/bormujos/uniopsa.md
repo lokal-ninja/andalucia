@@ -1,5 +1,5 @@
 ---
 title: "Uniopsa"
 url: /bormujos/uniopsa/
-shop: óptico
+shop: Optiker
 ---

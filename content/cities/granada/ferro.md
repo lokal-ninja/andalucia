@@ -1,5 +1,5 @@
 ---
 title: "Ferro"
 url: /granada/ferro/
-shop: carnicero
+shop: Metzgerei
 ---

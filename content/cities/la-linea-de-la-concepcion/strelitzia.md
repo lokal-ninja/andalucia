@@ -1,5 +1,5 @@
 ---
 title: "Strelitzia"
 url: /la-linea-de-la-concepcion/strelitzia/
-shop: floristería
+shop: Blumen
 ---

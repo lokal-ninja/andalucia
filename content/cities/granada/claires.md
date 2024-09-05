@@ -1,5 +1,5 @@
 ---
 title: "claire's"
 url: /granada/claires/
-shop: tienda
+shop: Modehaus
 ---

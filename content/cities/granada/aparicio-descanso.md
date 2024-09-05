@@ -1,5 +1,5 @@
 ---
 title: "Aparicio Descanso"
 url: /granada/aparicio-descanso/
-shop: muebles
+shop: Möbel
 ---

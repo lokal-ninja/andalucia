@@ -1,5 +1,5 @@
 ---
 title: "Tandy"
 url: /santo-tome/tandy/
-shop: supermercado
+shop: Supermarkt
 ---

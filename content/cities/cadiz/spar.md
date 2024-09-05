@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /cadiz/spar/
-shop: supermercado
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "MAS"
 url: /camas/mas/
-shop: supermercado
+shop: Supermarkt
 ---

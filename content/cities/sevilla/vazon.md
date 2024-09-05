@@ -1,5 +1,5 @@
 ---
 title: "Vazón"
 url: /sevilla/vazon/
-shop: joyería
+shop: Schmuck
 ---

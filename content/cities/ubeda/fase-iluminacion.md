@@ -1,5 +1,5 @@
 ---
 title: "FASE Iluminación"
 url: /ubeda/fase-iluminacion/
-shop: eléctrico
+shop: Elektrisch
 ---

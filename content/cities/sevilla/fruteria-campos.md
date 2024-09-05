@@ -1,5 +1,5 @@
 ---
 title: "Frutería Campos"
 url: /sevilla/fruteria-campos/
-shop: frutería
+shop: Gemüse & Obst
 ---

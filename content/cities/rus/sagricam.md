@@ -1,5 +1,5 @@
 ---
 title: "SAGRICAM"
 url: /rus/sagricam/
-shop: agraria
+shop: Landwirtschaftlich
 ---

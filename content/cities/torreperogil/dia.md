@@ -1,5 +1,5 @@
 ---
 title: "Dia"
 url: /torreperogil/dia/
-shop: supermercado
+shop: Supermarkt
 ---

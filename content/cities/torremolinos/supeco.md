@@ -1,5 +1,5 @@
 ---
 title: "Supeco"
 url: /torremolinos/supeco/
-shop: supermercado
+shop: Supermarkt
 ---

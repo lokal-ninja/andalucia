@@ -1,5 +1,5 @@
 ---
 title: "Melopido"
 url: /jaen/melopido/
-shop: regalo
+shop: Andenken
 ---

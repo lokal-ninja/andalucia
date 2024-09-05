@@ -1,5 +1,5 @@
 ---
 title: "Diprofont"
 url: /malaga/diprofont/
-shop: muebles
+shop: Möbel
 ---

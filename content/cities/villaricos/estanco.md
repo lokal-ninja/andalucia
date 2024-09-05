@@ -1,5 +1,5 @@
 ---
 title: "Estanco"
 url: /villaricos/estanco/
-shop: tabaco
+shop: Tabak
 ---

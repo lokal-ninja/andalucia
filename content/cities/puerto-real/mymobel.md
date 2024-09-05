@@ -1,5 +1,5 @@
 ---
 title: "MyMobel"
 url: /puerto-real/mymobel/
-shop: muebles
+shop: Möbel
 ---

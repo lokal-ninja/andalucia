@@ -1,5 +1,5 @@
 ---
 title: "Puri"
 url: /begijar/puri/
-shop: supermercado
+shop: Supermarkt
 ---

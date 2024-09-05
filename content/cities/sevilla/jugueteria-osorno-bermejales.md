@@ -1,5 +1,5 @@
 ---
 title: "Juguetería Osorno Bermejales"
 url: /sevilla/jugueteria-osorno-bermejales/
-shop: juguetes
+shop: Spielzeug
 ---

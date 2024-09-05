@@ -1,5 +1,5 @@
 ---
 title: "Juan Osete"
 url: /sevilla/juan-osete/
-shop: ropa
+shop: Kleidung
 ---

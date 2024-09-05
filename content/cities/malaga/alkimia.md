@@ -1,5 +1,5 @@
 ---
 title: "Alkimia"
 url: /malaga/alkimia/
-shop: peluquería
+shop: Friseur
 ---

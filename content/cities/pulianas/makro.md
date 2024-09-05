@@ -1,5 +1,5 @@
 ---
 title: "Makro"
 url: /pulianas/makro/
-shop: mayorista
+shop: Großhandel
 ---

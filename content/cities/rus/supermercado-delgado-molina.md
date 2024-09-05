@@ -1,5 +1,5 @@
 ---
 title: "Supermercado Delgado Molina"
 url: /rus/supermercado-delgado-molina/
-shop: supermercado
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mercadona"
 url: /motril/mercadona/
-shop: supermercado
+shop: Supermarkt
 ---

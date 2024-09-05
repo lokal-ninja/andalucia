@@ -1,5 +1,5 @@
 ---
 title: "Pub California"
 url: /baeza/pub-california/
-shop: cocina
+shop: Küchen
 ---

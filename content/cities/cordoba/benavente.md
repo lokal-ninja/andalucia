@@ -1,5 +1,5 @@
 ---
 title: "Benavente"
 url: /cordoba/benavente/
-shop: zapatos
+shop: Schuhe
 ---

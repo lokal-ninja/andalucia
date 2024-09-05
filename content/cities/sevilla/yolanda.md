@@ -1,5 +1,5 @@
 ---
 title: "Yolanda"
 url: /sevilla/yolanda/
-shop: zapatos
+shop: Schuhe
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Movistar"
 url: /dos-hermanas/movistar/
-shop: teléfono móvil
+shop: Handy
 ---

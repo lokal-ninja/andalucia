@@ -1,5 +1,5 @@
 ---
 title: "Mavi"
 url: /torrox-costa/mavi/
-shop: ropa
+shop: Kleidung
 ---

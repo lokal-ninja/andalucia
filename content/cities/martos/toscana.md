@@ -1,5 +1,5 @@
 ---
 title: "Toscana"
 url: /martos/toscana/
-shop: general
+shop: Allgemein
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Caprice Souvenirs"
 url: /velilla-taramay/caprice-souvenirs/
-shop: regalo
+shop: Andenken
 ---

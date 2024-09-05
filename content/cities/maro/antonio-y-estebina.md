@@ -1,5 +1,5 @@
 ---
 title: "Antonio Y Estebina"
 url: /maro/antonio-y-estebina/
-shop: supermercado
+shop: Supermarkt
 ---

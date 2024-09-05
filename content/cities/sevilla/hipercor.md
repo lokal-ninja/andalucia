@@ -1,5 +1,5 @@
 ---
 title: "Hipercor"
 url: /sevilla/hipercor/
-shop: supermercado
+shop: Supermarkt
 ---

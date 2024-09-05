@@ -1,5 +1,5 @@
 ---
 title: "Dia"
 url: /cambil/dia/
-shop: supermercado
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /garrucha/lidl/
-shop: supermercado
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Speed"
 url: /baeza/speed/
-shop: ordenador
+shop: Computer
 ---

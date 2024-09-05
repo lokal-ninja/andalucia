@@ -1,5 +1,5 @@
 ---
 title: "Sprinter"
 url: /cordoba/sprinter/
-shop: deportes
+shop: Sport
 ---

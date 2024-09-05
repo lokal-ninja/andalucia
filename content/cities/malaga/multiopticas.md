@@ -1,5 +1,5 @@
 ---
 title: "Multiópticas"
 url: /malaga/multiopticas/
-shop: óptico
+shop: Optiker
 ---

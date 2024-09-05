@@ -1,5 +1,5 @@
 ---
 title: "Natura"
 url: /sevilla/natura/
-shop: ropa
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "ATresColor"
 url: /malaga/atrescolor/
-shop: copyshop
+shop: Kopieren
 ---

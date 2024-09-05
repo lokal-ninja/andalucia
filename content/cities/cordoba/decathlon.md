@@ -1,5 +1,5 @@
 ---
 title: "Decathlon"
 url: /cordoba/decathlon/
-shop: deportes
+shop: Sport
 ---

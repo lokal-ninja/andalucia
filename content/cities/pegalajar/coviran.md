@@ -1,5 +1,5 @@
 ---
 title: "Covirán"
 url: /pegalajar/coviran/
-shop: supermercado
+shop: Supermarkt
 ---

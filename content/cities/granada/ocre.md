@@ -1,5 +1,5 @@
 ---
 title: "Ocre"
 url: /granada/ocre/
-shop: ropa
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dia"
 url: /chiclana-de-la-frontera/dia/
-shop: supermercado
+shop: Supermarkt
 ---

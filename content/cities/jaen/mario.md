@@ -1,5 +1,5 @@
 ---
 title: "Mario"
 url: /jaen/mario/
-shop: comodidad
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dia"
 url: /baeza/dia/
-shop: supermercado
+shop: Supermarkt
 ---

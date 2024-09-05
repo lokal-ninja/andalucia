@@ -1,5 +1,5 @@
 ---
 title: "Simosur"
 url: /jaen/simosur/
-shop: ordenador
+shop: Computer
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cash Fresh"
 url: /cordoba/cash-fresh/
-shop: supermercado
+shop: Supermarkt
 ---

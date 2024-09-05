@@ -1,5 +1,5 @@
 ---
 title: "Runningway"
 url: /sevilla/runningway/
-shop: deportes
+shop: Sport
 ---

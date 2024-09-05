@@ -1,5 +1,5 @@
 ---
 title: "MAS"
 url: /sevilla/mas/
-shop: supermercado
+shop: Supermarkt
 ---

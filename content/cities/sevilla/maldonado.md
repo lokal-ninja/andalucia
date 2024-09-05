@@ -1,5 +1,5 @@
 ---
 title: "Maldonado"
 url: /sevilla/maldonado/
-shop: marisco
+shop: Fisch
 ---

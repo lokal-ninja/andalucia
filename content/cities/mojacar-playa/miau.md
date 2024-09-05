@@ -1,5 +1,5 @@
 ---
 title: "Miau"
 url: /mojacar-playa/miau/
-shop: ropa
+shop: Kleidung
 ---

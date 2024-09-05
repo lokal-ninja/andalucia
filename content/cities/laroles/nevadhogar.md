@@ -1,5 +1,5 @@
 ---
 title: "Nevadhogar"
 url: /laroles/nevadhogar/
-shop: menaje del hogar
+shop: Haushaltsartikel
 ---

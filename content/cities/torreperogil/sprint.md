@@ -1,5 +1,5 @@
 ---
 title: "Sprint"
 url: /torreperogil/sprint/
-shop: supermercado
+shop: Supermarkt
 ---

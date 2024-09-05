@@ -1,5 +1,5 @@
 ---
 title: "Rojas"
 url: /cordoba/rojas/
-shop: frutería
+shop: Gemüse & Obst
 ---

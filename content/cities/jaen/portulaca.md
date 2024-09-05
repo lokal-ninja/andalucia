@@ -1,5 +1,5 @@
 ---
 title: "Portulaca"
 url: /jaen/portulaca/
-shop: regalo
+shop: Andenken
 ---

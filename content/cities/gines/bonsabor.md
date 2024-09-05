@@ -1,5 +1,5 @@
 ---
 title: "Bonsabor"
 url: /gines/bonsabor/
-shop: carnicero
+shop: Metzgerei
 ---

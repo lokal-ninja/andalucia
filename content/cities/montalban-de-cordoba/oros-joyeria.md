@@ -1,5 +1,5 @@
 ---
 title: "Oro's Joyería"
 url: /montalban-de-cordoba/oros-joyeria/
-shop: joyería
+shop: Schmuck
 ---

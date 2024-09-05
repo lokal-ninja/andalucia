@@ -1,5 +1,5 @@
 ---
 title: "Covirán"
 url: /orcera/coviran/
-shop: supermercado
+shop: Supermarkt
 ---

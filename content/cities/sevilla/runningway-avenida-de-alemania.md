@@ -1,5 +1,5 @@
 ---
 title: "Runningway"
 url: /sevilla/runningway-avenida-de-alemania/
-shop: ropa
+shop: Kleidung
 ---

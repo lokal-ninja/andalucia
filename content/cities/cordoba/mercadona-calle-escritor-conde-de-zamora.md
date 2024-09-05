@@ -1,5 +1,5 @@
 ---
 title: "Mercadona"
 url: /cordoba/mercadona-calle-escritor-conde-de-zamora/
-shop: supermercado
+shop: Supermarkt
 ---

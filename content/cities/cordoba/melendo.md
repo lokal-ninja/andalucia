@@ -1,5 +1,5 @@
 ---
 title: "Melendo"
 url: /cordoba/melendo/
-shop: mayorista
+shop: Großhandel
 ---

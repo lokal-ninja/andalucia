@@ -1,5 +1,5 @@
 ---
 title: "Mercadona"
 url: /baeza/mercadona/
-shop: supermercado
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Skisol"
 url: /sierra-nevada/skisol/
-shop: deportes
+shop: Sport
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Textil Muebles Torrecillas"
 url: /cazorla/textil-muebles-torrecillas/
-shop: muebles
+shop: Möbel
 ---

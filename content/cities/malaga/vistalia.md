@@ -1,5 +1,5 @@
 ---
 title: "Vistalia"
 url: /malaga/vistalia/
-shop: óptico
+shop: Optiker
 ---

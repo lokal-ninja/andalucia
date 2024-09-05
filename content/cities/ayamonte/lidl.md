@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /ayamonte/lidl/
-shop: supermercado
+shop: Supermarkt
 ---

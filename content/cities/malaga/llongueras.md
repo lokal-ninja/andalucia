@@ -1,5 +1,5 @@
 ---
 title: "Llongueras"
 url: /malaga/llongueras/
-shop: peluquería
+shop: Friseur
 ---

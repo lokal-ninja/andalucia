@@ -1,5 +1,5 @@
 ---
 title: "Arte-Sano"
 url: /sevilla/arte-sano/
-shop: regalo
+shop: Andenken
 ---

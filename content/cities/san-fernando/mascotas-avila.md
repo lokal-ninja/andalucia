@@ -1,5 +1,5 @@
 ---
 title: "Mascotas Ávila"
 url: /san-fernando/mascotas-avila/
-shop: mascotas
+shop: Tiere
 ---

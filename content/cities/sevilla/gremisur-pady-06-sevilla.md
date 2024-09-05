@@ -1,5 +1,5 @@
 ---
 title: "Gremisur Pady 06 Sevilla"
 url: /sevilla/gremisur-pady-06-sevilla/
-shop: suministros de peluquería
+shop: Friseurbedarf
 ---

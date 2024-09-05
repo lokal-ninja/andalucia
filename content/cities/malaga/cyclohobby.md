@@ -1,5 +1,5 @@
 ---
 title: "Cyclohobby"
 url: /malaga/cyclohobby/
-shop: bicicleta
+shop: Fahrrad
 ---

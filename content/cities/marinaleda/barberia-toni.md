@@ -1,5 +1,5 @@
 ---
 title: "Barbería Toni"
 url: /marinaleda/barberia-toni/
-shop: peluquería
+shop: Friseur
 ---

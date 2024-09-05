@@ -1,5 +1,5 @@
 ---
 title: "Confitería Lola"
 url: /sevilla/confiteria-lola/
-shop: panadería
+shop: Bäckerei
 ---

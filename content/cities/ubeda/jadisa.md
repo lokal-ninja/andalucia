@@ -1,5 +1,5 @@
 ---
 title: "Jadisa"
 url: /ubeda/jadisa/
-shop: coche
+shop: Autohaus
 ---

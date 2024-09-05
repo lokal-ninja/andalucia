@@ -1,5 +1,5 @@
 ---
 title: "Juanma"
 url: /huelva/juanma/
-shop: carnicero
+shop: Metzgerei
 ---

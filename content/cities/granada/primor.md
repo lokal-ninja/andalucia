@@ -1,5 +1,5 @@
 ---
 title: "Primor"
 url: /granada/primor/
-shop: cosméticos
+shop: Kosmetik
 ---

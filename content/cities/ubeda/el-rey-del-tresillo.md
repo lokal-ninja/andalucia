@@ -1,5 +1,5 @@
 ---
 title: "El Rey del Tresillo"
 url: /ubeda/el-rey-del-tresillo/
-shop: muebles
+shop: Möbel
 ---

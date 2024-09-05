@@ -1,5 +1,5 @@
 ---
 title: "Mercadona"
 url: /huercal-overa/mercadona/
-shop: supermercado
+shop: Supermarkt
 ---

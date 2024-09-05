@@ -1,5 +1,5 @@
 ---
 title: "Fanátiko"
 url: /malaga/fanatiko/
-shop: colector
+shop: Sammler
 ---

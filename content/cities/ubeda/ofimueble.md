@@ -1,5 +1,5 @@
 ---
 title: "Ofimueble"
 url: /ubeda/ofimueble/
-shop: muebles
+shop: Möbel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Passion"
 url: /sevilla/passion/
-shop: ropa
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "La Quintaesencia"
 url: /puerto-real/la-quintaesencia/
-shop: libros
+shop: Bücher
 ---

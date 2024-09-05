@@ -1,5 +1,5 @@
 ---
 title: "PCBox"
 url: /granada/pcbox/
-shop: ordenador
+shop: Computer
 ---

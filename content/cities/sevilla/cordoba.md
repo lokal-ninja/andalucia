@@ -1,5 +1,5 @@
 ---
 title: "Córdoba"
 url: /sevilla/cordoba/
-shop: frutería
+shop: Gemüse & Obst
 ---

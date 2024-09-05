@@ -1,5 +1,5 @@
 ---
 title: "Moni"
 url: /sevilla/moni/
-shop: tienda de variedades
+shop: Kramladen
 ---

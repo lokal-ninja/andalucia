@@ -1,5 +1,5 @@
 ---
 title: "Sonimart"
 url: /atarfe/sonimart/
-shop: electrónica
+shop: Elektronik
 ---

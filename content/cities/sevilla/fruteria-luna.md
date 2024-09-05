@@ -1,5 +1,5 @@
 ---
 title: "Frutería Luna"
 url: /sevilla/fruteria-luna/
-shop: frutería
+shop: Gemüse & Obst
 ---

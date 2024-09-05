@@ -1,5 +1,5 @@
 ---
 title: "Hadi"
 url: /jaen/hadi/
-shop: frutería
+shop: Gemüse & Obst
 ---

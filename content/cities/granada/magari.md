@@ -1,5 +1,5 @@
 ---
 title: "Magari"
 url: /granada/magari/
-shop: ropa
+shop: Kleidung
 ---

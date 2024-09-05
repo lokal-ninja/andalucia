@@ -1,5 +1,5 @@
 ---
 title: "Renault"
 url: /santa-fe/renault/
-shop: coche
+shop: Autohaus
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Primor"
 url: /malaga/primor/
-shop: cosméticos
+shop: Kosmetik
 ---

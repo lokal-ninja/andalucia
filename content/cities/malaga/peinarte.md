@@ -1,5 +1,5 @@
 ---
 title: "Peinarte"
 url: /malaga/peinarte/
-shop: peluquería
+shop: Friseur
 ---

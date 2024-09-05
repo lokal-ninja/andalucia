@@ -1,5 +1,5 @@
 ---
 title: "La Nutrishop"
 url: /san-fernando/la-nutrishop/
-shop: general
+shop: Allgemein
 ---

@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /algeciras/gamestop/
-shop: videojuegos
+shop: Videospiele
 ---

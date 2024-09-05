@@ -1,5 +1,5 @@
 ---
 title: "Masymas"
 url: /jamilena/masymas/
-shop: supermercado
+shop: Supermarkt
 ---

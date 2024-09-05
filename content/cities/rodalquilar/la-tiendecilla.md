@@ -1,5 +1,5 @@
 ---
 title: "La Tiendecilla"
 url: /rodalquilar/la-tiendecilla/
-shop: supermercado
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Delibros"
 url: /marbella/delibros/
-shop: libros
+shop: Bücher
 ---

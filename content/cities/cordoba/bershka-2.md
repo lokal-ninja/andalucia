@@ -1,5 +1,5 @@
 ---
 title: "Bershka"
 url: /cordoba/bershka-2/
-shop: ropa
+shop: Kleidung
 ---

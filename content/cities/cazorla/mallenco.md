@@ -1,5 +1,5 @@
 ---
 title: "Mallenco"
 url: /cazorla/mallenco/
-shop: peluquería
+shop: Friseur
 ---

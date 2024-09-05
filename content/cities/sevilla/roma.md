@@ -1,5 +1,5 @@
 ---
 title: "Roma"
 url: /sevilla/roma/
-shop: hardware
+shop: Eisenwaren
 ---

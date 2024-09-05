@@ -1,5 +1,5 @@
 ---
 title: "Sirmac"
 url: /sevilla/sirmac/
-shop: ordenador
+shop: Computer
 ---

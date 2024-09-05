@@ -1,5 +1,5 @@
 ---
 title: "Isuma"
 url: /granada/isuma/
-shop: ropa
+shop: Kleidung
 ---

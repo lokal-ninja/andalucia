@@ -1,5 +1,5 @@
 ---
 title: "Tintorería Evangelista"
 url: /sevilla/tintoreria-evangelista/
-shop: lavandería
+shop: Wäscherei
 ---

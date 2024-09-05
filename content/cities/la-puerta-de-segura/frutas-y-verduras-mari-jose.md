@@ -1,5 +1,5 @@
 ---
 title: "Frutas y Verduras Mari Jose"
 url: /la-puerta-de-segura/frutas-y-verduras-mari-jose/
-shop: frutería
+shop: Gemüse & Obst
 ---

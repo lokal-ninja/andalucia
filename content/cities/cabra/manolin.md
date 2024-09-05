@@ -1,5 +1,5 @@
 ---
 title: "Manolín"
 url: /cabra/manolin/
-shop: hardware
+shop: Eisenwaren
 ---

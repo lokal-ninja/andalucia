@@ -1,5 +1,5 @@
 ---
 title: "El Jamón"
 url: /sevilla/el-jamon-avenida-santa-cecilia/
-shop: supermercado
+shop: Supermarkt
 ---

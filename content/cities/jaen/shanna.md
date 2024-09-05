@@ -1,5 +1,5 @@
 ---
 title: "Shanna"
 url: /jaen/shanna/
-shop: ropa
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Encuentro"
 url: /jaen/encuentro/
-shop: ropa
+shop: Kleidung
 ---

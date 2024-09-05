@@ -1,5 +1,5 @@
 ---
 title: "Los Mellizos"
 url: /cambil/los-mellizos/
-shop: panadería
+shop: Bäckerei
 ---

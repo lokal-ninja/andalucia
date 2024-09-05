@@ -1,5 +1,5 @@
 ---
 title: "El Chango"
 url: /maracena/el-chango/
-shop: carnicero
+shop: Metzgerei
 ---

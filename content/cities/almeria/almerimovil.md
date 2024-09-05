@@ -1,5 +1,5 @@
 ---
 title: "Almerimóvil"
 url: /almeria/almerimovil/
-shop: comodidad
+shop: Lebensmittel
 ---

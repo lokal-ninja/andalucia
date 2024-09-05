@@ -1,5 +1,5 @@
 ---
 title: "Piedra"
 url: /cordoba/piedra/
-shop: supermercado
+shop: Supermarkt
 ---

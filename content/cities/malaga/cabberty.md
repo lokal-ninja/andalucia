@@ -1,5 +1,5 @@
 ---
 title: "Cabberty"
 url: /malaga/cabberty/
-shop: bicicleta
+shop: Fahrrad
 ---

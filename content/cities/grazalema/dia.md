@@ -1,5 +1,5 @@
 ---
 title: "Dia"
 url: /grazalema/dia/
-shop: supermercado
+shop: Supermarkt
 ---

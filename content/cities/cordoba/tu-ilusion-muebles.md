@@ -1,5 +1,5 @@
 ---
 title: "Tu Ilusión Muebles"
 url: /cordoba/tu-ilusion-muebles/
-shop: muebles
+shop: Möbel
 ---

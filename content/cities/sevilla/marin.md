@@ -1,5 +1,5 @@
 ---
 title: "Marín"
 url: /sevilla/marin/
-shop: hardware
+shop: Eisenwaren
 ---
