@@ -1,5 +1,5 @@
 ---
 title: "Carrefour Express"
 url: /almeria/carrefour-express/
-shop: Supermarkt
+shop: supermercado
 ---

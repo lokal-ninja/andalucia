@@ -1,5 +1,5 @@
 ---
 title: "Herbolario Palencia"
 url: /granada/herbolario-palencia/
-shop: Kräuter
+shop: herbolario
 ---

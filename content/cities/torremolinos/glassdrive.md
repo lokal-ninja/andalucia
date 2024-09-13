@@ -1,5 +1,5 @@
 ---
 title: "GLASSDRIVE"
 url: /torremolinos/glassdrive/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

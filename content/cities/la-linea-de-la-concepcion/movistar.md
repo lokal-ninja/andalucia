@@ -1,5 +1,5 @@
 ---
 title: "Movistar"
 url: /la-linea-de-la-concepcion/movistar/
-shop: Handy
+shop: teléfono móvil
 ---

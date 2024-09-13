@@ -1,5 +1,5 @@
 ---
 title: "Covirán"
 url: /galera/coviran/
-shop: Supermarkt
+shop: supermercado
 ---

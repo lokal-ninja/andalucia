@@ -1,5 +1,5 @@
 ---
 title: "Floristería y vivero"
 url: /sevilla/floristeria-y-vivero/
-shop: Blumen
+shop: floristería
 ---

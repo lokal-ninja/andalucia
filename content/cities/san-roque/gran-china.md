@@ -1,5 +1,5 @@
 ---
 title: "Gran China"
 url: /san-roque/gran-china/
-shop: Kramladen
+shop: tienda de variedades
 ---

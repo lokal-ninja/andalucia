@@ -1,5 +1,5 @@
 ---
 title: "Consum"
 url: /almeria/consum/
-shop: Supermarkt
+shop: supermercado
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Talleres Júniga"
 url: /ubeda/talleres-juniga/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Harman Bikes Granada"
 url: /granada/harman-bikes-granada/
-shop: Fahrrad
+shop: bicicleta
 ---

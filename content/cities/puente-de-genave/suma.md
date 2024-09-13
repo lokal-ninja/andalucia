@@ -1,5 +1,5 @@
 ---
 title: "Suma"
 url: /puente-de-genave/suma/
-shop: Supermarkt
+shop: supermercado
 ---

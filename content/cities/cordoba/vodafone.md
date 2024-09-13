@@ -1,5 +1,5 @@
 ---
 title: "Vodafone"
 url: /cordoba/vodafone/
-shop: Handy
+shop: teléfono móvil
 ---

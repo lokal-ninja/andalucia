@@ -1,5 +1,5 @@
 ---
 title: "Quorum Motor"
 url: /ubeda/quorum-motor/
-shop: Autohaus
+shop: coche
 ---

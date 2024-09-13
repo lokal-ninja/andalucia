@@ -1,5 +1,5 @@
 ---
 title: "Isla Market"
 url: /malaga/isla-market/
-shop: Lebensmittel
+shop: comodidad
 ---

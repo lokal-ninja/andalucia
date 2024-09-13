@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /torrox-costa/lidl/
-shop: Supermarkt
+shop: supermercado
 ---

@@ -1,5 +1,5 @@
 ---
 title: "GUAU"
 url: /sevila/guau/
-shop: Kramladen
+shop: tienda de variedades
 ---

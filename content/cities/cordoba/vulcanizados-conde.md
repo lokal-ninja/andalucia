@@ -1,5 +1,5 @@
 ---
 title: "Vulcanizados Conde"
 url: /cordoba/vulcanizados-conde/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Suma"
 url: /sevilla/suma/
-shop: Lebensmittel
+shop: comodidad
 ---

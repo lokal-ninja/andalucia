@@ -1,5 +1,5 @@
 ---
 title: "Минимаркет"
 url: /sevilla/minimarket/
-shop: Lebensmittel
+shop: comodidad
 ---

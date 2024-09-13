@@ -1,5 +1,5 @@
 ---
 title: "Lacolada"
 url: /jaen/lacolada/
-shop: Wäscherei
+shop: lavandería
 ---

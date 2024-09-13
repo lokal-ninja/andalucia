@@ -1,5 +1,5 @@
 ---
 title: "Multiservicios"
 url: /baeza/multiservicios/
-shop: Supermarkt
+shop: supermercado
 ---

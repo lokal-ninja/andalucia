@@ -1,5 +1,5 @@
 ---
 title: "Ita Barroso"
 url: /sevilla/ita-barroso/
-shop: Nähzubehör
+shop: coser
 ---

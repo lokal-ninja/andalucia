@@ -1,5 +1,5 @@
 ---
 title: "Homes in Heaven"
 url: /sevilla/homes-in-heaven/
-shop: Raumausstattung
+shop: decoración interior
 ---

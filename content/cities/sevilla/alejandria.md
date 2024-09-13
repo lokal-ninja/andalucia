@@ -1,5 +1,5 @@
 ---
 title: "Alejandria"
 url: /sevilla/alejandria/
-shop: Bücher
+shop: libros
 ---

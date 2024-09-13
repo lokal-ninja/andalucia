@@ -1,5 +1,5 @@
 ---
 title: "Mercadona"
 url: /linares/mercadona/
-shop: Supermarkt
+shop: supermercado
 ---

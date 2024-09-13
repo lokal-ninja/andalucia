@@ -1,5 +1,5 @@
 ---
 title: "Talleres Avenida"
 url: /sevilla/talleres-avenida/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

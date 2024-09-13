@@ -1,5 +1,5 @@
 ---
 title: "Marchena"
 url: /jaen/marchena/
-shop: Kleidung
+shop: ropa
 ---

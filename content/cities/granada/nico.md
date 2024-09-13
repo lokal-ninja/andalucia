@@ -1,5 +1,5 @@
 ---
 title: "Nico"
 url: /granada/nico/
-shop: Schuhe
+shop: zapatos
 ---

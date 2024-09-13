@@ -1,5 +1,5 @@
 ---
 title: "Euromaster"
 url: /la-curva/euromaster/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Benetton"
 url: /ronda/benetton/
-shop: Kleidung
+shop: ropa
 ---

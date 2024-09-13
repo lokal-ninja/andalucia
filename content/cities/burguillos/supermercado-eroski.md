@@ -1,5 +1,5 @@
 ---
 title: "Supermercado Eroski"
 url: /burguillos/supermercado-eroski/
-shop: Supermarkt
+shop: supermercado
 ---

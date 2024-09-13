@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /cordoba/aldi/
-shop: Supermarkt
+shop: supermercado
 ---

@@ -1,5 +1,5 @@
 ---
 title: "MasLife"
 url: /sevilla/maslife/
-shop: Handy
+shop: teléfono móvil
 ---

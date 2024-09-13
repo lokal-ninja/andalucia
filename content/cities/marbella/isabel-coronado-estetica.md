@@ -1,5 +1,5 @@
 ---
 title: "Isabel Coronado Estética"
 url: /marbella/isabel-coronado-estetica/
-shop: Kosmetik
+shop: cosméticos
 ---

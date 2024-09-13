@@ -1,5 +1,5 @@
 ---
 title: "Orange"
 url: /dos-hermanas/orange/
-shop: Handy
+shop: teléfono móvil
 ---

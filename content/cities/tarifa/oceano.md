@@ -1,5 +1,5 @@
 ---
 title: "Oceano"
 url: /tarifa/oceano/
-shop: Kleidung
+shop: ropa
 ---

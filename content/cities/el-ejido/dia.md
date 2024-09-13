@@ -1,5 +1,5 @@
 ---
 title: "Dia"
 url: /el-ejido/dia/
-shop: Supermarkt
+shop: supermercado
 ---

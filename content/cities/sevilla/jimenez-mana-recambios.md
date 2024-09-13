@@ -1,5 +1,5 @@
 ---
 title: "Jimenez Maña recambios"
 url: /sevilla/jimenez-mana-recambios/
-shop: Autoteile
+shop: piezas de automóviles
 ---

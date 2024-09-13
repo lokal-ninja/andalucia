@@ -1,5 +1,5 @@
 ---
 title: "Talleres Torres"
 url: /atarfe/talleres-torres/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

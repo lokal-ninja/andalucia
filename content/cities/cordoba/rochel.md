@@ -1,5 +1,5 @@
 ---
 title: "Rochel"
 url: /cordoba/rochel/
-shop: Konditorei
+shop: pastelería
 ---

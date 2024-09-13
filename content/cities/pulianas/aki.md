@@ -1,5 +1,5 @@
 ---
 title: "Akí"
 url: /pulianas/aki/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

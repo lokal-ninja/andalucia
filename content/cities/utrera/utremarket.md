@@ -1,5 +1,5 @@
 ---
 title: "Utremarket"
 url: /utrera/utremarket/
-shop: Dorfladen
+shop: tienda rural
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Todo a Dos"
 url: /baeza/todo-a-dos/
-shop: Kramladen
+shop: tienda de variedades
 ---

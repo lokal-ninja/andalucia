@@ -1,5 +1,5 @@
 ---
 title: "Trek"
 url: /malaga/trek/
-shop: Fahrrad
+shop: bicicleta
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Navarro Hermanos"
 url: /almeria/navarro-hermanos/
-shop: Autoteile
+shop: piezas de automóviles
 ---

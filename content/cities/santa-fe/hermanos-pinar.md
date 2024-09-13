@@ -1,5 +1,5 @@
 ---
 title: "Hermanos Piñar"
 url: /santa-fe/hermanos-pinar/
-shop: Autohaus
+shop: coche
 ---

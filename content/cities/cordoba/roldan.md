@@ -1,5 +1,5 @@
 ---
 title: "Roldán"
 url: /cordoba/roldan/
-shop: Konditorei
+shop: pastelería
 ---

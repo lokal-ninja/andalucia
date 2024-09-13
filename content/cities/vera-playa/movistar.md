@@ -1,5 +1,5 @@
 ---
 title: "Movistar"
 url: /vera-playa/movistar/
-shop: Handy
+shop: teléfono móvil
 ---

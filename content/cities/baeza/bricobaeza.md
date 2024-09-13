@@ -1,5 +1,5 @@
 ---
 title: "Bricobaeza"
 url: /baeza/bricobaeza/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

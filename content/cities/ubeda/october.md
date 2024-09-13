@@ -1,5 +1,5 @@
 ---
 title: "October"
 url: /ubeda/october/
-shop: Kleidung
+shop: ropa
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Joan"
 url: /malaga/joan/
-shop: Gebrauchtwaren
+shop: caridad
 ---

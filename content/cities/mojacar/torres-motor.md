@@ -1,5 +1,5 @@
 ---
 title: "Torres Motor"
 url: /mojacar/torres-motor/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

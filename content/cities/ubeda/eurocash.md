@@ -1,5 +1,5 @@
 ---
 title: "Eurocash"
 url: /ubeda/eurocash/
-shop: Supermarkt
+shop: supermercado
 ---

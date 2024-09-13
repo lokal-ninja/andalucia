@@ -1,5 +1,5 @@
 ---
 title: "Lorite Decoración"
 url: /ubeda/lorite-decoracion/
-shop: Badezimmer
+shop: cuarto de baño
 ---

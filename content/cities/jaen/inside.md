@@ -1,5 +1,5 @@
 ---
 title: "Inside"
 url: /jaen/inside/
-shop: Kleidung
+shop: ropa
 ---

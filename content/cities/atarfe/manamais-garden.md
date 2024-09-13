@@ -1,5 +1,5 @@
 ---
 title: "Manamais Garden"
 url: /atarfe/manamais-garden/
-shop: Garten-Center
+shop: centro de jardinería
 ---

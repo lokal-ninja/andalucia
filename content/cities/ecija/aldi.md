@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /ecija/aldi/
-shop: Supermarkt
+shop: supermercado
 ---

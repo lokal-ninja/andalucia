@@ -1,5 +1,5 @@
 ---
 title: "Eutronics"
 url: /mairena-del-aljarafe/eutronics/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pastor"
 url: /competa/pastor/
-shop: Fisch
+shop: marisco
 ---

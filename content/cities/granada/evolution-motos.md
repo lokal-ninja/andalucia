@@ -1,5 +1,5 @@
 ---
 title: "Evolution Motos"
 url: /granada/evolution-motos/
-shop: Motorrad
+shop: motocicleta
 ---

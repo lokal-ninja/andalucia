@@ -1,5 +1,5 @@
 ---
 title: "Talleres Novacar Auto"
 url: /atarfe/talleres-novacar-auto-avenida-circunvalacion/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

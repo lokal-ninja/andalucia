@@ -1,5 +1,5 @@
 ---
 title: "GMcash"
 url: /atarfe/gmcash/
-shop: Großhandel
+shop: mayorista
 ---

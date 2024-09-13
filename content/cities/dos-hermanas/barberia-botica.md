@@ -1,5 +1,5 @@
 ---
 title: "Barbería Botica"
 url: /dos-hermanas/barberia-botica/
-shop: Friseur
+shop: peluquería
 ---

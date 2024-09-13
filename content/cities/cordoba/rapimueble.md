@@ -1,5 +1,5 @@
 ---
 title: "Rapimueble"
 url: /cordoba/rapimueble/
-shop: Möbel
+shop: muebles
 ---

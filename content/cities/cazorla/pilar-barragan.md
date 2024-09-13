@@ -1,5 +1,5 @@
 ---
 title: "Pilar Barragán"
 url: /cazorla/pilar-barragan/
-shop: Kleidung
+shop: ropa
 ---

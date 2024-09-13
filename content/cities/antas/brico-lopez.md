@@ -1,5 +1,5 @@
 ---
 title: "Brico López"
 url: /antas/brico-lopez/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

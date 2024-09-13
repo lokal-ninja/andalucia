@@ -1,5 +1,5 @@
 ---
 title: "Super Market"
 url: /tarifa/super-market/
-shop: Supermarkt
+shop: supermercado
 ---

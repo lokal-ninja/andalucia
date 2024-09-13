@@ -1,5 +1,5 @@
 ---
 title: "Garden Express"
 url: /bormujos/garden-express/
-shop: Garten-Center
+shop: centro de jardinería
 ---

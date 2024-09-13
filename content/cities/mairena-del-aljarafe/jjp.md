@@ -1,5 +1,5 @@
 ---
 title: "JJP"
 url: /mairena-del-aljarafe/jjp/
-shop: Sanitätshaus
+shop: suministros médicos
 ---

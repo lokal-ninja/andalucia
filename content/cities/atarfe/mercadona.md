@@ -1,5 +1,5 @@
 ---
 title: "Mercadona"
 url: /atarfe/mercadona/
-shop: Supermarkt
+shop: supermercado
 ---

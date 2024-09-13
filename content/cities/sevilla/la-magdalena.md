@@ -1,5 +1,5 @@
 ---
 title: "La Magdalena"
 url: /sevilla/la-magdalena/
-shop: Andenken
+shop: regalo
 ---

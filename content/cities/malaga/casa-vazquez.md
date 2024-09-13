@@ -1,5 +1,5 @@
 ---
 title: "Casa Vázquez"
 url: /malaga/casa-vazquez/
-shop: Metzgerei
+shop: carnicero
 ---

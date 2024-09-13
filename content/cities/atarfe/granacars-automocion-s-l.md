@@ -1,5 +1,5 @@
 ---
 title: "Granacars Automoción S.L."
 url: /atarfe/granacars-automocion-s-l/
-shop: Autohaus
+shop: coche
 ---

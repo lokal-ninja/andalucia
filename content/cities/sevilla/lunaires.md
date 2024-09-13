@@ -1,5 +1,5 @@
 ---
 title: "Lunaires"
 url: /sevilla/lunaires/
-shop: Kleidung
+shop: ropa
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dalia"
 url: /malaga/dalia/
-shop: Blumen
+shop: floristería
 ---

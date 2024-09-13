@@ -1,5 +1,5 @@
 ---
 title: "Auto Bahía SL"
 url: /guadix/auto-bahia-sl/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

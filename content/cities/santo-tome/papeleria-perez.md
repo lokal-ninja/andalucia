@@ -1,5 +1,5 @@
 ---
 title: "Papelería Pérez"
 url: /santo-tome/papeleria-perez/
-shop: Schreibwaren
+shop: material de oficina
 ---

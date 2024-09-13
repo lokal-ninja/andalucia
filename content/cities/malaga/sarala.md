@@ -1,5 +1,5 @@
 ---
 title: "Sarala"
 url: /malaga/sarala/
-shop: Basteln
+shop: artesanía
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Artesanias Medina"
 url: /cordoba/artesanias-medina/
-shop: Andenken
+shop: regalo
 ---

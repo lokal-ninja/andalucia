@@ -1,5 +1,5 @@
 ---
 title: "Luzylamp"
 url: /cordoba/luzylamp/
-shop: Lampen
+shop: lámparas
 ---

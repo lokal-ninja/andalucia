@@ -1,5 +1,5 @@
 ---
 title: "San Marcos"
 url: /sevilla/san-marcos/
-shop: Drogerie
+shop: farmacia
 ---

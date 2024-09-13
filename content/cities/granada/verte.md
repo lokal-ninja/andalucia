@@ -1,5 +1,5 @@
 ---
 title: "Verte+"
 url: /granada/verte/
-shop: Optiker
+shop: óptico
 ---

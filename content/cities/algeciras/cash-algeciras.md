@@ -1,5 +1,5 @@
 ---
 title: "Cash Algeciras"
 url: /algeciras/cash-algeciras/
-shop: Raumausstattung
+shop: decoración interior
 ---

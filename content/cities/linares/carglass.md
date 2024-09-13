@@ -1,5 +1,5 @@
 ---
 title: "Carglass"
 url: /linares/carglass/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

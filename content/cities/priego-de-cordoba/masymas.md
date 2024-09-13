@@ -1,5 +1,5 @@
 ---
 title: "Masymas"
 url: /priego-de-cordoba/masymas/
-shop: Supermarkt
+shop: supermercado
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bazar China"
 url: /padul/bazar-china/
-shop: Kramladen
+shop: tienda de variedades
 ---

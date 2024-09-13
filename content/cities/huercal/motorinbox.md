@@ -1,5 +1,5 @@
 ---
 title: "Motorinbox"
 url: /huercal/motorinbox/
-shop: Motorrad
+shop: motocicleta
 ---

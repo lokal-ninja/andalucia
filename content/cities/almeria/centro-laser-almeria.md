@@ -1,5 +1,5 @@
 ---
 title: "Centro Láser Almería"
 url: /almeria/centro-laser-almeria/
-shop: Kosmetik
+shop: cosméticos
 ---

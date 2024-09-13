@@ -1,5 +1,5 @@
 ---
 title: "Aloe"
 url: /malaga/aloe/
-shop: Kräuter
+shop: herbolario
 ---

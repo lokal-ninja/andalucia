@@ -1,5 +1,5 @@
 ---
 title: "Taller Gregorio"
 url: /orcera/taller-gregorio/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

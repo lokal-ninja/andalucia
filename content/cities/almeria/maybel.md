@@ -1,5 +1,5 @@
 ---
 title: "Maybel"
 url: /almeria/maybel/
-shop: Friseur
+shop: peluquería
 ---

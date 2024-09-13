@@ -1,5 +1,5 @@
 ---
 title: "Ortopedia Aeropuerto"
 url: /cordoba/ortopedia-aeropuerto/
-shop: Sanitätshaus
+shop: suministros médicos
 ---

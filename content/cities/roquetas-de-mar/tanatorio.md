@@ -1,5 +1,5 @@
 ---
 title: "Tanatorio"
 url: /roquetas-de-mar/tanatorio/
-shop: Bestattungen
+shop: directores de funerarias
 ---

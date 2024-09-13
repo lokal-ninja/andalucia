@@ -1,5 +1,5 @@
 ---
 title: "Asiatique"
 url: /jaen/asiatique/
-shop: Kramladen
+shop: tienda de variedades
 ---

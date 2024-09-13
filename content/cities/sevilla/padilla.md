@@ -1,5 +1,5 @@
 ---
 title: "Padilla"
 url: /sevilla/padilla/
-shop: Schmuck
+shop: joyería
 ---

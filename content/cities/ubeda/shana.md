@@ -1,5 +1,5 @@
 ---
 title: "Shana"
 url: /ubeda/shana/
-shop: Kleidung
+shop: ropa
 ---

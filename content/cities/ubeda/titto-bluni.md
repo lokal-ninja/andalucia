@@ -1,5 +1,5 @@
 ---
 title: "Titto Bluni"
 url: /ubeda/titto-bluni/
-shop: Kleidung
+shop: ropa
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Chari"
 url: /sevilla/chari/
-shop: Fisch
+shop: marisco
 ---

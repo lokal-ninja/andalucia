@@ -1,5 +1,5 @@
 ---
 title: "Bricoplant"
 url: /huetor-tajar/bricoplant/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Centro Comercial Alhsur"
 url: /la-zubia/centro-comercial-alhsur/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

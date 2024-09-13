@@ -1,5 +1,5 @@
 ---
 title: "BuscoCampamentos"
 url: /granada/buscocampamentos/
-shop: Reisebüro
+shop: agencia de viajes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Eica"
 url: /jaen/eica/
-shop: Schreibwaren
+shop: material de oficina
 ---

@@ -1,5 +1,5 @@
 ---
 title: "A Piñón Cádiz"
 url: /cadiz/a-pinon-cadiz/
-shop: Fahrrad
+shop: bicicleta
 ---

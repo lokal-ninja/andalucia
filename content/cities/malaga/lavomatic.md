@@ -1,5 +1,5 @@
 ---
 title: "Lavomatic"
 url: /malaga/lavomatic/
-shop: Wäscherei
+shop: lavandería
 ---

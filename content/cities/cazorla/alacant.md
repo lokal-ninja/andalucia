@@ -1,5 +1,5 @@
 ---
 title: "Alacant"
 url: /cazorla/alacant/
-shop: Kiosk
+shop: quiosco
 ---

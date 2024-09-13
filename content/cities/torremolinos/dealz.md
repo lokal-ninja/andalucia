@@ -1,5 +1,5 @@
 ---
 title: "Dealz"
 url: /torremolinos/dealz/
-shop: Kramladen
+shop: tienda de variedades
 ---

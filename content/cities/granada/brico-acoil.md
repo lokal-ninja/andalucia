@@ -1,5 +1,5 @@
 ---
 title: "Brico Acoil"
 url: /granada/brico-acoil/
-shop: Eisenwaren
+shop: hardware
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Meraya"
 url: /guadix/meraya/
-shop: Eisenwaren
+shop: hardware
 ---

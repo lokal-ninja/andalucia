@@ -1,5 +1,5 @@
 ---
 title: "ONLY"
 url: /roquetas-de-mar/only/
-shop: Kleidung
+shop: ropa
 ---

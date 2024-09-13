@@ -1,5 +1,5 @@
 ---
 title: "Autoservicio Super Pepe"
 url: /malaga/autoservicio-super-pepe/
-shop: Lebensmittel
+shop: comodidad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "IKEA"
 url: /malaga/ikea/
-shop: Möbel
+shop: muebles
 ---

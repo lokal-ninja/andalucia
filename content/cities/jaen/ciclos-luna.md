@@ -1,5 +1,5 @@
 ---
 title: "Ciclos Luna"
 url: /jaen/ciclos-luna/
-shop: Fahrrad
+shop: bicicleta
 ---

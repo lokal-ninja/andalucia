@@ -1,5 +1,5 @@
 ---
 title: "SIMO"
 url: /sevilla/simo/
-shop: Schreibwaren
+shop: material de oficina
 ---

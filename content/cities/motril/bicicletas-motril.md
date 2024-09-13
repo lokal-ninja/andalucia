@@ -1,5 +1,5 @@
 ---
 title: "Bicicletas Motril"
 url: /motril/bicicletas-motril/
-shop: Fahrrad
+shop: bicicleta
 ---

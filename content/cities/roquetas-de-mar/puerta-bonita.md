@@ -1,5 +1,5 @@
 ---
 title: "Puerta Bonita"
 url: /roquetas-de-mar/puerta-bonita/
-shop: Kleidung
+shop: ropa
 ---

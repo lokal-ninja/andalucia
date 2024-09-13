@@ -1,5 +1,5 @@
 ---
 title: "Mercadona"
 url: /lucena/mercadona/
-shop: Supermarkt
+shop: supermercado
 ---

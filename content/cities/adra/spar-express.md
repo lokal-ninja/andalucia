@@ -1,5 +1,5 @@
 ---
 title: "Spar Express"
 url: /adra/spar-express/
-shop: Lebensmittel
+shop: comodidad
 ---

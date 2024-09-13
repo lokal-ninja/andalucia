@@ -1,5 +1,5 @@
 ---
 title: "Petrol Kong"
 url: /gines/petrol-kong/
-shop: Lebensmittel
+shop: comodidad
 ---

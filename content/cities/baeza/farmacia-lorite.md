@@ -1,5 +1,5 @@
 ---
 title: "Farmacia Lorite"
 url: /baeza/farmacia-lorite/
-shop: Drogerie
+shop: farmacia
 ---

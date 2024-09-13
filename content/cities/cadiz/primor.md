@@ -1,5 +1,5 @@
 ---
 title: "Primor"
 url: /cadiz/primor/
-shop: Kosmetik
+shop: cosméticos
 ---

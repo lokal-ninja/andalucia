@@ -1,5 +1,5 @@
 ---
 title: "Supermercado Valle Tropical"
 url: /jete/supermercado-valle-tropical/
-shop: Supermarkt
+shop: supermercado
 ---

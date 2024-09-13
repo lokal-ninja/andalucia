@@ -1,5 +1,5 @@
 ---
 title: "Delicias"
 url: /santo-tome/delicias/
-shop: Konditorei
+shop: pastelería
 ---

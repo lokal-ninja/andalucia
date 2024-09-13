@@ -1,5 +1,5 @@
 ---
 title: "Talleres Autos Garrido"
 url: /ubeda/talleres-autos-garrido/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

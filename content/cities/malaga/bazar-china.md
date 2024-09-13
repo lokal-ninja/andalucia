@@ -1,5 +1,5 @@
 ---
 title: "Bazar China"
 url: /malaga/bazar-china/
-shop: Kramladen
+shop: tienda de variedades
 ---

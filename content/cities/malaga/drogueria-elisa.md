@@ -1,5 +1,5 @@
 ---
 title: "Droguería Elisa"
 url: /malaga/drogueria-elisa/
-shop: Drogerie
+shop: farmacia
 ---

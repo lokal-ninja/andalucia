@@ -1,5 +1,5 @@
 ---
 title: "Barceló Viajes"
 url: /algeciras/barcelo-viajes/
-shop: Reisebüro
+shop: agencia de viajes
 ---

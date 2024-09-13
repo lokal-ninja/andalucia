@@ -1,5 +1,5 @@
 ---
 title: "Pescaderia Juan Escalona"
 url: /sevilla/pescaderia-juan-escalona/
-shop: Fisch
+shop: marisco
 ---

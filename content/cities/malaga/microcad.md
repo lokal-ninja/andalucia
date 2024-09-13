@@ -1,5 +1,5 @@
 ---
 title: "microcad"
 url: /malaga/microcad/
-shop: Computer
+shop: ordenador
 ---

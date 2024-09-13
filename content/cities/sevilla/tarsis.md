@@ -1,5 +1,5 @@
 ---
 title: "Tarsis"
 url: /sevilla/tarsis/
-shop: Bücher
+shop: libros
 ---

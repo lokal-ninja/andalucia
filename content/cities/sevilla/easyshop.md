@@ -1,5 +1,5 @@
 ---
 title: "Easyshop"
 url: /sevilla/easyshop/
-shop: Kramladen
+shop: tienda de variedades
 ---

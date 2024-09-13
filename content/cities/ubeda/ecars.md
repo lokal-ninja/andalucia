@@ -1,5 +1,5 @@
 ---
 title: "Ecars"
 url: /ubeda/ecars/
-shop: Autohaus
+shop: coche
 ---

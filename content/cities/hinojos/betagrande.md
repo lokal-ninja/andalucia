@@ -1,5 +1,5 @@
 ---
 title: "BetaGrande"
 url: /hinojos/betagrande/
-shop: Großhandel
+shop: mayorista
 ---

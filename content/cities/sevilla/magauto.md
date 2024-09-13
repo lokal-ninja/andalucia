@@ -1,5 +1,5 @@
 ---
 title: "Magauto"
 url: /sevilla/magauto/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Centro de Jardinería El Morlaco"
 url: /malaga/centro-de-jardineria-el-morlaco/
-shop: Garten-Center
+shop: centro de jardinería
 ---

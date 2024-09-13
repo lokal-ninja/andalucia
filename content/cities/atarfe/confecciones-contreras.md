@@ -1,5 +1,5 @@
 ---
 title: "Confecciones Contreras"
 url: /atarfe/confecciones-contreras/
-shop: Kleidung
+shop: ropa
 ---

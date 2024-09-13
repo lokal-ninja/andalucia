@@ -1,5 +1,5 @@
 ---
 title: "Kiosco Alameda"
 url: /puente-mayorga/kiosco-alameda/
-shop: Kiosk
+shop: quiosco
 ---

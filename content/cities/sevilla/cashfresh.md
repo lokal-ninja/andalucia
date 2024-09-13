@@ -1,5 +1,5 @@
 ---
 title: "CashFresh"
 url: /sevilla/cashfresh/
-shop: Supermarkt
+shop: supermercado
 ---

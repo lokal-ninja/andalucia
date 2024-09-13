@@ -1,5 +1,5 @@
 ---
 title: "Mapy"
 url: /cazorla/mapy/
-shop: Kleidung
+shop: ropa
 ---

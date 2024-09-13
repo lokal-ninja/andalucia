@@ -1,5 +1,5 @@
 ---
 title: "Springfield"
 url: /jaen/springfield/
-shop: Kleidung
+shop: ropa
 ---

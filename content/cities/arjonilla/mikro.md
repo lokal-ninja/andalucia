@@ -1,5 +1,5 @@
 ---
 title: "Mikro"
 url: /arjonilla/mikro/
-shop: Supermarkt
+shop: supermercado
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Supercor"
 url: /benalmadena/supercor/
-shop: Supermarkt
+shop: supermercado
 ---

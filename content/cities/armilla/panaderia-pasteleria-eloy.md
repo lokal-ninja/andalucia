@@ -1,5 +1,5 @@
 ---
 title: "Panadería Pastelería Eloy"
 url: /armilla/panaderia-pasteleria-eloy/
-shop: Lebensmittel
+shop: comodidad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Guiamobel"
 url: /cordoba/guiamobel/
-shop: Möbel
+shop: muebles
 ---

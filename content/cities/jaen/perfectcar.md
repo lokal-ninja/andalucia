@@ -1,5 +1,5 @@
 ---
 title: "Perfectcar"
 url: /jaen/perfectcar/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

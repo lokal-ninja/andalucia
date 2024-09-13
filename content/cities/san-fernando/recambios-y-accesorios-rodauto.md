@@ -1,5 +1,5 @@
 ---
 title: "Recambios y accesorios Rodauto"
 url: /san-fernando/recambios-y-accesorios-rodauto/
-shop: Autoteile
+shop: piezas de automóviles
 ---

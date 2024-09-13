@@ -1,5 +1,5 @@
 ---
 title: "Artibérico"
 url: /sevilla/artiberico/
-shop: Feinkost
+shop: charcutería
 ---

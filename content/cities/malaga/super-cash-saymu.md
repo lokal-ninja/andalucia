@@ -1,5 +1,5 @@
 ---
 title: "Super Cash Saymu"
 url: /malaga/super-cash-saymu/
-shop: Supermarkt
+shop: supermercado
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Decimas"
 url: /roquetas-de-mar/decimas/
-shop: Kleidung
+shop: ropa
 ---

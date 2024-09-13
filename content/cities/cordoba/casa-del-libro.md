@@ -1,5 +1,5 @@
 ---
 title: "Casa del Libro"
 url: /cordoba/casa-del-libro/
-shop: Bücher
+shop: libros
 ---

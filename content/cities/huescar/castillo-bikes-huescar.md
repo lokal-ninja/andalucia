@@ -1,5 +1,5 @@
 ---
 title: "Castillo Bikes Huescar"
 url: /huescar/castillo-bikes-huescar/
-shop: Fahrrad
+shop: bicicleta
 ---

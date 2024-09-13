@@ -1,5 +1,5 @@
 ---
 title: "Mercería El Arreglo"
 url: /ecija/merceria-el-arreglo/
-shop: Textil
+shop: tela
 ---

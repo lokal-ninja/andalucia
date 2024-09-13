@@ -1,5 +1,5 @@
 ---
 title: "Kiosko Molinero"
 url: /fuente-vaqueros/kiosko-molinero/
-shop: Kiosk
+shop: quiosco
 ---

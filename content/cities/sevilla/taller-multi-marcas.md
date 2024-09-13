@@ -1,5 +1,5 @@
 ---
 title: "Taller Multi Marcas"
 url: /sevilla/taller-multi-marcas/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

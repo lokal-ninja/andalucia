@@ -1,5 +1,5 @@
 ---
 title: "El Sotano"
 url: /mojacar-playa/el-sotano/
-shop: Raumausstattung
+shop: decoración interior
 ---

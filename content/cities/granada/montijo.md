@@ -1,5 +1,5 @@
 ---
 title: "Montijo"
 url: /granada/montijo/
-shop: Kleidung
+shop: ropa
 ---

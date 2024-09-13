@@ -1,5 +1,5 @@
 ---
 title: "La Unión"
 url: /torreperogil/la-union/
-shop: Bäckerei
+shop: panadería
 ---

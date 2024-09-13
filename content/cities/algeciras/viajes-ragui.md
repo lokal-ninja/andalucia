@@ -1,5 +1,5 @@
 ---
 title: "Viajes Ragui"
 url: /algeciras/viajes-ragui/
-shop: Reisebüro
+shop: agencia de viajes
 ---

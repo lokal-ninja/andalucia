@@ -1,5 +1,5 @@
 ---
 title: "Copy2"
 url: /dos-hermanas/copy2/
-shop: Schreibwaren
+shop: material de oficina
 ---

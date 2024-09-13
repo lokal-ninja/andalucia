@@ -1,5 +1,5 @@
 ---
 title: "Superlimpieza Tul"
 url: /ubeda/superlimpieza-tul/
-shop: Wäscherei
+shop: lavandería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Aromas"
 url: /granada/aromas/
-shop: Parfümerie
+shop: perfumería
 ---

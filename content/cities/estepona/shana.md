@@ -1,5 +1,5 @@
 ---
 title: "Shana"
 url: /estepona/shana/
-shop: Kleidung
+shop: ropa
 ---

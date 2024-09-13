@@ -1,5 +1,5 @@
 ---
 title: "Celio"
 url: /sevilla/celio/
-shop: Kleidung
+shop: ropa
 ---

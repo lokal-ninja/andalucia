@@ -1,5 +1,5 @@
 ---
 title: "Paqui Barroso"
 url: /granada/paqui-barroso/
-shop: Babysachen
+shop: artículos para bebés
 ---

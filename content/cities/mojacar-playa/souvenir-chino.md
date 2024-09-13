@@ -1,5 +1,5 @@
 ---
 title: "Souvenir Chino"
 url: /mojacar-playa/souvenir-chino/
-shop: Allgemein
+shop: general
 ---

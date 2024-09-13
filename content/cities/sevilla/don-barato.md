@@ -1,5 +1,5 @@
 ---
 title: "Don Barato"
 url: /sevilla/don-barato/
-shop: Kramladen
+shop: tienda de variedades
 ---

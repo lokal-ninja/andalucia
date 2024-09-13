@@ -1,5 +1,5 @@
 ---
 title: "Talleres Juanlu"
 url: /cullar/talleres-juanlu/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

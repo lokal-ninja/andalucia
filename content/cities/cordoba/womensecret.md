@@ -1,5 +1,5 @@
 ---
 title: "Women'secret"
 url: /cordoba/womensecret/
-shop: Kleidung
+shop: ropa
 ---

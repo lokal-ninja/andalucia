@@ -1,5 +1,5 @@
 ---
 title: "Fonissimo"
 url: /jaen/fonissimo/
-shop: Handy
+shop: teléfono móvil
 ---

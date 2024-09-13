@@ -1,5 +1,5 @@
 ---
 title: "Royme"
 url: /malaga/royme/
-shop: Elektronik
+shop: electrónica
 ---

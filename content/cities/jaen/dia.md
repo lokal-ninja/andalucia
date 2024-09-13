@@ -1,5 +1,5 @@
 ---
 title: "Dia"
 url: /jaen/dia/
-shop: Supermarkt
+shop: supermercado
 ---

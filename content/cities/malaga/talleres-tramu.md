@@ -1,5 +1,5 @@
 ---
 title: "Talleres Tramu"
 url: /malaga/talleres-tramu/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

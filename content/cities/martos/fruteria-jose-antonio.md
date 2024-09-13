@@ -1,5 +1,5 @@
 ---
 title: "Frutería José Antonio"
 url: /martos/fruteria-jose-antonio/
-shop: Gemüse & Obst
+shop: frutería
 ---

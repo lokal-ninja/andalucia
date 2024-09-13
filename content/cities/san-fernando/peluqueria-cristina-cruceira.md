@@ -1,5 +1,5 @@
 ---
 title: "Peluquería Cristina Cruceira"
 url: /san-fernando/peluqueria-cristina-cruceira/
-shop: Friseur
+shop: peluquería
 ---

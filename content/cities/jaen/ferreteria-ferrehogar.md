@@ -1,5 +1,5 @@
 ---
 title: "Ferretería FerreHogar"
 url: /jaen/ferreteria-ferrehogar/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

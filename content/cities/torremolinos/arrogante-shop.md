@@ -1,5 +1,5 @@
 ---
 title: "Arrogante shop"
 url: /torremolinos/arrogante-shop/
-shop: Kleidung
+shop: ropa
 ---

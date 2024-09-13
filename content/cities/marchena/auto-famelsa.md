@@ -1,5 +1,5 @@
 ---
 title: "Auto Famelsa"
 url: /marchena/auto-famelsa/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

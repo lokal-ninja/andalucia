@@ -1,5 +1,5 @@
 ---
 title: "Alimentación La Palma"
 url: /algeciras/alimentacion-la-palma/
-shop: Lebensmittel
+shop: comodidad
 ---

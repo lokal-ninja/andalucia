@@ -1,5 +1,5 @@
 ---
 title: "Tapidecor"
 url: /baeza/tapidecor/
-shop: Möbel
+shop: muebles
 ---

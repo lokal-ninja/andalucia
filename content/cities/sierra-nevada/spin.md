@@ -1,5 +1,5 @@
 ---
 title: "Spin"
 url: /sierra-nevada/spin/
-shop: Sport
+shop: deportes
 ---

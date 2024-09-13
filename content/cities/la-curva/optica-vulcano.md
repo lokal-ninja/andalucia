@@ -1,5 +1,5 @@
 ---
 title: "Óptica Vulcano"
 url: /la-curva/optica-vulcano/
-shop: Optiker
+shop: óptico
 ---

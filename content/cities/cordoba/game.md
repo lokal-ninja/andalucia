@@ -1,5 +1,5 @@
 ---
 title: "Game"
 url: /cordoba/game/
-shop: Videospiele
+shop: videojuegos
 ---

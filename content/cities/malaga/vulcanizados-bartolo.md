@@ -1,5 +1,5 @@
 ---
 title: "Vulcanizados Bartolo"
 url: /malaga/vulcanizados-bartolo/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

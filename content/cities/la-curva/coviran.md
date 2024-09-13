@@ -1,5 +1,5 @@
 ---
 title: "Covirán"
 url: /la-curva/coviran/
-shop: Supermarkt
+shop: supermercado
 ---

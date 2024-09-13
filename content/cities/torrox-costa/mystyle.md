@@ -1,5 +1,5 @@
 ---
 title: "myStyle"
 url: /torrox-costa/mystyle/
-shop: Kleidung
+shop: ropa
 ---

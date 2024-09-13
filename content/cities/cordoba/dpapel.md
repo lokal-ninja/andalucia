@@ -1,5 +1,5 @@
 ---
 title: "D'Papel"
 url: /cordoba/dpapel/
-shop: Schreibwaren
+shop: material de oficina
 ---

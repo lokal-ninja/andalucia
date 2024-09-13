@@ -1,5 +1,5 @@
 ---
 title: "Pedal Bike Salva"
 url: /huercal-overa/pedal-bike-salva/
-shop: Fahrrad
+shop: bicicleta
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Parque Comercial Mojácar"
 url: /mojacar-playa/parque-comercial-mojacar/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

@@ -1,5 +1,5 @@
 ---
 title: "La pilarica"
 url: /jaen/la-pilarica/
-shop: Kramladen
+shop: tienda de variedades
 ---

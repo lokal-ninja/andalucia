@@ -1,5 +1,5 @@
 ---
 title: "Aromas"
 url: /cordoba/aromas/
-shop: Parfümerie
+shop: perfumería
 ---

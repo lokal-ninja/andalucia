@@ -1,5 +1,5 @@
 ---
 title: "Papelería Papelotes"
 url: /malaga/papeleria-papelotes/
-shop: Schreibwaren
+shop: material de oficina
 ---

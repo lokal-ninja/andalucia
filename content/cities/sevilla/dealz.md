@@ -1,5 +1,5 @@
 ---
 title: "Dealz"
 url: /sevilla/dealz/
-shop: Kramladen
+shop: tienda de variedades
 ---

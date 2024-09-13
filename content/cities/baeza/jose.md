@@ -1,5 +1,5 @@
 ---
 title: "Jose"
 url: /baeza/jose/
-shop: Friseur
+shop: peluquería
 ---

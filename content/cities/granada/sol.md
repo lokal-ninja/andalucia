@@ -1,5 +1,5 @@
 ---
 title: "Sol"
 url: /granada/sol/
-shop: Eisenwaren
+shop: hardware
 ---

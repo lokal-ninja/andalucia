@@ -1,5 +1,5 @@
 ---
 title: "Gody"
 url: /malaga/gody/
-shop: Schuhe
+shop: zapatos
 ---

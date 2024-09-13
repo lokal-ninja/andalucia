@@ -1,5 +1,5 @@
 ---
 title: "Peluquería Lucía Terrones"
 url: /cajar/peluqueria-lucia-terrones/
-shop: Friseur
+shop: peluquería
 ---

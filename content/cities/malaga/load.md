@@ -1,5 +1,5 @@
 ---
 title: "Load"
 url: /malaga/load/
-shop: Computer
+shop: ordenador
 ---

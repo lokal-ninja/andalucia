@@ -1,5 +1,5 @@
 ---
 title: "Moyano"
 url: /sayalonga/moyano/
-shop: Lebensmittel
+shop: comodidad
 ---

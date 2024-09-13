@@ -1,5 +1,5 @@
 ---
 title: "Pronovias"
 url: /jaen/pronovias/
-shop: Kleidung
+shop: ropa
 ---

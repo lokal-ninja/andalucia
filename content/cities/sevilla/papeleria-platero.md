@@ -1,5 +1,5 @@
 ---
 title: "Papeleria Platero"
 url: /sevilla/papeleria-platero/
-shop: Schreibwaren
+shop: material de oficina
 ---

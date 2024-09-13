@@ -1,5 +1,5 @@
 ---
 title: "Frutas y Verduras Pedro"
 url: /malaga/frutas-y-verduras-pedro/
-shop: Gemüse & Obst
+shop: frutería
 ---

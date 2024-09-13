@@ -1,5 +1,5 @@
 ---
 title: "De Binbín"
 url: /granada/de-binbin/
-shop: Lebensmittel
+shop: comodidad
 ---

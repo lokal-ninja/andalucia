@@ -1,5 +1,5 @@
 ---
 title: "Casa"
 url: /pulianas/casa/
-shop: Möbel
+shop: muebles
 ---

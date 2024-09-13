@@ -1,5 +1,5 @@
 ---
 title: "Car Glass"
 url: /malaga/car-glass/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Centro Integral de Reparación del Automóvil"
 url: /jaen/centro-integral-de-reparacion-del-automovil/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

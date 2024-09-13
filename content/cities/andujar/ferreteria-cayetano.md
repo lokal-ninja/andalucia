@@ -1,5 +1,5 @@
 ---
 title: "Ferretería Cayetano"
 url: /andujar/ferreteria-cayetano/
-shop: Eisenwaren
+shop: hardware
 ---

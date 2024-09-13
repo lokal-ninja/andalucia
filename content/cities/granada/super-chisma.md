@@ -1,5 +1,5 @@
 ---
 title: "Super Chisma"
 url: /granada/super-chisma/
-shop: Supermarkt
+shop: supermercado
 ---

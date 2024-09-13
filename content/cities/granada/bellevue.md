@@ -1,5 +1,5 @@
 ---
 title: "Bellevue"
 url: /granada/bellevue/
-shop: Konditorei
+shop: pastelería
 ---

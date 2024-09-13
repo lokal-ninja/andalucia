@@ -1,5 +1,5 @@
 ---
 title: "Mecánica Express"
 url: /sevilla/mecanica-express/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

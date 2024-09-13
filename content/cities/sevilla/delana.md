@@ -1,5 +1,5 @@
 ---
 title: "Delana"
 url: /sevilla/delana/
-shop: Nähzubehör
+shop: coser
 ---

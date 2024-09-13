@@ -1,5 +1,5 @@
 ---
 title: "La Moda"
 url: /roquetas-de-mar/la-moda/
-shop: Kleidung
+shop: ropa
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Talleres Atarfe"
 url: /atarfe/talleres-atarfe/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

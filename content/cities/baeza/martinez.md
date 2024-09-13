@@ -1,5 +1,5 @@
 ---
 title: "Martinez"
 url: /baeza/martinez/
-shop: Schuhe
+shop: zapatos
 ---

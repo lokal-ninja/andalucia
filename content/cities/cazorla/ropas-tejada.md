@@ -1,5 +1,5 @@
 ---
 title: "Ropas Tejada"
 url: /cazorla/ropas-tejada/
-shop: Kleidung
+shop: ropa
 ---

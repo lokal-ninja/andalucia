@@ -1,5 +1,5 @@
 ---
 title: "Androidez"
 url: /vera-playa/androidez/
-shop: Handy
+shop: teléfono móvil
 ---

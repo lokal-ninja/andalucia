@@ -1,5 +1,5 @@
 ---
 title: "Galería Comercial"
 url: /cazorla/galeria-comercial/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

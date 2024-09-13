@@ -1,5 +1,5 @@
 ---
 title: "Tanatorio"
 url: /yegen/tanatorio/
-shop: Bestattungen
+shop: directores de funerarias
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Crearte"
 url: /malaga/crearte/
-shop: Kopieren
+shop: copyshop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Serrallo Garden"
 url: /granada/serrallo-garden/
-shop: Garten-Center
+shop: centro de jardinería
 ---

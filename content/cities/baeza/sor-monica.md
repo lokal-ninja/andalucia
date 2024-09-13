@@ -1,5 +1,5 @@
 ---
 title: "Sor Mónica"
 url: /baeza/sor-monica/
-shop: Bestattungen
+shop: directores de funerarias
 ---

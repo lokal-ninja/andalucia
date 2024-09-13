@@ -1,5 +1,5 @@
 ---
 title: "Glober Biker"
 url: /rincon-de-la-victoria/glober-biker/
-shop: Fahrrad
+shop: bicicleta
 ---

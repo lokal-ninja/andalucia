@@ -1,5 +1,5 @@
 ---
 title: "Automóviles Trujillo"
 url: /cabra/automoviles-trujillo/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

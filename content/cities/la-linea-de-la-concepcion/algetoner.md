@@ -1,5 +1,5 @@
 ---
 title: "Algetoner"
 url: /la-linea-de-la-concepcion/algetoner/
-shop: Schreibwaren
+shop: material de oficina
 ---

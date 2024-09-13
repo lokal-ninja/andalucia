@@ -1,5 +1,5 @@
 ---
 title: "Mechanic People"
 url: /cadiz/mechanic-people/
-shop: Fahrrad
+shop: bicicleta
 ---

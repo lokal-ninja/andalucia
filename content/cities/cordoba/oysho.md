@@ -1,5 +1,5 @@
 ---
 title: "Oysho"
 url: /cordoba/oysho/
-shop: Kleidung
+shop: ropa
 ---

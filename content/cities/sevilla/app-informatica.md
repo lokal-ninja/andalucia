@@ -1,5 +1,5 @@
 ---
 title: "App Informática"
 url: /sevilla/app-informatica/
-shop: Computer
+shop: ordenador
 ---

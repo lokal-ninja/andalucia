@@ -1,5 +1,5 @@
 ---
 title: "Talleres Servicazorla"
 url: /cazorla/talleres-servicazorla/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

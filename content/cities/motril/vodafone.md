@@ -1,5 +1,5 @@
 ---
 title: "Vodafone"
 url: /motril/vodafone/
-shop: Handy
+shop: teléfono móvil
 ---

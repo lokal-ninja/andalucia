@@ -1,5 +1,5 @@
 ---
 title: "Sococan"
 url: /el-viso/sococan/
-shop: Tiere
+shop: mascotas
 ---

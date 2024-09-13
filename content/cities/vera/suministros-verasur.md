@@ -1,5 +1,5 @@
 ---
 title: "Suministros Verasur"
 url: /vera/suministros-verasur/
-shop: Baustoffe
+shop: comercio
 ---

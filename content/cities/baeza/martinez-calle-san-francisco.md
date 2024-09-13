@@ -1,5 +1,5 @@
 ---
 title: "Martinez"
 url: /baeza/martinez-calle-san-francisco/
-shop: Schuhe
+shop: zapatos
 ---

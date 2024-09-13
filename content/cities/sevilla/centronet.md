@@ -1,5 +1,5 @@
 ---
 title: "Centronet"
 url: /sevilla/centronet/
-shop: Wäscherei
+shop: lavandería
 ---

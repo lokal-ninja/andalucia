@@ -1,5 +1,5 @@
 ---
 title: "Hedonai"
 url: /cordoba/hedonai/
-shop: Kosmetik
+shop: cosméticos
 ---

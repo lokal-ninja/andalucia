@@ -1,5 +1,5 @@
 ---
 title: "Oasis"
 url: /sevilla/oasis/
-shop: Reisebüro
+shop: agencia de viajes
 ---

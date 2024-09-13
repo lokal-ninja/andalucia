@@ -1,5 +1,5 @@
 ---
 title: "Elisa"
 url: /turre/elisa/
-shop: Kosmetik
+shop: cosméticos
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Peluqueria Rosa Elena"
 url: /cazorla/peluqueria-rosa-elena/
-shop: Friseur
+shop: peluquería
 ---

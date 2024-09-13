@@ -1,5 +1,5 @@
 ---
 title: "Gangas"
 url: /cazorla/gangas/
-shop: Kramladen
+shop: tienda de variedades
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Viajes Liriamar"
 url: /sevilla/viajes-liriamar/
-shop: Reisebüro
+shop: agencia de viajes
 ---

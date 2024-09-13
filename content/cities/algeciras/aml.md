@@ -1,5 +1,5 @@
 ---
 title: "AML"
 url: /algeciras/aml/
-shop: Tickets
+shop: entradas
 ---

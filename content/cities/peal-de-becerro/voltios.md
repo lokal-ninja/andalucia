@@ -1,5 +1,5 @@
 ---
 title: "Voltios"
 url: /peal-de-becerro/voltios/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

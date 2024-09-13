@@ -1,5 +1,5 @@
 ---
 title: "Mercadona"
 url: /malaga/mercadona-calle-bocana/
-shop: Supermarkt
+shop: supermercado
 ---

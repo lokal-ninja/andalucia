@@ -1,5 +1,5 @@
 ---
 title: "Eurocien"
 url: /baeza/eurocien/
-shop: Kramladen
+shop: tienda de variedades
 ---

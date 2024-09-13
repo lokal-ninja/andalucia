@@ -1,5 +1,5 @@
 ---
 title: "Quiosco Prensa"
 url: /mojacar-playa/quiosco-prensa/
-shop: Kiosk
+shop: quiosco
 ---

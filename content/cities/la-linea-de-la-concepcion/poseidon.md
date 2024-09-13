@@ -1,5 +1,5 @@
 ---
 title: "Poseidon"
 url: /la-linea-de-la-concepcion/poseidon/
-shop: Angeln
+shop: pesca
 ---

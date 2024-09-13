@@ -1,5 +1,5 @@
 ---
 title: "Chuchelandia"
 url: /granada/chuchelandia/
-shop: Süßwaren
+shop: confitería
 ---

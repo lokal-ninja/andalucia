@@ -1,5 +1,5 @@
 ---
 title: "Copritriana"
 url: /sevilla/copritriana/
-shop: Schreibwaren
+shop: material de oficina
 ---

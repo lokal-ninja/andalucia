@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /benalmadena/aldi/
-shop: Supermarkt
+shop: supermercado
 ---

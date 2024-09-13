@@ -1,5 +1,5 @@
 ---
 title: "Bikertouren Andalusien"
 url: /alhaurin-de-la-torre/bikertouren-andalusien/
-shop: Reisebüro
+shop: agencia de viajes
 ---

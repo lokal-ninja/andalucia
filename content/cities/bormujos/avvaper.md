@@ -1,5 +1,5 @@
 ---
 title: "Avvaper"
 url: /bormujos/avvaper/
-shop: E-Zigaretten
+shop: cigarrillo electrónico
 ---

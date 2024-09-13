@@ -1,5 +1,5 @@
 ---
 title: "Hogarium"
 url: /granada/hogarium/
-shop: Elektronik
+shop: electrónica
 ---

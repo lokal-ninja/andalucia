@@ -1,5 +1,5 @@
 ---
 title: "Tecnicar"
 url: /motril/tecnicar/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

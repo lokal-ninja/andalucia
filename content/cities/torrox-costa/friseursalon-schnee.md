@@ -1,5 +1,5 @@
 ---
 title: "Friseursalon Schnee"
 url: /torrox-costa/friseursalon-schnee/
-shop: Friseur
+shop: peluquería
 ---

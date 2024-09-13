@@ -1,5 +1,5 @@
 ---
 title: "Yoigo"
 url: /cadiz/yoigo/
-shop: Handy
+shop: teléfono móvil
 ---

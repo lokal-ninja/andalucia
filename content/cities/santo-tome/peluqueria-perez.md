@@ -1,5 +1,5 @@
 ---
 title: "Peluquería Pérez"
 url: /santo-tome/peluqueria-perez/
-shop: Friseur
+shop: peluquería
 ---

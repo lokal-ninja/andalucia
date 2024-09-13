@@ -1,5 +1,5 @@
 ---
 title: "Vega"
 url: /turre/vega/
-shop: Supermarkt
+shop: supermercado
 ---

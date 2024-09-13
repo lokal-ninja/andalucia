@@ -1,5 +1,5 @@
 ---
 title: "Dani"
 url: /guadix/dani/
-shop: Supermarkt
+shop: supermercado
 ---

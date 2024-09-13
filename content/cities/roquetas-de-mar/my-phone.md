@@ -1,5 +1,5 @@
 ---
 title: "My Phone"
 url: /roquetas-de-mar/my-phone/
-shop: Handy
+shop: teléfono móvil
 ---

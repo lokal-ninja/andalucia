@@ -1,5 +1,5 @@
 ---
 title: "Univer Shop"
 url: /jaen/univer-shop/
-shop: Kramladen
+shop: tienda de variedades
 ---

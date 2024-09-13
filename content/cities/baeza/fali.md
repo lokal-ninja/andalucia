@@ -1,5 +1,5 @@
 ---
 title: "Fali"
 url: /baeza/fali/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tanatorio Romero"
 url: /orcera/tanatorio-romero/
-shop: Bestattungen
+shop: directores de funerarias
 ---

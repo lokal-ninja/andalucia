@@ -1,5 +1,5 @@
 ---
 title: "Covirán"
 url: /cajar/coviran/
-shop: Supermarkt
+shop: supermercado
 ---

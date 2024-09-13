@@ -1,5 +1,5 @@
 ---
 title: "Sevilla Factory"
 url: /dos-hermanas/sevilla-factory/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

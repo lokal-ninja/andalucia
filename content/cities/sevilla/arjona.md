@@ -1,5 +1,5 @@
 ---
 title: "Arjona"
 url: /sevilla/arjona/
-shop: Drogerie
+shop: farmacia
 ---

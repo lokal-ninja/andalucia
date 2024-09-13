@@ -1,5 +1,5 @@
 ---
 title: "Fasella"
 url: /cordoba/fasella/
-shop: Küchen
+shop: cocina
 ---

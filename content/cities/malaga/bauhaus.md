@@ -1,5 +1,5 @@
 ---
 title: "Bauhaus"
 url: /malaga/bauhaus/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

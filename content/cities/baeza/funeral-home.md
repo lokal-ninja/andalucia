@@ -1,5 +1,5 @@
 ---
 title: "Funeral home"
 url: /baeza/funeral-home/
-shop: Bestattungen
+shop: directores de funerarias
 ---

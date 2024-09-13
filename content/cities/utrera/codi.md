@@ -1,5 +1,5 @@
 ---
 title: "Codi"
 url: /utrera/codi/
-shop: Supermarkt
+shop: supermercado
 ---

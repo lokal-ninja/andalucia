@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
 url: /sevilla/aldi-calle-ganimedes/
-shop: Supermarkt
+shop: supermercado
 ---

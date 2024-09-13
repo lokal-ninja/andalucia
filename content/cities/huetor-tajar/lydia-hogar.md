@@ -1,5 +1,5 @@
 ---
 title: "Lydia Hogar"
 url: /huetor-tajar/lydia-hogar/
-shop: Textil
+shop: tela
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Spau"
 url: /cordoba/spau/
-shop: Schreibwaren
+shop: material de oficina
 ---

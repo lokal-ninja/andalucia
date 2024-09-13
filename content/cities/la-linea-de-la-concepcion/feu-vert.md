@@ -1,5 +1,5 @@
 ---
 title: "Feu Vert"
 url: /la-linea-de-la-concepcion/feu-vert/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

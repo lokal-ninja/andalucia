@@ -1,5 +1,5 @@
 ---
 title: "El Taller del Papel"
 url: /granada/el-taller-del-papel/
-shop: Kleidung
+shop: ropa
 ---

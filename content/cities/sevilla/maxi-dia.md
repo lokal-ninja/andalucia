@@ -1,5 +1,5 @@
 ---
 title: "Maxi Dia"
 url: /sevilla/maxi-dia/
-shop: Supermarkt
+shop: supermercado
 ---

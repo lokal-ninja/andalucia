@@ -1,5 +1,5 @@
 ---
 title: "Solterplas"
 url: /salteras/solterplas/
-shop: Schreibwaren
+shop: material de oficina
 ---

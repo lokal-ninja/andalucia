@@ -1,5 +1,5 @@
 ---
 title: "Pancracio Bicis"
 url: /granada/pancracio-bicis/
-shop: Fahrrad
+shop: bicicleta
 ---

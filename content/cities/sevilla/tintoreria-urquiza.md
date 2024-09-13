@@ -1,5 +1,5 @@
 ---
 title: "Tintorería Urquiza"
 url: /sevilla/tintoreria-urquiza/
-shop: Wäscherei
+shop: lavandería
 ---

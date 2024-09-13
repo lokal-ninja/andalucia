@@ -1,5 +1,5 @@
 ---
 title: "Movistar"
 url: /atarfe/movistar/
-shop: Handy
+shop: teléfono móvil
 ---

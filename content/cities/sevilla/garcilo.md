@@ -1,5 +1,5 @@
 ---
 title: "Garcilo"
 url: /sevilla/garcilo/
-shop: Schreibwaren
+shop: material de oficina
 ---

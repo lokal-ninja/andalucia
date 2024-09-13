@@ -1,5 +1,5 @@
 ---
 title: "Encuentro"
 url: /granada/encuentro/
-shop: Kleidung
+shop: ropa
 ---

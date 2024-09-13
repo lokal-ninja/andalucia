@@ -1,5 +1,5 @@
 ---
 title: "Mango"
 url: /marbella/mango/
-shop: Kleidung
+shop: ropa
 ---

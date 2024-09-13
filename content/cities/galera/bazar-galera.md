@@ -1,5 +1,5 @@
 ---
 title: "Bazar Galera"
 url: /galera/bazar-galera/
-shop: Kramladen
+shop: tienda de variedades
 ---

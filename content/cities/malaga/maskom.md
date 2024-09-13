@@ -1,5 +1,5 @@
 ---
 title: "Maskom"
 url: /malaga/maskom/
-shop: Supermarkt
+shop: supermercado
 ---

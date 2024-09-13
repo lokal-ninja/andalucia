@@ -1,5 +1,5 @@
 ---
 title: "Hiper-Factory BeBé"
 url: /ubeda/hiper-factory-bebe/
-shop: Babysachen
+shop: artículos para bebés
 ---

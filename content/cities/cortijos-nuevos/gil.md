@@ -1,5 +1,5 @@
 ---
 title: "Gil"
 url: /cortijos-nuevos/gil/
-shop: Supermarkt
+shop: supermercado
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Affina tu PC"
 url: /cordoba/affina-tu-pc/
-shop: Computer
+shop: ordenador
 ---

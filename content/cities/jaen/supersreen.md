@@ -1,5 +1,5 @@
 ---
 title: "supersreen"
 url: /jaen/supersreen/
-shop: Computer
+shop: ordenador
 ---

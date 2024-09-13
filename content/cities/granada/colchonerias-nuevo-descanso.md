@@ -1,5 +1,5 @@
 ---
 title: "Colchonerías Nuevo Descanso"
 url: /granada/colchonerias-nuevo-descanso/
-shop: Betten
+shop: cama
 ---

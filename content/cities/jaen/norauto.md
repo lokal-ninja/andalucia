@@ -1,5 +1,5 @@
 ---
 title: "Norauto"
 url: /jaen/norauto/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

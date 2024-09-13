@@ -1,5 +1,5 @@
 ---
 title: "Talleres Trujillo"
 url: /huetor-tajar/talleres-trujillo/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

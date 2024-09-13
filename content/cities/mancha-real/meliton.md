@@ -1,5 +1,5 @@
 ---
 title: "Melitón"
 url: /mancha-real/meliton/
-shop: Bäckerei
+shop: panadería
 ---

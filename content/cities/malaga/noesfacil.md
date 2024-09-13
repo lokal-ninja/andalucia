@@ -1,5 +1,5 @@
 ---
 title: "Noesfacil"
 url: /malaga/noesfacil/
-shop: Dorfladen
+shop: tienda rural
 ---

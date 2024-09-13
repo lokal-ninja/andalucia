@@ -1,5 +1,5 @@
 ---
 title: "NeumaticosSevilla"
 url: /sevilla/neumaticossevilla/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

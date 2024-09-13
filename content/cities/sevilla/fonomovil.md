@@ -1,5 +1,5 @@
 ---
 title: "FonoMovil"
 url: /sevilla/fonomovil/
-shop: Musik
+shop: música
 ---

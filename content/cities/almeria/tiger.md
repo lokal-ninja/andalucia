@@ -1,5 +1,5 @@
 ---
 title: "Tiger"
 url: /almeria/tiger/
-shop: Raumausstattung
+shop: decoración interior
 ---

@@ -1,5 +1,5 @@
 ---
 title: "La Parra"
 url: /sevilla/la-parra/
-shop: Bäckerei
+shop: panadería
 ---

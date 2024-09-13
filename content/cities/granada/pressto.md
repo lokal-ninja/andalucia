@@ -1,5 +1,5 @@
 ---
 title: "Pressto"
 url: /granada/pressto/
-shop: Wäscherei
+shop: lavandería
 ---

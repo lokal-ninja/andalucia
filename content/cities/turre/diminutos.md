@@ -1,5 +1,5 @@
 ---
 title: "Diminutos"
 url: /turre/diminutos/
-shop: Kleidung
+shop: ropa
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Álvaro Moreno"
 url: /jaen/alvaro-moreno/
-shop: Kleidung
+shop: ropa
 ---

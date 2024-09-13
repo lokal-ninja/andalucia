@@ -1,5 +1,5 @@
 ---
 title: "Supermercado Juanita"
 url: /velilla-taramay/supermercado-juanita/
-shop: Supermarkt
+shop: supermercado
 ---

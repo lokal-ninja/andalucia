@@ -1,5 +1,5 @@
 ---
 title: "Confisur"
 url: /cordoba/confisur/
-shop: Supermarkt
+shop: supermercado
 ---

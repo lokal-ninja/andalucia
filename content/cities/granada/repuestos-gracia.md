@@ -1,5 +1,5 @@
 ---
 title: "Repuestos Gracia"
 url: /granada/repuestos-gracia/
-shop: Autoteile
+shop: piezas de automóviles
 ---

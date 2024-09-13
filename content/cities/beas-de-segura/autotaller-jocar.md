@@ -1,5 +1,5 @@
 ---
 title: "Autotaller Jocar"
 url: /beas-de-segura/autotaller-jocar/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

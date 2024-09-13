@@ -1,5 +1,5 @@
 ---
 title: "The Fiesta"
 url: /rus/the-fiesta/
-shop: Kramladen
+shop: tienda de variedades
 ---

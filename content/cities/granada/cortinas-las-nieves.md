@@ -1,5 +1,5 @@
 ---
 title: "Cortinas Las Nieves"
 url: /granada/cortinas-las-nieves/
-shop: Raumausstattung
+shop: decoración interior
 ---

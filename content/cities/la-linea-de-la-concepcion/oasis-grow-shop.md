@@ -1,5 +1,5 @@
 ---
 title: "Oasis Grow Shop"
 url: /la-linea-de-la-concepcion/oasis-grow-shop/
-shop: Haushaltsartikel
+shop: menaje del hogar
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Garciden"
 url: /mojacar-playa/garciden/
-shop: Fisch
+shop: marisco
 ---

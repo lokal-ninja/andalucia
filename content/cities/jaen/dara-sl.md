@@ -1,5 +1,5 @@
 ---
 title: "Dara SL"
 url: /jaen/dara-sl/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

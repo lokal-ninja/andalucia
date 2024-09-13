@@ -1,5 +1,5 @@
 ---
 title: "Cleansec"
 url: /malaga/cleansec/
-shop: Wäscherei
+shop: lavandería
 ---

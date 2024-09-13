@@ -1,5 +1,5 @@
 ---
 title: "Boutique Francis"
 url: /ubeda/boutique-francis/
-shop: Babysachen
+shop: artículos para bebés
 ---

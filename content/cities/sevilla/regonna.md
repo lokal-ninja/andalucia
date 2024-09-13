@@ -1,5 +1,5 @@
 ---
 title: "Regonna"
 url: /sevilla/regonna/
-shop: Kosmetik
+shop: cosméticos
 ---

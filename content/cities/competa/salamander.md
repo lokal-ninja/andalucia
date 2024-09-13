@@ -1,5 +1,5 @@
 ---
 title: "Salamander"
 url: /competa/salamander/
-shop: Schuhe
+shop: zapatos
 ---

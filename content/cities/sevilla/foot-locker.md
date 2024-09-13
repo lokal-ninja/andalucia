@@ -1,5 +1,5 @@
 ---
 title: "Foot Locker"
 url: /sevilla/foot-locker/
-shop: Schuhe
+shop: zapatos
 ---

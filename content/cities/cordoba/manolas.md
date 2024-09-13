@@ -1,5 +1,5 @@
 ---
 title: "Manolas"
 url: /cordoba/manolas/
-shop: Feinkost
+shop: charcutería
 ---

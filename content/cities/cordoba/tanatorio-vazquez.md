@@ -1,5 +1,5 @@
 ---
 title: "Tanatorio Vázquez"
 url: /cordoba/tanatorio-vazquez/
-shop: Bestattungen
+shop: directores de funerarias
 ---

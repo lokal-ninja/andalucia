@@ -1,5 +1,5 @@
 ---
 title: "González Vida"
 url: /priego-de-cordoba/gonzalez-vida/
-shop: Schuhe
+shop: zapatos
 ---

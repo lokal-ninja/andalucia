@@ -1,5 +1,5 @@
 ---
 title: "Norauto"
 url: /cordoba/norauto/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

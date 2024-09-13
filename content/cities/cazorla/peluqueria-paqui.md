@@ -1,5 +1,5 @@
 ---
 title: "Peluquería Paqui"
 url: /cazorla/peluqueria-paqui/
-shop: Friseur
+shop: peluquería
 ---

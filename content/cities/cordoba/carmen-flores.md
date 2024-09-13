@@ -1,5 +1,5 @@
 ---
 title: "Carmen Flores"
 url: /cordoba/carmen-flores/
-shop: Kleidung
+shop: ropa
 ---

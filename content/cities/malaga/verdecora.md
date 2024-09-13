@@ -1,5 +1,5 @@
 ---
 title: "Verdecora"
 url: /malaga/verdecora/
-shop: Garten-Center
+shop: centro de jardinería
 ---

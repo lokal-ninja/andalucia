@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /san-fernando/aldi/
-shop: Supermarkt
+shop: supermercado
 ---

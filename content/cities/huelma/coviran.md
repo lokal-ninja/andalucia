@@ -1,5 +1,5 @@
 ---
 title: "Covirán"
 url: /huelma/coviran/
-shop: Supermarkt
+shop: supermercado
 ---

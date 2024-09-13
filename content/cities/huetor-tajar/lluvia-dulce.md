@@ -1,5 +1,5 @@
 ---
 title: "Lluvia Dulce"
 url: /huetor-tajar/lluvia-dulce/
-shop: Süßwaren
+shop: confitería
 ---

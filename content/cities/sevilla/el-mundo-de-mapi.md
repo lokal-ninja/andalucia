@@ -1,5 +1,5 @@
 ---
 title: "El mundo de Mapi"
 url: /sevilla/el-mundo-de-mapi/
-shop: Babysachen
+shop: artículos para bebés
 ---

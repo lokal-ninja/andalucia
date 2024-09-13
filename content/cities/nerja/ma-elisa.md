@@ -1,5 +1,5 @@
 ---
 title: "Ma Elisa"
 url: /nerja/ma-elisa/
-shop: Kleidung
+shop: ropa
 ---

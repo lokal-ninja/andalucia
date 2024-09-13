@@ -1,5 +1,5 @@
 ---
 title: "Desguaces Úbeda"
 url: /ubeda/desguaces-ubeda/
-shop: Autoteile
+shop: piezas de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Carrefour"
 url: /jaen/carrefour/
-shop: Supermarkt
+shop: supermercado
 ---

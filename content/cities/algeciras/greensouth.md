@@ -1,5 +1,5 @@
 ---
 title: "Greensouth"
 url: /algeciras/greensouth/
-shop: Computer
+shop: ordenador
 ---

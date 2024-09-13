@@ -1,5 +1,5 @@
 ---
 title: "Rock Barber"
 url: /granada/rock-barber/
-shop: Friseur
+shop: peluquería
 ---

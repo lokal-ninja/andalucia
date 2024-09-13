@@ -1,5 +1,5 @@
 ---
 title: "Tecnocopy"
 url: /sevilla/tecnocopy/
-shop: Kopieren
+shop: copyshop
 ---

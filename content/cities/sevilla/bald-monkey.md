@@ -1,5 +1,5 @@
 ---
 title: "Bald Monkey"
 url: /sevilla/bald-monkey/
-shop: Friseur
+shop: peluquería
 ---

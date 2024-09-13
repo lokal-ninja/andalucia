@@ -1,5 +1,5 @@
 ---
 title: "Funeraria Soria"
 url: /ubeda/funeraria-soria/
-shop: Bestattungen
+shop: directores de funerarias
 ---

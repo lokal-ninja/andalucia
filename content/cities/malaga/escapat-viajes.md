@@ -1,5 +1,5 @@
 ---
 title: "Escapat Viajes"
 url: /malaga/escapat-viajes/
-shop: Reisebüro
+shop: agencia de viajes
 ---

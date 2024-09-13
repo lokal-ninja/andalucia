@@ -1,5 +1,5 @@
 ---
 title: "Naturhouse"
 url: /cordoba/naturhouse/
-shop: Nahrungsergänzung
+shop: suplementos nutricionales
 ---

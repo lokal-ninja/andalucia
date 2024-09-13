@@ -1,5 +1,5 @@
 ---
 title: "Arintec"
 url: /sevilla/arintec/
-shop: Computer
+shop: ordenador
 ---

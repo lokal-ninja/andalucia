@@ -1,5 +1,5 @@
 ---
 title: "Anika Alimentacion"
 url: /jaen/anika-alimentacion/
-shop: Lebensmittel
+shop: comodidad
 ---

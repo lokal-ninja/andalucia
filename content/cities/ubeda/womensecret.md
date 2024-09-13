@@ -1,5 +1,5 @@
 ---
 title: "Women'secret"
 url: /ubeda/womensecret/
-shop: Kleidung
+shop: ropa
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Comodalia"
 url: /sevila/comodalia/
-shop: Betten
+shop: cama
 ---

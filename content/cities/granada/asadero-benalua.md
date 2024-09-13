@@ -1,5 +1,5 @@
 ---
 title: "Asadero Benalúa"
 url: /granada/asadero-benalua/
-shop: Lebensmittel
+shop: comodidad
 ---

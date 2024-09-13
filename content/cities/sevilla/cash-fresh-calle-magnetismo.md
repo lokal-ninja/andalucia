@@ -1,5 +1,5 @@
 ---
 title: "Cash fresh"
 url: /sevilla/cash-fresh-calle-magnetismo/
-shop: Supermarkt
+shop: supermercado
 ---

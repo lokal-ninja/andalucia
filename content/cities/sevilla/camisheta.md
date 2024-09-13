@@ -1,5 +1,5 @@
 ---
 title: "CamisHeta"
 url: /sevilla/camisheta/
-shop: Textil
+shop: tela
 ---

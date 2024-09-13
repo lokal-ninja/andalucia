@@ -1,5 +1,5 @@
 ---
 title: "Hiperdeluz"
 url: /granada/hiperdeluz/
-shop: Warenhaus
+shop: grandes almacenes
 ---

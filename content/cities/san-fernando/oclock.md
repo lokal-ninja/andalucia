@@ -1,5 +1,5 @@
 ---
 title: "O'clock"
 url: /san-fernando/oclock/
-shop: Kleidung
+shop: ropa
 ---

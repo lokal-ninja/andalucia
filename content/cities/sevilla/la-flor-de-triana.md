@@ -1,5 +1,5 @@
 ---
 title: "La Flor de Triana"
 url: /sevilla/la-flor-de-triana/
-shop: Blumen
+shop: floristería
 ---

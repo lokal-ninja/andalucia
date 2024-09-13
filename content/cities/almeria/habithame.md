@@ -1,5 +1,5 @@
 ---
 title: "Habithame"
 url: /almeria/habithame/
-shop: Raumausstattung
+shop: decoración interior
 ---

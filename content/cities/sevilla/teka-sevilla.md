@@ -1,5 +1,5 @@
 ---
 title: "Teka Sevilla"
 url: /sevilla/teka-sevilla/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

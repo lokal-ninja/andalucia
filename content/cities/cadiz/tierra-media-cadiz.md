@@ -1,5 +1,5 @@
 ---
 title: "Tierra Media Cádiz"
 url: /cadiz/tierra-media-cadiz/
-shop: Allgemein
+shop: general
 ---

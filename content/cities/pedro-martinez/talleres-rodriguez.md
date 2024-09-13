@@ -1,5 +1,5 @@
 ---
 title: "Talleres Rodríguez"
 url: /pedro-martinez/talleres-rodriguez/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

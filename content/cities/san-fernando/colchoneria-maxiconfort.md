@@ -1,5 +1,5 @@
 ---
 title: "Colchonería Maxiconfort"
 url: /san-fernando/colchoneria-maxiconfort/
-shop: Möbel
+shop: muebles
 ---

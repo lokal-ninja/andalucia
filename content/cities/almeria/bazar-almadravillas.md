@@ -1,5 +1,5 @@
 ---
 title: "Bazar Almadravillas"
 url: /almeria/bazar-almadravillas/
-shop: Kramladen
+shop: tienda de variedades
 ---

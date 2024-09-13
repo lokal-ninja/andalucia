@@ -1,5 +1,5 @@
 ---
 title: "Movistar"
 url: /martos/movistar/
-shop: Handy
+shop: teléfono móvil
 ---

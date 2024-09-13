@@ -1,5 +1,5 @@
 ---
 title: "Carlín"
 url: /sevilla/carlin/
-shop: Schreibwaren
+shop: material de oficina
 ---

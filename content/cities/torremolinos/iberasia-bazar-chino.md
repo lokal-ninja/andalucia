@@ -1,5 +1,5 @@
 ---
 title: "Iberasia - bazar chino"
 url: /torremolinos/iberasia-bazar-chino/
-shop: Dorfladen
+shop: tienda de variedades
 ---

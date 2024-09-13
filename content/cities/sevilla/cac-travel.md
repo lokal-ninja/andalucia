@@ -1,5 +1,5 @@
 ---
 title: "CAC TRAVEL"
 url: /sevilla/cac-travel/
-shop: Reisebüro
+shop: agencia de viajes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Vodafone"
 url: /cabra/vodafone/
-shop: Handy
+shop: teléfono móvil
 ---

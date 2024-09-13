@@ -1,5 +1,5 @@
 ---
 title: "Comestibles Cándida"
 url: /galera/comestibles-candida/
-shop: Lebensmittel
+shop: comodidad
 ---

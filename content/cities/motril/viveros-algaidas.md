@@ -1,5 +1,5 @@
 ---
 title: "Viveros Algaidas"
 url: /motril/viveros-algaidas/
-shop: Garten-Center
+shop: centro de jardinería
 ---

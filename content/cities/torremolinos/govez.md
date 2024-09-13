@@ -1,5 +1,5 @@
 ---
 title: "Govez"
 url: /torremolinos/govez/
-shop: Schreibwaren
+shop: material de oficina
 ---

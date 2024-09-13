@@ -1,5 +1,5 @@
 ---
 title: "Las Comadres"
 url: /sevilla/las-comadres/
-shop: Hofladen
+shop: granja
 ---

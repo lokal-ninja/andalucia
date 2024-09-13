@@ -1,5 +1,5 @@
 ---
 title: "Juan Ruiz Orcera"
 url: /ubeda/juan-ruiz-orcera/
-shop: Autoteile
+shop: piezas de automóviles
 ---

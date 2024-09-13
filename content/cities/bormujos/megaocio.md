@@ -1,5 +1,5 @@
 ---
 title: "Megaocio"
 url: /bormujos/megaocio/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

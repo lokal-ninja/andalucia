@@ -1,5 +1,5 @@
 ---
 title: "Juan"
 url: /jaen/juan/
-shop: Metzgerei
+shop: carnicero
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Orange"
 url: /torremolinos/orange/
-shop: Handy
+shop: teléfono móvil
 ---

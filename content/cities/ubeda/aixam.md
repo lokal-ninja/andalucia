@@ -1,5 +1,5 @@
 ---
 title: "Aixam"
 url: /ubeda/aixam/
-shop: Autohaus
+shop: coche
 ---

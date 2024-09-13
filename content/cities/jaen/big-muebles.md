@@ -1,5 +1,5 @@
 ---
 title: "Big Muebles"
 url: /jaen/big-muebles/
-shop: Möbel
+shop: muebles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Markos Enmarcación"
 url: /sevilla/markos-enmarcacion/
-shop: Rahmen
+shop: marco
 ---

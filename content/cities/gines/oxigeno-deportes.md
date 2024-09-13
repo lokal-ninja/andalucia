@@ -1,5 +1,5 @@
 ---
 title: "Oxígeno Deportes"
 url: /gines/oxigeno-deportes/
-shop: Sport
+shop: deportes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Diamond"
 url: /la-linea-de-la-concepcion/diamond/
-shop: Kosmetik
+shop: cosméticos
 ---

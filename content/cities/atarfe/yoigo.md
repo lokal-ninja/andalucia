@@ -1,5 +1,5 @@
 ---
 title: "Yoigo"
 url: /atarfe/yoigo/
-shop: Handy
+shop: teléfono móvil
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tanatorio de San Roque"
 url: /san-roque/tanatorio-de-san-roque/
-shop: Bestattungen
+shop: directores de funerarias
 ---

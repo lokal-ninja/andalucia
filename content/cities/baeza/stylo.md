@@ -1,5 +1,5 @@
 ---
 title: "Stylo"
 url: /baeza/stylo/
-shop: Kleidung
+shop: ropa
 ---

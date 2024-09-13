@@ -1,5 +1,5 @@
 ---
 title: "Anubis"
 url: /jaen/anubis/
-shop: Bäckerei
+shop: panadería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kiddy's Class"
 url: /ubeda/kiddys-class/
-shop: Kleidung
+shop: ropa
 ---

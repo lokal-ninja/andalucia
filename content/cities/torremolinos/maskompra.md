@@ -1,5 +1,5 @@
 ---
 title: "Maskompra"
 url: /torremolinos/maskompra/
-shop: Supermarkt
+shop: supermercado
 ---

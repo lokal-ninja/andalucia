@@ -1,5 +1,5 @@
 ---
 title: "Puro Estilo"
 url: /estepona/puro-estilo/
-shop: Kleidung
+shop: ropa
 ---

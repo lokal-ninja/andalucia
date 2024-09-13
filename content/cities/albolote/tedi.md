@@ -1,5 +1,5 @@
 ---
 title: "Tedi"
 url: /albolote/tedi/
-shop: Haushaltsartikel
+shop: menaje del hogar
 ---

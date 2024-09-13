@@ -1,5 +1,5 @@
 ---
 title: "NG Talleres"
 url: /sevilla/ng-talleres/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

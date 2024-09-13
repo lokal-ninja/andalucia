@@ -1,5 +1,5 @@
 ---
 title: "Viajes Corinto"
 url: /sevilla/viajes-corinto/
-shop: Reisebüro
+shop: agencia de viajes
 ---

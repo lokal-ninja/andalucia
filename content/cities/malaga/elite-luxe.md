@@ -1,5 +1,5 @@
 ---
 title: "Elite Luxe"
 url: /malaga/elite-luxe/
-shop: Reisebüro
+shop: agencia de viajes
 ---

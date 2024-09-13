@@ -1,5 +1,5 @@
 ---
 title: "Carrefour Express"
 url: /granada/carrefour-express-calle-angel-ganivet/
-shop: Lebensmittel
+shop: comodidad
 ---

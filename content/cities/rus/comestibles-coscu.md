@@ -1,5 +1,5 @@
 ---
 title: "Comestibles Coscu"
 url: /rus/comestibles-coscu/
-shop: Supermarkt
+shop: supermercado
 ---

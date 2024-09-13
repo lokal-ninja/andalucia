@@ -1,5 +1,5 @@
 ---
 title: "Librería Babel"
 url: /granada/libreria-babel/
-shop: Bücher
+shop: libros
 ---

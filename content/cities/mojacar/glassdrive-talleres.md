@@ -1,5 +1,5 @@
 ---
 title: "Glassdrive Talleres"
 url: /mojacar/glassdrive-talleres/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

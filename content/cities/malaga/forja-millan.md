@@ -1,5 +1,5 @@
 ---
 title: "Forja Millán"
 url: /malaga/forja-millan/
-shop: Haushaltsartikel
+shop: menaje del hogar
 ---

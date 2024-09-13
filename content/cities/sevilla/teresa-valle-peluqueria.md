@@ -1,5 +1,5 @@
 ---
 title: "Teresa Valle Peluquería"
 url: /sevilla/teresa-valle-peluqueria/
-shop: Friseur
+shop: peluquería
 ---

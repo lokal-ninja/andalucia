@@ -1,5 +1,5 @@
 ---
 title: "Viveros Hortiflor SL"
 url: /vera/viveros-hortiflor-sl/
-shop: Garten-Center
+shop: centro de jardinería
 ---

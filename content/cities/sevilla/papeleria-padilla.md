@@ -1,5 +1,5 @@
 ---
 title: "Papelería Padilla"
 url: /sevilla/papeleria-padilla/
-shop: Schreibwaren
+shop: material de oficina
 ---

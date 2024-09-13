@@ -1,5 +1,5 @@
 ---
 title: "Peluquería Damian"
 url: /turre/peluqueria-damian/
-shop: Friseur
+shop: peluquería
 ---

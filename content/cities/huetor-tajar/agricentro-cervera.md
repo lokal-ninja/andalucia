@@ -1,5 +1,5 @@
 ---
 title: "Agricentro Cervera"
 url: /huetor-tajar/agricentro-cervera/
-shop: Garten-Center
+shop: centro de jardinería
 ---

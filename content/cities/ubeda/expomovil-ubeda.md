@@ -1,5 +1,5 @@
 ---
 title: "Expomóvil Úbeda"
 url: /ubeda/expomovil-ubeda/
-shop: Autohaus
+shop: coche
 ---

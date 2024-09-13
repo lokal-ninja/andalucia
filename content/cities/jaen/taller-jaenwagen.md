@@ -1,5 +1,5 @@
 ---
 title: "Taller JaénWagen"
 url: /jaen/taller-jaenwagen/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

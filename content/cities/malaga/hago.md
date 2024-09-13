@@ -1,5 +1,5 @@
 ---
 title: "Hago"
 url: /malaga/hago/
-shop: Schmuck
+shop: joyería
 ---

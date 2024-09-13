@@ -1,5 +1,5 @@
 ---
 title: "Trasteros PLus"
 url: /mijas/trasteros-plus/
-shop: Mieten
+shop: alquiler
 ---

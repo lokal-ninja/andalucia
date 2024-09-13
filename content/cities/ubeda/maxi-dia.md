@@ -1,5 +1,5 @@
 ---
 title: "Maxi Dia"
 url: /ubeda/maxi-dia/
-shop: Supermarkt
+shop: supermercado
 ---

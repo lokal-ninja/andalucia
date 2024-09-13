@@ -1,5 +1,5 @@
 ---
 title: "Carrefour Market"
 url: /granada/carrefour-market/
-shop: Supermarkt
+shop: supermercado
 ---

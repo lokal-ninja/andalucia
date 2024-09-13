@@ -1,5 +1,5 @@
 ---
 title: "Gráficas Minerva"
 url: /ubeda/graficas-minerva/
-shop: Schreibwaren
+shop: material de oficina
 ---

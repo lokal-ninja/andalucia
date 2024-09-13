@@ -1,5 +1,5 @@
 ---
 title: "Faroles Estévez"
 url: /granada/faroles-estevez/
-shop: Raumausstattung
+shop: decoración interior
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Los Cinco Lobitos"
 url: /atarfe/los-cinco-lobitos/
-shop: Kleidung
+shop: ropa
 ---

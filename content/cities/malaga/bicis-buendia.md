@@ -1,5 +1,5 @@
 ---
 title: "Bicis Buendia"
 url: /malaga/bicis-buendia/
-shop: Fahrrad
+shop: bicicleta
 ---

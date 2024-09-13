@@ -1,5 +1,5 @@
 ---
 title: "Caravaca"
 url: /puente-mayorga/caravaca/
-shop: Metzgerei
+shop: carnicero
 ---

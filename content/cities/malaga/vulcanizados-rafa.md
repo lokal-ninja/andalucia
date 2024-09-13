@@ -1,5 +1,5 @@
 ---
 title: "Vulcanizados Rafa"
 url: /malaga/vulcanizados-rafa/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

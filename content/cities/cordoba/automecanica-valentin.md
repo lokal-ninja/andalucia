@@ -1,5 +1,5 @@
 ---
 title: "Automecánica Valentín"
 url: /cordoba/automecanica-valentin/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

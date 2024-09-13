@@ -1,5 +1,5 @@
 ---
 title: "Neumáticos Atarfe"
 url: /atarfe/neumaticos-atarfe/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

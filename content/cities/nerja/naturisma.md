@@ -1,5 +1,5 @@
 ---
 title: "Naturisma"
 url: /nerja/naturisma/
-shop: Supermarkt
+shop: supermercado
 ---

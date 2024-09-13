@@ -1,5 +1,5 @@
 ---
 title: "Alejandro"
 url: /jaen/alejandro/
-shop: Kleidung
+shop: ropa
 ---

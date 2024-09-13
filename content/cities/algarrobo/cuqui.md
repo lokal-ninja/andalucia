@@ -1,5 +1,5 @@
 ---
 title: "Cuqui"
 url: /algarrobo/cuqui/
-shop: Kleidung
+shop: ropa
 ---

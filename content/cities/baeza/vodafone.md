@@ -1,5 +1,5 @@
 ---
 title: "Vodafone"
 url: /baeza/vodafone/
-shop: Handy
+shop: teléfono móvil
 ---

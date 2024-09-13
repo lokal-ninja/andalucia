@@ -1,5 +1,5 @@
 ---
 title: "Aquore"
 url: /jaen/aquore/
-shop: Badezimmer
+shop: cuarto de baño
 ---

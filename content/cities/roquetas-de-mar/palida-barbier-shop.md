@@ -1,5 +1,5 @@
 ---
 title: "Pálida barbier shop"
 url: /roquetas-de-mar/palida-barbier-shop/
-shop: Friseur
+shop: peluquería
 ---

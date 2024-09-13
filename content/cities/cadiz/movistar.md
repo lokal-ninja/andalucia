@@ -1,5 +1,5 @@
 ---
 title: "Movistar"
 url: /cadiz/movistar/
-shop: Handy
+shop: teléfono móvil
 ---

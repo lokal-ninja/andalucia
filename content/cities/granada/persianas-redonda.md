@@ -1,5 +1,5 @@
 ---
 title: "Persianas Redonda"
 url: /granada/persianas-redonda/
-shop: Jalousien
+shop: persianas
 ---

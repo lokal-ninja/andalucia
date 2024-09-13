@@ -1,5 +1,5 @@
 ---
 title: "Pinmu"
 url: /cordoba/pinmu/
-shop: Farben
+shop: pintura
 ---

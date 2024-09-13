@@ -1,5 +1,5 @@
 ---
 title: "Talleres Gómez"
 url: /cazorla/talleres-gomez/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

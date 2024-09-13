@@ -1,5 +1,5 @@
 ---
 title: "Paseos en Globo"
 url: /gines/paseos-en-globo/
-shop: Reisebüro
+shop: agencia de viajes
 ---

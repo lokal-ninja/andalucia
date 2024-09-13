@@ -1,5 +1,5 @@
 ---
 title: "Pronto Imprenta"
 url: /vera-playa/pronto-imprenta/
-shop: Kopieren
+shop: copyshop
 ---

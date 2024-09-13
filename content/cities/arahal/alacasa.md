@@ -1,5 +1,5 @@
 ---
 title: "Alacasa"
 url: /arahal/alacasa/
-shop: Supermarkt
+shop: supermercado
 ---

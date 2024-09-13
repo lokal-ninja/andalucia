@@ -1,5 +1,5 @@
 ---
 title: "Mathilda"
 url: /cordoba/mathilda/
-shop: Nähzubehör
+shop: coser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Perfumes Hada"
 url: /cazorla/perfumes-hada/
-shop: Drogerie
+shop: farmacia
 ---

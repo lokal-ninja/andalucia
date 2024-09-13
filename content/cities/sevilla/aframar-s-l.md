@@ -1,5 +1,5 @@
 ---
 title: "Aframar S.L."
 url: /sevilla/aframar-s-l/
-shop: Tiefkühl
+shop: alimentos congelados
 ---

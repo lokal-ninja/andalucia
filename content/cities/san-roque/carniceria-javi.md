@@ -1,5 +1,5 @@
 ---
 title: "Carnicería Javi"
 url: /san-roque/carniceria-javi/
-shop: Metzgerei
+shop: carnicero
 ---

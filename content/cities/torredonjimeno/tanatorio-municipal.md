@@ -1,5 +1,5 @@
 ---
 title: "Tanatorio Municipal"
 url: /torredonjimeno/tanatorio-municipal/
-shop: Bestattungen
+shop: directores de funerarias
 ---

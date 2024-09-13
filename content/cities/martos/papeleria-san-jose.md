@@ -1,5 +1,5 @@
 ---
 title: "Papelería San José"
 url: /martos/papeleria-san-jose/
-shop: Schreibwaren
+shop: material de oficina
 ---

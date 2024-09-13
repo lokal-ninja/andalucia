@@ -1,5 +1,5 @@
 ---
 title: "Mass Intimos"
 url: /sevilla/mass-intimos/
-shop: Kleidung
+shop: ropa
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Informaticasa"
 url: /aracena/informaticasa/
-shop: Computer
+shop: ordenador
 ---

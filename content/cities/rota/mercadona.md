@@ -1,5 +1,5 @@
 ---
 title: "Mercadona"
 url: /rota/mercadona/
-shop: Supermarkt
+shop: supermercado
 ---

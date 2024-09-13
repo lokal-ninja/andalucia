@@ -1,5 +1,5 @@
 ---
 title: "Tiendas Agatha"
 url: /granada/tiendas-agatha/
-shop: Kosmetik
+shop: cosméticos
 ---

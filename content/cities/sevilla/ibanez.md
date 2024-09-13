@@ -1,5 +1,5 @@
 ---
 title: "Ibañez"
 url: /sevilla/ibanez/
-shop: Kleidung
+shop: ropa
 ---

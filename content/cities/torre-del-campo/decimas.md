@@ -1,5 +1,5 @@
 ---
 title: "Décimas"
 url: /torre-del-campo/decimas/
-shop: Kleidung
+shop: ropa
 ---

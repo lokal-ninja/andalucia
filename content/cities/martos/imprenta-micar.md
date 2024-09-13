@@ -1,5 +1,5 @@
 ---
 title: "Imprenta Micar"
 url: /martos/imprenta-micar/
-shop: Allgemein
+shop: general
 ---

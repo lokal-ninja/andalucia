@@ -1,5 +1,5 @@
 ---
 title: "Siete Colores"
 url: /baeza/siete-colores/
-shop: Kleidung
+shop: ropa
 ---

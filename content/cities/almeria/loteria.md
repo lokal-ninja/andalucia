@@ -1,5 +1,5 @@
 ---
 title: "Lotería"
 url: /almeria/loteria/
-shop: Kiosk
+shop: quiosco
 ---

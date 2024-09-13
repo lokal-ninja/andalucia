@@ -1,5 +1,5 @@
 ---
 title: "Lupit Paris"
 url: /cazorla/lupit-paris/
-shop: Kleidung
+shop: ropa
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ropa´s"
 url: /cazorla/ropa-s/
-shop: Kleidung
+shop: ropa
 ---

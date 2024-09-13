@@ -1,5 +1,5 @@
 ---
 title: "Hiper Ruenfa"
 url: /ubeda/hiper-ruenfa/
-shop: Kramladen
+shop: tienda de variedades
 ---

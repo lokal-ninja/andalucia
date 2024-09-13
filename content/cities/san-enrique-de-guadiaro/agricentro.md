@@ -1,5 +1,5 @@
 ---
 title: "Agricentro"
 url: /san-enrique-de-guadiaro/agricentro/
-shop: Hofladen
+shop: granja
 ---

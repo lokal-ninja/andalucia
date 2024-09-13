@@ -1,5 +1,5 @@
 ---
 title: "Alimentación Medina Azahara"
 url: /cordoba/alimentacion-medina-azahara/
-shop: Lebensmittel
+shop: comodidad
 ---

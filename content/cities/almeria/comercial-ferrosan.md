@@ -1,5 +1,5 @@
 ---
 title: "Comercial Ferrosan"
 url: /almeria/comercial-ferrosan/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Yoigo"
 url: /ubeda/yoigo/
-shop: Handy
+shop: teléfono móvil
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Blaveo"
 url: /ubeda/blaveo/
-shop: Handy
+shop: teléfono móvil
 ---

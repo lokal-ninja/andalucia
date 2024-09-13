@@ -1,5 +1,5 @@
 ---
 title: "Motogas Sevilla"
 url: /sevilla/motogas-sevilla/
-shop: Motorrad
+shop: motocicleta
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Casa Daniele"
 url: /cordoba/casa-daniele/
-shop: Käse
+shop: queso
 ---

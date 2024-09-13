@@ -1,5 +1,5 @@
 ---
 title: "Yoigo"
 url: /baeza/yoigo/
-shop: Handy
+shop: teléfono móvil
 ---

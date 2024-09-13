@@ -1,5 +1,5 @@
 ---
 title: "Geno"
 url: /malaga/geno/
-shop: Kosmetik
+shop: cosméticos
 ---

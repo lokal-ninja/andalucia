@@ -1,5 +1,5 @@
 ---
 title: "Jardín"
 url: /cordoba/jardin/
-shop: Blumen
+shop: floristería
 ---

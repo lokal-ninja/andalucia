@@ -1,5 +1,5 @@
 ---
 title: "Viajes Savitur"
 url: /malaga/viajes-savitur/
-shop: Reisebüro
+shop: agencia de viajes
 ---

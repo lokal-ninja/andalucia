@@ -1,5 +1,5 @@
 ---
 title: "Allbike"
 url: /peligros/allbike/
-shop: Fahrrad
+shop: bicicleta
 ---

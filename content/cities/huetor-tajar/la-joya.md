@@ -1,5 +1,5 @@
 ---
 title: "La Joya"
 url: /huetor-tajar/la-joya/
-shop: Bäckerei
+shop: panadería
 ---

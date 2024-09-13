@@ -1,5 +1,5 @@
 ---
 title: "Tanatorio"
 url: /la-guardia-de-jaen/tanatorio/
-shop: Bestattungen
+shop: directores de funerarias
 ---

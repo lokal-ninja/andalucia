@@ -1,5 +1,5 @@
 ---
 title: "Owen"
 url: /algeciras/owen/
-shop: Kleidung
+shop: ropa
 ---

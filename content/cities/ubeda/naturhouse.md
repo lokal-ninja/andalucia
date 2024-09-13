@@ -1,5 +1,5 @@
 ---
 title: "Naturhouse"
 url: /ubeda/naturhouse/
-shop: Nahrungsergänzung
+shop: suplementos nutricionales
 ---

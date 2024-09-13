@@ -1,5 +1,5 @@
 ---
 title: "Fifty"
 url: /jaen/fifty/
-shop: Kleidung
+shop: ropa
 ---

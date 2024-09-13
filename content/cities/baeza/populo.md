@@ -1,5 +1,5 @@
 ---
 title: "Pópulo"
 url: /baeza/populo/
-shop: Andenken
+shop: regalo
 ---

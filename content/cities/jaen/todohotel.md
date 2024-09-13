@@ -1,5 +1,5 @@
 ---
 title: "Todohotel"
 url: /jaen/todohotel/
-shop: Großhandel
+shop: mayorista
 ---

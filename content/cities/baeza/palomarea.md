@@ -1,5 +1,5 @@
 ---
 title: "Palomarea"
 url: /baeza/palomarea/
-shop: Eisenwaren
+shop: hardware
 ---

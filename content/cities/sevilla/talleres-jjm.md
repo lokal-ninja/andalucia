@@ -1,5 +1,5 @@
 ---
 title: "Talleres JJM"
 url: /sevilla/talleres-jjm/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

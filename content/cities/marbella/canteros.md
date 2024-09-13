@@ -1,5 +1,5 @@
 ---
 title: "Canteros"
 url: /marbella/canteros/
-shop: Konditorei
+shop: pastelería
 ---

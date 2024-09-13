@@ -1,5 +1,5 @@
 ---
 title: "Motosprint"
 url: /san-fernando/motosprint/
-shop: Motorrad
+shop: motocicleta
 ---

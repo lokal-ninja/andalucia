@@ -1,5 +1,5 @@
 ---
 title: "La Escribanía"
 url: /baeza/la-escribania/
-shop: Andenken
+shop: regalo
 ---

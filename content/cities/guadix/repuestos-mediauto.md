@@ -1,5 +1,5 @@
 ---
 title: "Repuestos Mediauto"
 url: /guadix/repuestos-mediauto/
-shop: Autoteile
+shop: piezas de automóviles
 ---

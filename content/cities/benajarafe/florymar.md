@@ -1,5 +1,5 @@
 ---
 title: "Florymar"
 url: /benajarafe/florymar/
-shop: Garten-Center
+shop: centro de jardinería
 ---

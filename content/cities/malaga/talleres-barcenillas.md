@@ -1,5 +1,5 @@
 ---
 title: "Talleres Barcenillas"
 url: /malaga/talleres-barcenillas/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

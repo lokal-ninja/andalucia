@@ -1,5 +1,5 @@
 ---
 title: "Arjona"
 url: /sevilla/arjona-calle-arjona/
-shop: Schreibwaren
+shop: material de oficina
 ---

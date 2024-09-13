@@ -1,5 +1,5 @@
 ---
 title: "Mundomoto"
 url: /ubeda/mundomoto/
-shop: Motorrad
+shop: motocicleta
 ---

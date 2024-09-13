@@ -1,5 +1,5 @@
 ---
 title: "Retabet.es"
 url: /sevilla/retabet-es/
-shop: Wettbüro
+shop: corredor de apuestas
 ---

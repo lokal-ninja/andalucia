@@ -1,5 +1,5 @@
 ---
 title: "Mymo"
 url: /ubeda/mymo/
-shop: Drogerie
+shop: farmacia
 ---

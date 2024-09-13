@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /puerto-real/lidl/
-shop: Supermarkt
+shop: supermercado
 ---

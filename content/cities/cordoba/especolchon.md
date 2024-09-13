@@ -1,5 +1,5 @@
 ---
 title: "Especolchón"
 url: /cordoba/especolchon/
-shop: Betten
+shop: cama
 ---

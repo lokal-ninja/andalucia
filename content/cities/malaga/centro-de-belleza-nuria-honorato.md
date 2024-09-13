@@ -1,5 +1,5 @@
 ---
 title: "Centro de Belleza Nuria Honorato"
 url: /malaga/centro-de-belleza-nuria-honorato/
-shop: Kosmetik
+shop: cosméticos
 ---

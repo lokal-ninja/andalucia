@@ -1,5 +1,5 @@
 ---
 title: "Nuevo Arte"
 url: /ubeda/nuevo-arte/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

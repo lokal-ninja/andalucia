@@ -1,5 +1,5 @@
 ---
 title: "Dandara"
 url: /granada/dandara/
-shop: Kleidung
+shop: ropa
 ---

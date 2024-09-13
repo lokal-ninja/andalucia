@@ -1,5 +1,5 @@
 ---
 title: "La Vinacería"
 url: /gines/la-vinaceria/
-shop: Wein
+shop: vino
 ---

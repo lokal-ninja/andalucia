@@ -1,5 +1,5 @@
 ---
 title: "MarfilPiel"
 url: /granada/marfilpiel/
-shop: Taschen & Koffer
+shop: bolsas y maletas
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Heladeria La Fiorentina"
 url: /sevilla/heladeria-la-fiorentina/
-shop: Eisprodukte
+shop: helado
 ---

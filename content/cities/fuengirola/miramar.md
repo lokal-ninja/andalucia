@@ -1,5 +1,5 @@
 ---
 title: "Miramar"
 url: /fuengirola/miramar/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

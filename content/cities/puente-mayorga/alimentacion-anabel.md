@@ -1,5 +1,5 @@
 ---
 title: "Alimentación Anabel"
 url: /puente-mayorga/alimentacion-anabel/
-shop: Lebensmittel
+shop: comodidad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Casa de Empeños"
 url: /jaen/casa-de-empenos/
-shop: Gebrauchtwaren
+shop: caridad
 ---

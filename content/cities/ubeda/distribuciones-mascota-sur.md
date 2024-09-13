@@ -1,5 +1,5 @@
 ---
 title: "Distribuciones Mascota Sur"
 url: /ubeda/distribuciones-mascota-sur/
-shop: Tiere
+shop: mascotas
 ---

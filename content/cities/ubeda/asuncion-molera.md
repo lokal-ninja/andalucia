@@ -1,5 +1,5 @@
 ---
 title: "Asunción Molera"
 url: /ubeda/asuncion-molera/
-shop: Kamine & Öfen
+shop: horno y estufa
 ---

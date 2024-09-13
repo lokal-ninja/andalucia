@@ -1,5 +1,5 @@
 ---
 title: "Alcampo"
 url: /linares/alcampo/
-shop: Supermarkt
+shop: supermercado
 ---

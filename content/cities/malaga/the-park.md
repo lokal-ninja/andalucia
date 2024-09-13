@@ -1,5 +1,5 @@
 ---
 title: "The Park"
 url: /malaga/the-park/
-shop: Kleidung
+shop: ropa
 ---

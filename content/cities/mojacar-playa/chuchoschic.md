@@ -1,5 +1,5 @@
 ---
 title: "Chuchoschic"
 url: /mojacar-playa/chuchoschic/
-shop: Tiersalon
+shop: peluquería canina
 ---

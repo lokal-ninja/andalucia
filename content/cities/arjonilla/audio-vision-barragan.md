@@ -1,5 +1,5 @@
 ---
 title: "Audio-Visión Barragán"
 url: /arjonilla/audio-vision-barragan/
-shop: Optiker
+shop: óptico
 ---

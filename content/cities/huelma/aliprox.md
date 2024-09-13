@@ -1,5 +1,5 @@
 ---
 title: "Aliprox"
 url: /huelma/aliprox/
-shop: Supermarkt
+shop: supermercado
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Norti"
 url: /cazorla/norti/
-shop: Handy
+shop: teléfono móvil
 ---

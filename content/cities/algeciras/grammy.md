@@ -1,5 +1,5 @@
 ---
 title: "Grammy"
 url: /algeciras/grammy/
-shop: Musik
+shop: música
 ---

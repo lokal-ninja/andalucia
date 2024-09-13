@@ -1,5 +1,5 @@
 ---
 title: "Las Torres"
 url: /ecija/las-torres/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Escalona"
 url: /malaga/escalona/
-shop: Bäckerei
+shop: panadería
 ---

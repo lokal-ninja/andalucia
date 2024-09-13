@@ -1,5 +1,5 @@
 ---
 title: "Zalema"
 url: /ubeda/zalema/
-shop: Raumausstattung
+shop: decoración interior
 ---

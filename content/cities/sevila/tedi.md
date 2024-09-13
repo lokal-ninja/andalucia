@@ -1,5 +1,5 @@
 ---
 title: "TEDi"
 url: /sevila/tedi/
-shop: Kramladen
+shop: tienda de variedades
 ---

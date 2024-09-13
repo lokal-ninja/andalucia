@@ -1,5 +1,5 @@
 ---
 title: "Electrohogar Triana"
 url: /sevila/electrohogar-triana/
-shop: Elektronik
+shop: electrónica
 ---

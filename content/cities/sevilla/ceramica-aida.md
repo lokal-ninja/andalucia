@@ -1,5 +1,5 @@
 ---
 title: "Ceramica Aida"
 url: /sevilla/ceramica-aida/
-shop: Andenken
+shop: regalo
 ---

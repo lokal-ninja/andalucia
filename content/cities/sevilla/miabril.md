@@ -1,5 +1,5 @@
 ---
 title: "miabril"
 url: /sevilla/miabril/
-shop: Kleidung
+shop: ropa
 ---

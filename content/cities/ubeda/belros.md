@@ -1,5 +1,5 @@
 ---
 title: "Belros"
 url: /ubeda/belros/
-shop: Süßwaren
+shop: confitería
 ---

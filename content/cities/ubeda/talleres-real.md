@@ -1,5 +1,5 @@
 ---
 title: "Talleres Real"
 url: /ubeda/talleres-real/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Parafarmacia Las Buganvillas"
 url: /vera-playa/parafarmacia-las-buganvillas/
-shop: Allgemein
+shop: general
 ---

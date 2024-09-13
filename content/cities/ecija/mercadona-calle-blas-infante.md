@@ -1,5 +1,5 @@
 ---
 title: "Mercadona"
 url: /ecija/mercadona-calle-blas-infante/
-shop: Supermarkt
+shop: supermercado
 ---

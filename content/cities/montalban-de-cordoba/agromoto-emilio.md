@@ -1,5 +1,5 @@
 ---
 title: "Agromoto Emilio"
 url: /montalban-de-cordoba/agromoto-emilio/
-shop: Motorrad
+shop: motocicleta
 ---

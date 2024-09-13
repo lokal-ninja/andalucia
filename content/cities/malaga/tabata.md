@@ -1,5 +1,5 @@
 ---
 title: "Tábata"
 url: /malaga/tabata/
-shop: Kleidung
+shop: ropa
 ---

@@ -1,5 +1,5 @@
 ---
 title: "As de Picas"
 url: /jaen/as-de-picas/
-shop: Friseur
+shop: peluquería
 ---

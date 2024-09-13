@@ -1,5 +1,5 @@
 ---
 title: "La Viñuela"
 url: /atarfe/la-vinuela/
-shop: Metzgerei
+shop: carnicero
 ---

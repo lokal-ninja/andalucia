@@ -1,5 +1,5 @@
 ---
 title: "Pescaderias Pablo"
 url: /cordoba/pescaderias-pablo/
-shop: Fisch
+shop: marisco
 ---

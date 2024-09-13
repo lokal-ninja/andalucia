@@ -1,5 +1,5 @@
 ---
 title: "El Jamón"
 url: /huelva/el-jamon/
-shop: Supermarkt
+shop: supermercado
 ---

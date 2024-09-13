@@ -1,5 +1,5 @@
 ---
 title: "Springfield"
 url: /jaen/springfield-calle-san-clemente/
-shop: Kleidung
+shop: ropa
 ---

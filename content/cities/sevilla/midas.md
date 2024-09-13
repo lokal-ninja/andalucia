@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /sevilla/midas/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

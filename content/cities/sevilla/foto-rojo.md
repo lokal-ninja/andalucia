@@ -1,5 +1,5 @@
 ---
 title: "Foto Rojo"
 url: /sevilla/foto-rojo/
-shop: Kopieren
+shop: copyshop
 ---

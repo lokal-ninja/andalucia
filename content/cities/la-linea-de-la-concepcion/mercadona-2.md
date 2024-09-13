@@ -1,5 +1,5 @@
 ---
 title: "Mercadona"
 url: /la-linea-de-la-concepcion/mercadona-2/
-shop: Supermarkt
+shop: supermercado
 ---

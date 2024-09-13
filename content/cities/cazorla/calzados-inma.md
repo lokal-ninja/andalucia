@@ -1,5 +1,5 @@
 ---
 title: "Calzados Inma"
 url: /cazorla/calzados-inma/
-shop: Schuhe
+shop: zapatos
 ---

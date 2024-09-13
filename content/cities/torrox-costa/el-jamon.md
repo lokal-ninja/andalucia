@@ -1,5 +1,5 @@
 ---
 title: "El Jamón"
 url: /torrox-costa/el-jamon/
-shop: Supermarkt
+shop: supermercado
 ---

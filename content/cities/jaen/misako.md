@@ -1,5 +1,5 @@
 ---
 title: "Misako"
 url: /jaen/misako/
-shop: Taschen & Koffer
+shop: bolsas y maletas
 ---

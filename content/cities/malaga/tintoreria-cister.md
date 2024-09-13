@@ -1,5 +1,5 @@
 ---
 title: "Tintorería Cister"
 url: /malaga/tintoreria-cister/
-shop: Wäscherei
+shop: lavandería
 ---

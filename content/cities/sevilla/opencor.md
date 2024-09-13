@@ -1,5 +1,5 @@
 ---
 title: "OpenCor"
 url: /sevilla/opencor/
-shop: Supermarkt
+shop: supermercado
 ---

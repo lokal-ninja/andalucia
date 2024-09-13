@@ -1,5 +1,5 @@
 ---
 title: "Sparta"
 url: /granada/sparta/
-shop: Schuhe
+shop: zapatos
 ---

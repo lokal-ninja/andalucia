@@ -1,5 +1,5 @@
 ---
 title: "Cash Gómez Díaz"
 url: /atarfe/cash-gomez-diaz/
-shop: Großhandel
+shop: mayorista
 ---

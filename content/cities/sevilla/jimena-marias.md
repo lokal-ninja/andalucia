@@ -1,5 +1,5 @@
 ---
 title: "Jimena Marias"
 url: /sevilla/jimena-marias/
-shop: Kleidung
+shop: ropa
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Agroquad"
 url: /mancha-real/agroquad/
-shop: Motorrad
+shop: motocicleta
 ---

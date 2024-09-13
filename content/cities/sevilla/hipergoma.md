@@ -1,5 +1,5 @@
 ---
 title: "Hipergoma"
 url: /sevilla/hipergoma/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

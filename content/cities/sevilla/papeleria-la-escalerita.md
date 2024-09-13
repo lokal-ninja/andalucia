@@ -1,5 +1,5 @@
 ---
 title: "Papelería La Escalerita"
 url: /sevilla/papeleria-la-escalerita/
-shop: Schreibwaren
+shop: material de oficina
 ---

@@ -1,5 +1,5 @@
 ---
 title: "MISAKO"
 url: /roquetas-de-mar/misako/
-shop: Schuhe
+shop: zapatos
 ---

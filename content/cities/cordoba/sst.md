@@ -1,5 +1,5 @@
 ---
 title: "SST"
 url: /cordoba/sst/
-shop: Eisenwaren
+shop: hardware
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Granavisión"
 url: /granada/granavision/
-shop: Reisebüro
+shop: agencia de viajes
 ---

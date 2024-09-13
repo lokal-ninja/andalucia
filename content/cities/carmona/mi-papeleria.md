@@ -1,5 +1,5 @@
 ---
 title: "Mi Papeleria"
 url: /carmona/mi-papeleria/
-shop: Schreibwaren
+shop: material de oficina
 ---

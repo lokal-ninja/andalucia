@@ -1,5 +1,5 @@
 ---
 title: "Vivero"
 url: /gines/vivero/
-shop: Garten-Center
+shop: centro de jardinería
 ---

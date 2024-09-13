@@ -1,5 +1,5 @@
 ---
 title: "Peluquería Barbería Antonio Estévez"
 url: /granada/peluqueria-barberia-antonio-estevez/
-shop: Friseur
+shop: peluquería
 ---

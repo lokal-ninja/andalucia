@@ -1,5 +1,5 @@
 ---
 title: "Talleres Comba"
 url: /atarfe/talleres-comba/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Papeleria Daniel"
 url: /sevilla/papeleria-daniel/
-shop: Schreibwaren
+shop: material de oficina
 ---

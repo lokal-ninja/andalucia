@@ -1,5 +1,5 @@
 ---
 title: "Minimarket"
 url: /malaga/minimarket/
-shop: Lebensmittel
+shop: comodidad
 ---

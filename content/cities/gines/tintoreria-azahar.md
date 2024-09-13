@@ -1,5 +1,5 @@
 ---
 title: "Tintorería Azahar"
 url: /gines/tintoreria-azahar/
-shop: Wäscherei
+shop: lavandería
 ---

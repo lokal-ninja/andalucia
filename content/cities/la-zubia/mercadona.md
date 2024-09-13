@@ -1,5 +1,5 @@
 ---
 title: "Mercadona"
 url: /la-zubia/mercadona/
-shop: Supermarkt
+shop: supermercado
 ---

@@ -1,5 +1,5 @@
 ---
 title: "El Ganso"
 url: /ameria/el-ganso/
-shop: Kleidung
+shop: ropa
 ---

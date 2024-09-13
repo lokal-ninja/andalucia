@@ -1,5 +1,5 @@
 ---
 title: "Opticalia"
 url: /ubrique/opticalia/
-shop: Optiker
+shop: óptico
 ---

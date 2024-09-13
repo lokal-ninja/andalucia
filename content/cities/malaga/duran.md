@@ -1,5 +1,5 @@
 ---
 title: "Durán"
 url: /malaga/duran/
-shop: Optiker
+shop: óptico
 ---

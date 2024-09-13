@@ -1,5 +1,5 @@
 ---
 title: "Bazar y Alimentación"
 url: /sevilla/bazar-y-alimentacion/
-shop: Kramladen
+shop: tienda de variedades
 ---

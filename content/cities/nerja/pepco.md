@@ -1,5 +1,5 @@
 ---
 title: "Pepco"
 url: /nerja/pepco/
-shop: Lebensmittel
+shop: comodidad
 ---

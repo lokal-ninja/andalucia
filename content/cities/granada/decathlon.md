@@ -1,5 +1,5 @@
 ---
 title: "Decathlon"
 url: /granada/decathlon/
-shop: Sport
+shop: deportes
 ---

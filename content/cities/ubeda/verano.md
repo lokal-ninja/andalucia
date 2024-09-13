@@ -1,5 +1,5 @@
 ---
 title: "Verano"
 url: /ubeda/verano/
-shop: Kramladen
+shop: tienda de variedades
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Zara"
 url: /cordoba/zara/
-shop: Kleidung
+shop: ropa
 ---

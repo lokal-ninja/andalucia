@@ -1,5 +1,5 @@
 ---
 title: "Game"
 url: /sevilla/game/
-shop: Videospiele
+shop: videojuegos
 ---

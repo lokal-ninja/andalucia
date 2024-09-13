@@ -1,5 +1,5 @@
 ---
 title: "Violeta"
 url: /belmez-de-la-moraleda/violeta/
-shop: Kramladen
+shop: tienda de variedades
 ---

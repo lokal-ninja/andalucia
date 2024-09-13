@@ -1,5 +1,5 @@
 ---
 title: "Clemen Auto"
 url: /velez-malaga/clemen-auto/
-shop: Autohaus
+shop: coche
 ---

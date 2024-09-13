@@ -1,5 +1,5 @@
 ---
 title: "Women'secret"
 url: /roquetas-de-mar/womensecret/
-shop: Kleidung
+shop: ropa
 ---

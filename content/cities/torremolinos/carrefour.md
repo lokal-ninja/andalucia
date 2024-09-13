@@ -1,5 +1,5 @@
 ---
 title: "Carrefour"
 url: /torremolinos/carrefour/
-shop: Supermarkt
+shop: supermercado
 ---

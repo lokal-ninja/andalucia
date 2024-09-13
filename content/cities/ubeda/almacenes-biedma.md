@@ -1,5 +1,5 @@
 ---
 title: "Almacenes Biedma"
 url: /ubeda/almacenes-biedma/
-shop: Warenhaus
+shop: grandes almacenes
 ---

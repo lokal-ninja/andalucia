@@ -1,5 +1,5 @@
 ---
 title: "Rudy Lahoz"
 url: /cordoba/rudy-lahoz/
-shop: Raumausstattung
+shop: decoración interior
 ---

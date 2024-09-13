@@ -1,5 +1,5 @@
 ---
 title: "TZ Fabricantes"
 url: /cordoba/tz-fabricantes/
-shop: Kleidung
+shop: ropa
 ---

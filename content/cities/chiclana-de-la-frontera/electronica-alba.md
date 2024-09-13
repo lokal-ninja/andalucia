@@ -1,5 +1,5 @@
 ---
 title: "Electrónica Alba"
 url: /chiclana-de-la-frontera/electronica-alba/
-shop: Elektronik
+shop: electrónica
 ---

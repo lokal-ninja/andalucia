@@ -1,5 +1,5 @@
 ---
 title: "Cecilia Ramírez"
 url: /ubeda/cecilia-ramirez/
-shop: Raumausstattung
+shop: decoración interior
 ---

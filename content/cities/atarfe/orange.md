@@ -1,5 +1,5 @@
 ---
 title: "Orange"
 url: /atarfe/orange/
-shop: Handy
+shop: teléfono móvil
 ---

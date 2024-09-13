@@ -1,5 +1,5 @@
 ---
 title: "Regalos Acemel"
 url: /sevilla/regalos-acemel/
-shop: Andenken
+shop: regalo
 ---

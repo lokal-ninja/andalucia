@@ -1,5 +1,5 @@
 ---
 title: "Olletas Tour"
 url: /malaga/olletas-tour/
-shop: Reisebüro
+shop: agencia de viajes
 ---

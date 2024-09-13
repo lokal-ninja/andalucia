@@ -1,5 +1,5 @@
 ---
 title: "Viajes Pons's"
 url: /sevilla/viajes-ponss/
-shop: Reisebüro
+shop: agencia de viajes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ibiza"
 url: /cordoba/ibiza/
-shop: Raumausstattung
+shop: decoración interior
 ---

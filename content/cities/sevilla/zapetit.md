@@ -1,5 +1,5 @@
 ---
 title: "ZAPETIT"
 url: /sevilla/zapetit/
-shop: Schuhe
+shop: zapatos
 ---

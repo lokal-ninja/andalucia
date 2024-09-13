@@ -1,5 +1,5 @@
 ---
 title: "Ferretería Séneca"
 url: /granada/ferreteria-seneca/
-shop: Eisenwaren
+shop: hardware
 ---

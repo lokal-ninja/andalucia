@@ -1,5 +1,5 @@
 ---
 title: "Animalia"
 url: /san-fernando/animalia/
-shop: Tiere
+shop: mascotas
 ---

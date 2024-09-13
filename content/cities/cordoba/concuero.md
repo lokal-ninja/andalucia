@@ -1,5 +1,5 @@
 ---
 title: "Concuero"
 url: /cordoba/concuero/
-shop: Kramladen
+shop: tienda de variedades
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tienda Bp"
 url: /la-linea-de-la-concepcion/tienda-bp/
-shop: Allgemein
+shop: general
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Aranda"
 url: /malaga/aranda/
-shop: Bäckerei
+shop: panadería
 ---

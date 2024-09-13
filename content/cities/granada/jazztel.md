@@ -1,5 +1,5 @@
 ---
 title: "Jazztel"
 url: /granada/jazztel/
-shop: Handy
+shop: teléfono móvil
 ---

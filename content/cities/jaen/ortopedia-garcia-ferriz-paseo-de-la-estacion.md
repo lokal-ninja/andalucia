@@ -1,5 +1,5 @@
 ---
 title: "Ortopedia García Férriz"
 url: /jaen/ortopedia-garcia-ferriz-paseo-de-la-estacion/
-shop: Sanitätshaus
+shop: suministros médicos
 ---

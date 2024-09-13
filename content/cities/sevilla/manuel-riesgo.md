@@ -1,5 +1,5 @@
 ---
 title: "Manuel Riesgo"
 url: /sevilla/manuel-riesgo/
-shop: Kunst
+shop: arte
 ---

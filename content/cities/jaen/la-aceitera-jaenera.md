@@ -1,5 +1,5 @@
 ---
 title: "La Aceitera Jaenera"
 url: /jaen/la-aceitera-jaenera/
-shop: Supermarkt
+shop: supermercado
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Little Kings"
 url: /jaen/little-kings/
-shop: Kleidung
+shop: ropa
 ---

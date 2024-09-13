@@ -1,5 +1,5 @@
 ---
 title: "Katedra Viajes"
 url: /granada/katedra-viajes/
-shop: Reisebüro
+shop: agencia de viajes
 ---

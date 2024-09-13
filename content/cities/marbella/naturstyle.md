@@ -1,5 +1,5 @@
 ---
 title: "NaturStyle"
 url: /marbella/naturstyle/
-shop: Modehaus
+shop: tienda
 ---

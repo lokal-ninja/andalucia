@@ -1,5 +1,5 @@
 ---
 title: "Amor García Peluqueria"
 url: /huelva/amor-garcia-peluqueria/
-shop: Friseur
+shop: peluquería
 ---

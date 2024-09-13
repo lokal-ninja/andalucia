@@ -1,5 +1,5 @@
 ---
 title: "Caladium"
 url: /ubeda/caladium/
-shop: Blumen
+shop: floristería
 ---

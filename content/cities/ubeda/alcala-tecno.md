@@ -1,5 +1,5 @@
 ---
 title: "Alcalá Tecno"
 url: /ubeda/alcala-tecno/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

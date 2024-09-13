@@ -1,5 +1,5 @@
 ---
 title: "Covirán"
 url: /isla-canela/coviran/
-shop: Supermarkt
+shop: supermercado
 ---

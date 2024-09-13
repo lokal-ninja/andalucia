@@ -1,5 +1,5 @@
 ---
 title: "Microsur Informática"
 url: /mijas-costa/microsur-informatica/
-shop: Computer
+shop: ordenador
 ---

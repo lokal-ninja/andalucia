@@ -1,5 +1,5 @@
 ---
 title: "Kaminature"
 url: /sevilla/kaminature/
-shop: Tiere
+shop: mascotas
 ---

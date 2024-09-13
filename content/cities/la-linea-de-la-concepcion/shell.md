@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /la-linea-de-la-concepcion/shell/
-shop: Lebensmittel
+shop: comodidad
 ---

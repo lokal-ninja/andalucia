@@ -1,5 +1,5 @@
 ---
 title: "OMBU"
 url: /cazorla/ombu/
-shop: Kleidung
+shop: ropa
 ---

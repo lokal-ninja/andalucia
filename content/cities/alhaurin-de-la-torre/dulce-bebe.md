@@ -1,5 +1,5 @@
 ---
 title: "Dulce Bebé"
 url: /alhaurin-de-la-torre/dulce-bebe/
-shop: Kleidung
+shop: ropa
 ---

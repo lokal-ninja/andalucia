@@ -1,5 +1,5 @@
 ---
 title: "Carlin Bermejales"
 url: /sevilla/carlin-bermejales/
-shop: Schreibwaren
+shop: material de oficina
 ---

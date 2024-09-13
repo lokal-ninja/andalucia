@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /andujar/lidl/
-shop: Supermarkt
+shop: supermercado
 ---

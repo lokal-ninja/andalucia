@@ -1,5 +1,5 @@
 ---
 title: "El Jamón"
 url: /algeciras/el-jamon/
-shop: Supermarkt
+shop: supermercado
 ---

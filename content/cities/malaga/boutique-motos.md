@@ -1,5 +1,5 @@
 ---
 title: "Boutique Motos"
 url: /malaga/boutique-motos/
-shop: Motorrad
+shop: motocicleta
 ---

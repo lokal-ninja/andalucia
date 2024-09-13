@@ -1,5 +1,5 @@
 ---
 title: "Talleres Autocircunvalación"
 url: /atarfe/talleres-autocircunvalacion/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

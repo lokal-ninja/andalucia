@@ -1,5 +1,5 @@
 ---
 title: "Hayanube"
 url: /sevilla/hayanube/
-shop: Kleidung
+shop: ropa
 ---

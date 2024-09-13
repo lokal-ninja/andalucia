@@ -1,5 +1,5 @@
 ---
 title: "Mercado Montilla"
 url: /sanlucar-de-barrameda/mercado-montilla/
-shop: Großhandel
+shop: mayorista
 ---

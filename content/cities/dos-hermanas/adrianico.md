@@ -1,5 +1,5 @@
 ---
 title: "Adrianico"
 url: /dos-hermanas/adrianico/
-shop: Spielzeug
+shop: juguetes
 ---

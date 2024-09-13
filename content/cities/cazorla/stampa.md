@@ -1,5 +1,5 @@
 ---
 title: "Stampa"
 url: /cazorla/stampa/
-shop: Andenken
+shop: regalo
 ---

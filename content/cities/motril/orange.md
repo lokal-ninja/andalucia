@@ -1,5 +1,5 @@
 ---
 title: "Orange"
 url: /motril/orange/
-shop: Handy
+shop: teléfono móvil
 ---

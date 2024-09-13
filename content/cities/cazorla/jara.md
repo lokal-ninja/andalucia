@@ -1,5 +1,5 @@
 ---
 title: "Jara"
 url: /cazorla/jara/
-shop: Küchen
+shop: cocina
 ---

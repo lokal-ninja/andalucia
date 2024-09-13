@@ -1,5 +1,5 @@
 ---
 title: "La Canga"
 url: /baeza/la-canga/
-shop: Friseur
+shop: peluquería
 ---

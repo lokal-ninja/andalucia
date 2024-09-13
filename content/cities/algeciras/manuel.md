@@ -1,5 +1,5 @@
 ---
 title: "Manuel"
 url: /algeciras/manuel/
-shop: Kleidung
+shop: ropa
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Orange"
 url: /ubeda/orange/
-shop: Handy
+shop: teléfono móvil
 ---

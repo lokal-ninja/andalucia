@@ -1,5 +1,5 @@
 ---
 title: "Costa Mart"
 url: /torremolinos/costa-mart/
-shop: Lebensmittel
+shop: comodidad
 ---

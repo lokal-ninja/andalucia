@@ -1,5 +1,5 @@
 ---
 title: "Javier"
 url: /cazorla/javier/
-shop: Modehaus
+shop: tienda
 ---

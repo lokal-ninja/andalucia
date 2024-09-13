@@ -1,5 +1,5 @@
 ---
 title: "Papelería Aliatares"
 url: /baeza/papeleria-aliatares/
-shop: Schreibwaren
+shop: material de oficina
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Phone House"
 url: /cordoba/phone-house/
-shop: Handy
+shop: teléfono móvil
 ---

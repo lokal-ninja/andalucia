@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /puente-mayorga/lidl/
-shop: Supermarkt
+shop: supermercado
 ---

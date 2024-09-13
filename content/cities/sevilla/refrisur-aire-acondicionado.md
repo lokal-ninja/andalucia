@@ -1,5 +1,5 @@
 ---
 title: "REFRISUR Aire Acondicionado"
 url: /sevilla/refrisur-aire-acondicionado/
-shop: Allgemein
+shop: general
 ---

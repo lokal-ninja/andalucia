@@ -1,5 +1,5 @@
 ---
 title: "Inmaculada"
 url: /la-linea-de-la-concepcion/inmaculada/
-shop: Kiosk
+shop: quiosco
 ---

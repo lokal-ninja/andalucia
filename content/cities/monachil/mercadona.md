@@ -1,5 +1,5 @@
 ---
 title: "Mercadona"
 url: /monachil/mercadona/
-shop: Supermarkt
+shop: supermercado
 ---

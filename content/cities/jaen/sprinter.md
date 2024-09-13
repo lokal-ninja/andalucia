@@ -1,5 +1,5 @@
 ---
 title: "Sprinter"
 url: /jaen/sprinter/
-shop: Sport
+shop: deportes
 ---

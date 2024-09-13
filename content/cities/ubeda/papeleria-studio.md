@@ -1,5 +1,5 @@
 ---
 title: "Papelería Studio"
 url: /ubeda/papeleria-studio/
-shop: Schreibwaren
+shop: material de oficina
 ---

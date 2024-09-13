@@ -1,5 +1,5 @@
 ---
 title: "Cex"
 url: /sevilla/cex/
-shop: Gebrauchtwaren
+shop: caridad
 ---

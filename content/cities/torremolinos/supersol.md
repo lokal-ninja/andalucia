@@ -1,5 +1,5 @@
 ---
 title: "Supersol"
 url: /torremolinos/supersol/
-shop: Supermarkt
+shop: supermercado
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mercadona"
 url: /mengibar/mercadona/
-shop: Supermarkt
+shop: supermercado
 ---

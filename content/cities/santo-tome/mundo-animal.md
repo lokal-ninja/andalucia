@@ -1,5 +1,5 @@
 ---
 title: "Mundo Animal"
 url: /santo-tome/mundo-animal/
-shop: Tiere
+shop: mascotas
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mercadona"
 url: /utrera/mercadona/
-shop: Supermarkt
+shop: supermercado
 ---

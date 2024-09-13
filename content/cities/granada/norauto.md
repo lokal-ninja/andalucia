@@ -1,5 +1,5 @@
 ---
 title: "Norauto"
 url: /granada/norauto/
-shop: Autoteile
+shop: piezas de automóviles
 ---

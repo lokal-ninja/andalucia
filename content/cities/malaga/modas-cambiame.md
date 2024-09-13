@@ -1,5 +1,5 @@
 ---
 title: "Modas Cambiame"
 url: /malaga/modas-cambiame/
-shop: Kleidung
+shop: ropa
 ---

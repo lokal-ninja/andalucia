@@ -1,5 +1,5 @@
 ---
 title: "WEI.DA"
 url: /jaen/wei-da/
-shop: Kleidung
+shop: ropa
 ---

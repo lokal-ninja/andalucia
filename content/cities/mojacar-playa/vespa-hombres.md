@@ -1,5 +1,5 @@
 ---
 title: "Vespa Hombres"
 url: /mojacar-playa/vespa-hombres/
-shop: Kleidung
+shop: ropa
 ---

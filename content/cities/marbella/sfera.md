@@ -1,5 +1,5 @@
 ---
 title: "Sfera"
 url: /marbella/sfera/
-shop: Kleidung
+shop: ropa
 ---

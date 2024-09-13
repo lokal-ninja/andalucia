@@ -1,5 +1,5 @@
 ---
 title: "Pache"
 url: /baeza/pache/
-shop: Sport
+shop: deportes
 ---

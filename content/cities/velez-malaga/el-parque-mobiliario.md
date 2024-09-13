@@ -1,5 +1,5 @@
 ---
 title: "El Parque Mobiliario"
 url: /velez-malaga/el-parque-mobiliario/
-shop: Möbel
+shop: muebles
 ---

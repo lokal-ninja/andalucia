@@ -1,5 +1,5 @@
 ---
 title: "Taller Murillo"
 url: /baeza/taller-murillo/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

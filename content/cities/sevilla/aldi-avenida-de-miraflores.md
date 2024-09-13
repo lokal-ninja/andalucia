@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /sevilla/aldi-avenida-de-miraflores/
-shop: Supermarkt
+shop: supermercado
 ---

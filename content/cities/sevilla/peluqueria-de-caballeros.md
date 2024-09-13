@@ -1,5 +1,5 @@
 ---
 title: "Peluquería de Caballeros"
 url: /sevilla/peluqueria-de-caballeros/
-shop: Friseur
+shop: peluquería
 ---

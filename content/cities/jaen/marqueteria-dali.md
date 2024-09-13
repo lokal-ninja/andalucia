@@ -1,5 +1,5 @@
 ---
 title: "Marquetería Dalí"
 url: /jaen/marqueteria-dali/
-shop: Rahmen
+shop: marco
 ---

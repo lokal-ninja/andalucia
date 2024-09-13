@@ -1,5 +1,5 @@
 ---
 title: "Motoservicio S. Cv."
 url: /sevilla/motoservicio-s-cv/
-shop: Motorrad
+shop: motocicleta
 ---
