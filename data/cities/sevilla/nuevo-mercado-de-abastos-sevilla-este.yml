@@ -1,11 +1,11 @@
 id: 76035191
-type: way
+type: node
 latitude: 37.4025
 longitude: -5.92101
 postcode: "41020"
 city: Sevilla
-street: "Avenida Emilio Lemos"
-housenumber: 
+street: Avenida Emilio Lemos
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

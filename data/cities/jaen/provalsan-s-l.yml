@@ -1,11 +1,11 @@
 id: 1065979768
-type: way
+type: node
 latitude: 37.80313
 longitude: -3.78389
 postcode: "23009"
 city: Jaén
-street: "Calle Huelma"
-housenumber: 74
+street: Calle Huelma
+housenumber: "74"
 phone: ""
 opening_hours: ""
 website: ""

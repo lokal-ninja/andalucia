@@ -1,11 +1,11 @@
 id: 719434762
-type: way
+type: node
 latitude: 36.173
 longitude: -5.36365
 postcode: "11300"
 city: La Línea de la Concepción
-street: "Avenida de la Colonia"
-housenumber: 9
-phone: "+34 956 17 45 67"
-opening_hours: "Mo-Sa 09:00-22:00"
-website: "https://www.feuvert.es"
+street: Avenida de la Colonia
+housenumber: "9"
+phone: +34 956 17 45 67
+opening_hours: Mo-Sa 09:00-22:00
+website: https://www.feuvert.es

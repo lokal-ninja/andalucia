@@ -1,11 +1,11 @@
 id: 99375227
-type: way
+type: node
 latitude: 38.02431
 longitude: -3.36993
 postcode: "23400"
 city: Úbeda
-street: "Calle Transporte"
-housenumber: 7
+street: Calle Transporte
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

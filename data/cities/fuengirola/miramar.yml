@@ -1,11 +1,11 @@
 id: 60777370
-type: way
+type: node
 latitude: 36.53051
 longitude: -4.63227
 postcode: "29640"
 city: Fuengirola
-street: "Avenida de la Encarnación"
-housenumber: 
+street: Avenida de la Encarnación
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.miramarcc.com/"
+website: https://www.miramarcc.com/

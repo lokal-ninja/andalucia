@@ -4,8 +4,8 @@ latitude: 36.83552
 longitude: -2.46266
 postcode: ""
 city: Almería
-street: "Plaza de Emilio Pérez"
-housenumber: 3
-phone: "+34 950 62 92 96"
-opening_hours: "Mo-Sa 09:00-20:30"
-website: "https://www.tiger.de"
+street: Plaza de Emilio Pérez
+housenumber: "3"
+phone: +34 950 62 92 96
+opening_hours: Mo-Sa 09:00-20:30
+website: https://www.tiger.de

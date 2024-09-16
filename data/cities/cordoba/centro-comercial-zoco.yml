@@ -1,11 +1,11 @@
 id: 95831745
-type: way
+type: node
 latitude: 37.88138
 longitude: -4.79897
 postcode: "14005"
 city: Córdoba
-street: "Calle José María Martorell"
-housenumber: 
-phone: "+34 957 455 290"
-opening_hours: "Mo-Sa 09:30-22:00"
-website: "https://www.centrocomercialzoco.com/"
+street: Calle José María Martorell
+housenumber: ""
+phone: +34 957 455 290
+opening_hours: Mo-Sa 09:30-22:00
+website: https://www.centrocomercialzoco.com/

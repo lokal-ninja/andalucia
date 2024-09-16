@@ -1,11 +1,11 @@
 id: 533825505
-type: way
+type: node
 latitude: 37.87721
 longitude: -4.80177
 postcode: "14004"
 city: Córdoba
-street: "Calle Escritor Conde de Zamora"
-housenumber: 
-phone: "+34 957 73 18 29"
-opening_hours: "Mo-Sa 09:00-21:30"
+street: Calle Escritor Conde de Zamora
+housenumber: ""
+phone: +34 957 73 18 29
+opening_hours: Mo-Sa 09:00-21:30
 website: ""

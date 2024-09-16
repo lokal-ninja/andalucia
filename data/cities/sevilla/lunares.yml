@@ -4,8 +4,8 @@ latitude: 37.38609
 longitude: -5.98977
 postcode: "41004"
 city: Sevilla
-street: "Calle Mesón del Moro"
-housenumber: 14
+street: Calle Mesón del Moro
+housenumber: "14"
 phone: ""
-opening_hours: "Mo-Sa 10:00-22:00"
-website: "https://www.lunaresevilla.com/index.php"
+opening_hours: Mo-Sa 10:00-22:00
+website: https://www.lunaresevilla.com/index.php

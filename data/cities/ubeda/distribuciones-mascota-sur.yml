@@ -1,11 +1,11 @@
 id: 835550083
-type: way
+type: node
 latitude: 38.02745
 longitude: -3.36421
 postcode: "23400"
 city: Úbeda
-street: "Calle Herrería"
-housenumber: 28
+street: Calle Herrería
+housenumber: "28"
 phone: ""
 opening_hours: ""
 website: ""

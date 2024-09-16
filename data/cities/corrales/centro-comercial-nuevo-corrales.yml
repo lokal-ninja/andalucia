@@ -1,11 +1,11 @@
 id: 551027100
-type: way
+type: node
 latitude: 37.27747
 longitude: -6.99165
 postcode: "21110"
 city: Corrales
-street: "Calle San Andrés"
-housenumber: 
+street: Calle San Andrés
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

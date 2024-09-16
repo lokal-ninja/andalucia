@@ -4,8 +4,8 @@ latitude: 37.12868
 longitude: -1.83206
 postcode: "04638"
 city: Mojácar Playa
-street: "Paseo del Mediterráneo"
-housenumber: 317
+street: Paseo del Mediterráneo
+housenumber: "317"
 phone: "+34950501155"
-opening_hours: "May 1-Sep 30 Mo-Sa 09:00-14:00,16:30-20:30; Oct 1-Apr 30 Mo-Sa 09:00-14:00,16:30-20:00"
-website: "https://lopezferreteria.es/"
+opening_hours: May 1-Sep 30 Mo-Sa 09:00-14:00,16:30-20:30; Oct 1-Apr 30 Mo-Sa 09:00-14:00,16:30-20:00
+website: https://lopezferreteria.es/

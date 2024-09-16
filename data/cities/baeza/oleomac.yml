@@ -1,11 +1,11 @@
 id: 416630574
-type: way
+type: node
 latitude: 37.99246
 longitude: -3.48411
 postcode: "23440"
 city: Baeza
-street: "Calle Genil"
-housenumber: 37
+street: Calle Genil
+housenumber: "37"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 37.17883
 longitude: -3.60164
 postcode: "18001"
 city: Granada
-street: "Calle San Jerónimo"
-housenumber: 40
-phone: "+34 958 29 63 50"
-opening_hours: "Mo-Sa 10:00-13:30"
+street: Calle San Jerónimo
+housenumber: "40"
+phone: +34 958 29 63 50
+opening_hours: Mo-Sa 10:00-13:30
 website: ""

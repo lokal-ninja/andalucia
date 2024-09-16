@@ -1,11 +1,11 @@
 id: 99375309
-type: way
+type: node
 latitude: 38.02311
 longitude: -3.36855
 postcode: "23400"
 city: Úbeda
-street: "Calle Albañilería"
-housenumber: 2
+street: Calle Albañilería
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

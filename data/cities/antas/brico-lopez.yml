@@ -1,11 +1,11 @@
 id: 656346924
-type: way
+type: node
 latitude: 37.26075
 longitude: -1.89841
 postcode: "04628"
 city: Antas
-street: "Calle Vente Vacío"
-housenumber: 
+street: Calle Vente Vacío
+housenumber: ""
 phone: "+34950501155"
-opening_hours: "Mo-Sa 09:00-14:00, 16:30-20:30"
-website: "https://lopezferreteria.es/"
+opening_hours: Mo-Sa 09:00-14:00, 16:30-20:30
+website: https://lopezferreteria.es/

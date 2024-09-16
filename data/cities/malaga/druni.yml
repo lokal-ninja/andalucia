@@ -5,7 +5,7 @@ longitude: -4.42342
 postcode: "29005"
 city: Málaga
 street: ""
-housenumber: 4
-phone: "+34 603760924"
+housenumber: "4"
+phone: +34 603760924
 opening_hours: ""
-website: "https://www.druni.es/"
+website: https://www.druni.es/

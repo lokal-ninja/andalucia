@@ -4,8 +4,8 @@ latitude: 37.88852
 longitude: -4.78396
 postcode: "14003"
 city: Córdoba
-street: "Calle Fray Luis de Granada"
-housenumber: 11
-phone: "+34 957 49 83 33"
-opening_hours: "Mo-Fr 09:45-13:45,17:15-20:30; Sa 10:00-13:45"
-website: "https://www.librerialuque.es/"
+street: Calle Fray Luis de Granada
+housenumber: "11"
+phone: +34 957 49 83 33
+opening_hours: Mo-Fr 09:45-13:45,17:15-20:30; Sa 10:00-13:45
+website: https://www.librerialuque.es/

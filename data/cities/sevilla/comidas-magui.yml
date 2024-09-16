@@ -4,8 +4,8 @@ latitude: 37.39288
 longitude: -5.98486
 postcode: "41003"
 city: Sevilla
-street: "Calle Diego de Merlo"
-housenumber: 2
-phone: "+34 619 58 67 80"
-opening_hours: "Mo-Fr 09:00-15:15,18:00-21:00;Sa 10:00-15:00"
+street: Calle Diego de Merlo
+housenumber: "2"
+phone: +34 619 58 67 80
+opening_hours: Mo-Fr 09:00-15:15,18:00-21:00;Sa 10:00-15:00
 website: ""

@@ -1,11 +1,11 @@
 id: 458334911
-type: way
+type: node
 latitude: 37.15219
 longitude: -3.61441
 postcode: "18100"
 city: Granada
-street: "Avenida Fernando de los Ríos"
-housenumber: 
+street: Avenida Fernando de los Ríos
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1222801166
-type: way
+type: node
 latitude: 36.17335
 longitude: -5.35164
 postcode: "11300"
 city: La Línea de la Concepción
-street: "Calle Gabriel Miró"
-housenumber: 97
+street: Calle Gabriel Miró
+housenumber: "97"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 36.84138
 longitude: -2.46123
 postcode: "04001"
 city: Almería
-street: "Calle San Leonardo"
-housenumber: 13
-phone: "+34 950100233"
-opening_hours: "Mo-Fr 10:00-14:00, 16:00-20:00"
-website: "http://centrolaseralmeria.com"
+street: Calle San Leonardo
+housenumber: "13"
+phone: +34 950100233
+opening_hours: Mo-Fr 10:00-14:00, 16:00-20:00
+website: http://centrolaseralmeria.com

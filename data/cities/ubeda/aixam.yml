@@ -1,11 +1,11 @@
 id: 835573330
-type: way
+type: node
 latitude: 38.02654
 longitude: -3.36704
 postcode: "23400"
 city: Úbeda
-street: "Calle Cerámica"
-housenumber: 
+street: Calle Cerámica
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

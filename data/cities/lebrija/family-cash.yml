@@ -1,11 +1,11 @@
 id: 347620418
-type: way
+type: node
 latitude: 36.92062
 longitude: -6.09016
 postcode: "41740"
 city: Lebrija
-street: "Cta. Lebr-Trebujena"
-housenumber: 14
-phone: "+34 697307657"
+street: Cta. Lebr-Trebujena
+housenumber: "14"
+phone: +34 697307657
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1059327149
-type: way
+type: node
 latitude: 37.80075
 longitude: -3.7887
 postcode: "23009"
 city: Jaén
-street: "Calle Fuensanta de Martos"
-housenumber: 5
+street: Calle Fuensanta de Martos
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

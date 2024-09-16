@@ -1,11 +1,11 @@
 id: 230851005
-type: way
+type: node
 latitude: 37.41411
 longitude: -5.98438
 postcode: "41009"
 city: Sevilla
-street: "Avenida Doctor Fedriani"
-housenumber: 
-phone: "+34 900 958 311"
-opening_hours: "Mo-Sa 09:00-21:30; Su closed; PH closed"
+street: Avenida Doctor Fedriani
+housenumber: ""
+phone: +34 900 958 311
+opening_hours: Mo-Sa 09:00-21:30; Su closed; PH closed
 website: ""

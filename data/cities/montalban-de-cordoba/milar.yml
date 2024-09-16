@@ -1,11 +1,11 @@
 id: 269367474
-type: way
+type: node
 latitude: 37.58437
 longitude: -4.74871
 postcode: "14548"
 city: Montalbán de Córdoba
-street: "Avenida Primero de Mayo"
-housenumber: 1
+street: Avenida Primero de Mayo
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

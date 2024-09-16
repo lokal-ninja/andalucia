@@ -1,11 +1,11 @@
 id: 79811696
-type: way
+type: node
 latitude: 36.75553
 longitude: -4.10191
 postcode: "29740"
 city: Torre del Mar
-street: "Avenida de Juan Carlos I"
-housenumber: 18
-phone: "+34 952 547 267"
+street: Avenida de Juan Carlos I
+housenumber: "18"
+phone: +34 952 547 267
 opening_hours: ""
-website: "https://www.elingenio.es/"
+website: https://www.elingenio.es/

@@ -1,11 +1,11 @@
 id: 835866583
-type: way
+type: node
 latitude: 38.02314
 longitude: -3.36711
 postcode: "23400"
 city: Úbeda
-street: "Calle Mercadería"
-housenumber: 7
+street: Calle Mercadería
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

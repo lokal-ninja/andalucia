@@ -1,11 +1,11 @@
 id: 194818444
-type: way
+type: node
 latitude: 37.78822
 longitude: -3.78482
 postcode: "23009"
 city: Jaén
-street: "Calle Mercedes Lamarque"
-housenumber: 
-phone: "+34 953276399"
-opening_hours: "Mo-Sa 09:00-21:30"
-website: "https://www.mercadona.es"
+street: Calle Mercedes Lamarque
+housenumber: ""
+phone: +34 953276399
+opening_hours: Mo-Sa 09:00-21:30
+website: https://www.mercadona.es

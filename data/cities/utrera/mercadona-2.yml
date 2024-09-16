@@ -1,11 +1,11 @@
 id: 233734053
-type: way
+type: node
 latitude: 37.1881
 longitude: -5.78812
 postcode: ""
 city: Utrera
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.mercadona.es"
+website: https://www.mercadona.es

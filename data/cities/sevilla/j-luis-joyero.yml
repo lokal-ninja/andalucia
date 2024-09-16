@@ -4,8 +4,8 @@ latitude: 37.37561
 longitude: -5.99769
 postcode: "41011"
 city: Sevilla
-street: "Calle Virgen de Loreto"
-housenumber: 17
+street: Calle Virgen de Loreto
+housenumber: "17"
 phone: ""
-opening_hours: "10:00-14:00,17:00-20:30"
+opening_hours: 10:00-14:00,17:00-20:30
 website: ""

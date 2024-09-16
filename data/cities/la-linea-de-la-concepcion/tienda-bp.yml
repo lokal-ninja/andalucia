@@ -1,11 +1,11 @@
 id: 1256537939
-type: way
+type: node
 latitude: 36.17711
 longitude: -5.33883
 postcode: "11300"
 city: La Línea de la Concepción
-street: "Camino de Torrenueva"
-housenumber: 
+street: Camino de Torrenueva
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 680124319
-type: way
+type: node
 latitude: 36.87806
 longitude: -2.44473
 postcode: "04230"
 city: Huércal de Almería
-street: "Calle José Gaos"
-housenumber: 79
+street: Calle José Gaos
+housenumber: "79"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1055963774
-type: way
+type: node
 latitude: 36.77124
 longitude: -6.35253
 postcode: "11540"
 city: Sanlúcar de Barrameda
-street: "Calle Puerto"
-housenumber: 31
+street: Calle Puerto
+housenumber: "31"
 phone: ""
 opening_hours: ""
 website: ""

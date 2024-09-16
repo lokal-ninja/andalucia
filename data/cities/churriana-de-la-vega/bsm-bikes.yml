@@ -1,11 +1,11 @@
 id: 1269068841
-type: way
+type: node
 latitude: 37.14208
 longitude: -3.63731
 postcode: "18194"
 city: Churriana de la Vega
-street: "Carretera de Granada a Alhama de Granada"
-housenumber: 54
+street: Carretera de Granada a Alhama de Granada
+housenumber: "54"
 phone: ""
 opening_hours: ""
 website: ""

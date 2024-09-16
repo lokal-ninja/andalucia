@@ -1,11 +1,11 @@
 id: 354924880
-type: way
+type: node
 latitude: 36.93769
 longitude: -3.29464
 postcode: "18416"
 city: Busquístar
-street: "Plaza Iglesia"
-housenumber: 10
+street: Plaza Iglesia
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

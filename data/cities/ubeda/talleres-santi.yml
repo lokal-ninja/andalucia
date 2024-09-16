@@ -1,11 +1,11 @@
 id: 296969600
-type: way
+type: node
 latitude: 38.02666
 longitude: -3.36286
 postcode: "23400"
 city: Úbeda
-street: "Carretera de Úbeda a Sabiote"
-housenumber: 45
+street: Carretera de Úbeda a Sabiote
+housenumber: "45"
 phone: ""
 opening_hours: ""
 website: ""

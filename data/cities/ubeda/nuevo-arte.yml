@@ -1,11 +1,11 @@
 id: 99375393
-type: way
+type: node
 latitude: 38.02405
 longitude: -3.37283
 postcode: "23400"
 city: Úbeda
-street: "Calle Cetrería"
-housenumber: 
+street: Calle Cetrería
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

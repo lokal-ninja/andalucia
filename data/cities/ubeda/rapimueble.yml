@@ -1,11 +1,11 @@
 id: 99414222
-type: way
+type: node
 latitude: 38.0132
 longitude: -3.41361
 postcode: "23400"
 city: Úbeda
-street: "Carretera Úbeda-Baeza"
-housenumber: 
-phone: "+34 663 95 55 17"
+street: Carretera Úbeda-Baeza
+housenumber: ""
+phone: +34 663 95 55 17
 opening_hours: ""
-website: "https://www.rapimueble.com/"
+website: https://www.rapimueble.com/

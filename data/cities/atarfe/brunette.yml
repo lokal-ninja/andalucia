@@ -4,8 +4,8 @@ latitude: 37.22136
 longitude: -3.69062
 postcode: "18230"
 city: Atarfe
-street: "Calle La Vega"
-housenumber: 40
-phone: "+34 633 28 43 80"
-opening_hours: "Mo-Fr 09:30-13:30,17:00-20:30; Sa 09:30-14:00"
+street: Calle La Vega
+housenumber: "40"
+phone: +34 633 28 43 80
+opening_hours: Mo-Fr 09:30-13:30,17:00-20:30; Sa 09:30-14:00
 website: ""

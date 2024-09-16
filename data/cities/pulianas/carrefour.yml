@@ -1,11 +1,11 @@
 id: 87413724
-type: way
+type: node
 latitude: 37.21344
 longitude: -3.61702
 postcode: "18197"
 city: Pulianas
-street: "Calle de Luis Buñuel"
-housenumber: 
-phone: "+34 914 90 89 00"
-opening_hours: "Mo-Sa 09:00-22:00"
-website: "https://www.carrefour.es"
+street: Calle de Luis Buñuel
+housenumber: ""
+phone: +34 914 90 89 00
+opening_hours: Mo-Sa 09:00-22:00
+website: https://www.carrefour.es

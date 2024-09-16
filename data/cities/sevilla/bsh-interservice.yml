@@ -4,8 +4,8 @@ latitude: 37.38826
 longitude: -5.95317
 postcode: "41007"
 city: Sevilla
-street: "Avenida de la Industria"
-housenumber: 8
-phone: "+34 902351352; +34 976305712"
-opening_hours: "10:00-13:30,16:00-19:00"
-website: "https://www.bshie.com"
+street: Avenida de la Industria
+housenumber: "8"
+phone: +34 902351352; +34 976305712
+opening_hours: 10:00-13:30,16:00-19:00
+website: https://www.bshie.com

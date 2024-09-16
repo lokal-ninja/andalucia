@@ -1,11 +1,11 @@
 id: 586851839
-type: way
+type: node
 latitude: 37.37644
 longitude: -6.01183
 postcode: "41010"
 city: Sevilla
-street: "Calle Garcilaso de la Vega"
-housenumber: 20
+street: Calle Garcilaso de la Vega
+housenumber: "20"
 phone: ""
 opening_hours: ""
 website: ""

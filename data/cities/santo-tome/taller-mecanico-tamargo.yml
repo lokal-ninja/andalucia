@@ -1,11 +1,12 @@
 id: 698879444
-type: way
+type: node
 latitude: 38.02929
 longitude: -3.10327
 postcode: "23311"
 city: Santo Tomé
-street: "Avenida de la Batalla de Baécula"
-housenumber: 48
-phone: "+34 953 736 553"
-opening_hours: "week 1-21: Mo-Fr 09:00-14:00,16:00-20:00; week 22-35: Mo-Fr 08:00-14:00,17:00-20:00; week 36-52: Mo-Fr 09:00-14:00,16:00-20:00"
+street: Avenida de la Batalla de Baécula
+housenumber: "48"
+phone: +34 953 736 553
+opening_hours: 'week 1-21: Mo-Fr 09:00-14:00,16:00-20:00; week 22-35: Mo-Fr 08:00-14:00,17:00-20:00;
+    week 36-52: Mo-Fr 09:00-14:00,16:00-20:00'
 website: ""

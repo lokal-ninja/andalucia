@@ -4,8 +4,8 @@ latitude: 37.34006
 longitude: -5.83173
 postcode: "41550"
 city: Alcalá de Guadaíra
-street: "Murillo"
-housenumber: 
+street: Murillo
+housenumber: ""
 phone: "+34955615854"
-opening_hours: "10:00-14:00,17:00-20:00"
-website: "http://informaticadj.com"
+opening_hours: 10:00-14:00,17:00-20:00
+website: http://informaticadj.com

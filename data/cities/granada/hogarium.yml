@@ -4,8 +4,8 @@ latitude: 37.17014
 longitude: -3.60619
 postcode: "18004"
 city: Granada
-street: "Calle Neptuno"
-housenumber: 2
-phone: "+34 958 26 68 77"
-opening_hours: "Mo-Fr 09:30-14:00,16:30-20:30; Sa 09:30-14:00"
-website: "https://www.hogarium.es"
+street: Calle Neptuno
+housenumber: "2"
+phone: +34 958 26 68 77
+opening_hours: Mo-Fr 09:30-14:00,16:30-20:30; Sa 09:30-14:00
+website: https://www.hogarium.es

@@ -4,8 +4,8 @@ latitude: 37.40041
 longitude: -5.92521
 postcode: ""
 city: Sevilla
-street: "Avenida de las Ciencias"
-housenumber: 22
+street: Avenida de las Ciencias
+housenumber: "22"
 phone: ""
 opening_hours: ""
-website: "https://www.mercadona.es"
+website: https://www.mercadona.es

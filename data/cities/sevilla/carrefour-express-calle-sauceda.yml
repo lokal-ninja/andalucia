@@ -4,8 +4,8 @@ latitude: 37.39189
 longitude: -5.99748
 postcode: "41001"
 city: Sevilla
-street: "Calle Sauceda"
-housenumber: 5
+street: Calle Sauceda
+housenumber: "5"
 phone: ""
-opening_hours: "08:30-23:00"
-website: "https://www.carrefour.es/tiendas-carrefour/supermercados/carrefour-express/sauceda-s.aspx"
+opening_hours: 08:30-23:00
+website: https://www.carrefour.es/tiendas-carrefour/supermercados/carrefour-express/sauceda-s.aspx

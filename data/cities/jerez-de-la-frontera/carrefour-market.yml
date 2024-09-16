@@ -4,8 +4,8 @@ latitude: 36.68209
 longitude: -6.13535
 postcode: "11402"
 city: Jerez de la Frontera
-street: "Calle Doña Blanca"
-housenumber: 13
+street: Calle Doña Blanca
+housenumber: "13"
 phone: ""
-opening_hours: "Mo-Sa 09:00-22:00"
-website: "https://www.carrefour.es/tiendas-carrefour/supermercados/carrefour-market/jerez_-_s.aspx"
+opening_hours: Mo-Sa 09:00-22:00
+website: https://www.carrefour.es/tiendas-carrefour/supermercados/carrefour-market/jerez_-_s.aspx

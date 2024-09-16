@@ -4,8 +4,8 @@ latitude: 36.66275
 longitude: -4.56248
 postcode: "29130"
 city: Alhaurín de la Torre
-street: "Calle Málaga"
-housenumber: 1
-phone: "+34 952 41 01 17"
-opening_hours: "09:00-13:30,17:00-20:00"
-website: "https://www.mi-suerte.com/"
+street: Calle Málaga
+housenumber: "1"
+phone: +34 952 41 01 17
+opening_hours: 09:00-13:30,17:00-20:00
+website: https://www.mi-suerte.com/

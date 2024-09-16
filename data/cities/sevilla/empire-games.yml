@@ -4,8 +4,8 @@ latitude: 37.38504
 longitude: -5.98092
 postcode: "41018"
 city: Sevilla
-street: "Calle Chaves Nogales"
-housenumber: 1
-phone: "+34 954 09 49 98"
-opening_hours: "Mo-Su 10:00-14:00,17:00-21:00; PH off"
-website: "https://www.empiregames.es/"
+street: Calle Chaves Nogales
+housenumber: "1"
+phone: +34 954 09 49 98
+opening_hours: Mo-Su 10:00-14:00,17:00-21:00; PH off
+website: https://www.empiregames.es/

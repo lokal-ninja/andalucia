@@ -4,8 +4,8 @@ latitude: 37.37985
 longitude: -5.99969
 postcode: "41010"
 city: Sevilla
-street: "Calle Salado"
-housenumber: 2
-phone: "+34 954 78 36 17"
-opening_hours: "Mo-Sa 09:00-21:30"
+street: Calle Salado
+housenumber: "2"
+phone: +34 954 78 36 17
+opening_hours: Mo-Sa 09:00-21:30
 website: ""

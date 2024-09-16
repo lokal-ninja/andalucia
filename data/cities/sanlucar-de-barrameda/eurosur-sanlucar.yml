@@ -1,11 +1,11 @@
 id: 995637059
-type: way
+type: node
 latitude: 36.77256
 longitude: -6.36087
 postcode: "11540"
 city: Sanlúcar de Barrameda
-street: "Calle Fray Isidro de Sevilla"
-housenumber: 3
-phone: "+34 956 38 43 47"
+street: Calle Fray Isidro de Sevilla
+housenumber: "3"
+phone: +34 956 38 43 47
 opening_hours: ""
-website: "https://www.eurosursanlucar.com/"
+website: https://www.eurosursanlucar.com/

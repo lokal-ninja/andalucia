@@ -4,8 +4,8 @@ latitude: 37.18999
 longitude: -3.7176
 postcode: "18320"
 city: Santa Fe
-street: "Calle Real"
-housenumber: 10
-phone: "+34 958 440 133"
+street: Calle Real
+housenumber: "10"
+phone: +34 958 440 133
 opening_hours: ""
-website: "https://pionono.com/"
+website: https://pionono.com/

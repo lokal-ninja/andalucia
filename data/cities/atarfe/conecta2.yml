@@ -4,8 +4,8 @@ latitude: 37.22365
 longitude: -3.68268
 postcode: "18230"
 city: Atarfe
-street: "Avenida de Andalucía"
-housenumber: 140
-phone: "+34 958 14 81 09;+34 640 29 57 12"
-opening_hours: "Mo-Fr 09:00-14:00, 17:00-20:00; Sa 10:30-13:30"
-website: "https://www.inforconecta2.com"
+street: Avenida de Andalucía
+housenumber: "140"
+phone: +34 958 14 81 09;+34 640 29 57 12
+opening_hours: Mo-Fr 09:00-14:00, 17:00-20:00; Sa 10:30-13:30
+website: https://www.inforconecta2.com

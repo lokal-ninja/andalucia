@@ -1,11 +1,11 @@
 id: 334781576
-type: way
+type: node
 latitude: 38.0205
 longitude: -3.37215
 postcode: "23400"
 city: Úbeda
-street: "Calle Iberia"
-housenumber: 
+street: Calle Iberia
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

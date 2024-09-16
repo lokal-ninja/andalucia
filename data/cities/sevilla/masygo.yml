@@ -4,8 +4,8 @@ latitude: 37.38886
 longitude: -6.00205
 postcode: "41001"
 city: Sevilla
-street: "Calle Arjona"
-housenumber: 11
-phone: "+34 95 421 96 55"
-opening_hours: "Mo-Su 08:00-23:00"
-website: "https://www.masandgo.es/cash/arjona/"
+street: Calle Arjona
+housenumber: "11"
+phone: +34 95 421 96 55
+opening_hours: Mo-Su 08:00-23:00
+website: https://www.masandgo.es/cash/arjona/

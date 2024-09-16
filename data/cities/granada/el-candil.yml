@@ -4,8 +4,8 @@ latitude: 37.1749
 longitude: -3.60274
 postcode: "18002"
 city: Granada
-street: "Calle Paz"
-housenumber: 12
-phone: "+34 958 25 07 71"
-opening_hours: "Mo-Sa 10:00-13:30,17:00-20:30"
-website: "https://www.elcandil.com"
+street: Calle Paz
+housenumber: "12"
+phone: +34 958 25 07 71
+opening_hours: Mo-Sa 10:00-13:30,17:00-20:30
+website: https://www.elcandil.com

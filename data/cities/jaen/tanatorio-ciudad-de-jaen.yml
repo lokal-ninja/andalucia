@@ -1,11 +1,11 @@
 id: 343420219
-type: way
+type: node
 latitude: 37.79631
 longitude: -3.78934
 postcode: "23009"
 city: Jaén
-street: "Calle Cazalilla"
-housenumber: 37
-phone: "+34 953 24 99 51"
-opening_hours: "24/7"
-website: "https://www.grupodelgadodiaz.com/"
+street: Calle Cazalilla
+housenumber: "37"
+phone: +34 953 24 99 51
+opening_hours: 24/7
+website: https://www.grupodelgadodiaz.com/

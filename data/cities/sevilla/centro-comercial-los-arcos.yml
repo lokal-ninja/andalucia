@@ -1,11 +1,11 @@
 id: 41741120
-type: way
+type: node
 latitude: 37.38771
 longitude: -5.96121
 postcode: "41007"
 city: Sevilla
-street: "Avenida de Andalucía"
-housenumber: 
+street: Avenida de Andalucía
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://cclosarcos.com/"
+website: https://cclosarcos.com/

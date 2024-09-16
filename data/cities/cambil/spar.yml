@@ -4,8 +4,8 @@ latitude: 37.67587
 longitude: -3.56512
 postcode: "23120"
 city: Cambil
-street: "Calle Real"
-housenumber: 
+street: Calle Real
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 10:00-14:00, 17:00-21:00"
-website: "https://spar.es"
+opening_hours: Mo-Fr 10:00-14:00, 17:00-21:00
+website: https://spar.es

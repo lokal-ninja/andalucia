@@ -1,11 +1,11 @@
 id: 490667143
-type: way
+type: node
 latitude: 37.39188
 longitude: -5.95766
 postcode: "41007"
 city: Sevilla
-street: "Avenida Montes Sierra"
-housenumber: 3
-phone: "+34 954 57 25 26"
-opening_hours: "Mo-Fr 10:00-14:00,16:30-20:30;Sa 10:00-14:00"
-website: "http://www.lexussevilla.com"
+street: Avenida Montes Sierra
+housenumber: "3"
+phone: +34 954 57 25 26
+opening_hours: Mo-Fr 10:00-14:00,16:30-20:30;Sa 10:00-14:00
+website: http://www.lexussevilla.com

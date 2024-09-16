@@ -1,11 +1,11 @@
 id: 1058390243
-type: way
+type: node
 latitude: 37.80314
 longitude: -3.78508
 postcode: "23009"
 city: Jaen
-street: "Ronda de los Olivares"
-housenumber: 49
+street: Ronda de los Olivares
+housenumber: "49"
 phone: ""
 opening_hours: ""
 website: ""

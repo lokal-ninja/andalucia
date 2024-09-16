@@ -1,11 +1,11 @@
 id: 482812699
-type: way
+type: node
 latitude: 37.5058
 longitude: -3.22707
 postcode: "18530"
 city: Pedro Martínez
-street: "Calle Villanueva"
-housenumber: 
+street: Calle Villanueva
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

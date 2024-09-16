@@ -4,8 +4,8 @@ latitude: 37.39364
 longitude: -5.99089
 postcode: "41003"
 city: Sevilla
-street: "Calle Alcázares"
-housenumber: 3
-phone: "+34 955 326 621"
-opening_hours: "Mo-Fr 10:00-14:00,17:30-20:30; Sa 11:00-14:00"
-website: "https://www.elmundodemapi.es/"
+street: Calle Alcázares
+housenumber: "3"
+phone: +34 955 326 621
+opening_hours: Mo-Fr 10:00-14:00,17:30-20:30; Sa 11:00-14:00
+website: https://www.elmundodemapi.es/

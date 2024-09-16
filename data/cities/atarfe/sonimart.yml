@@ -4,8 +4,8 @@ latitude: 37.22357
 longitude: -3.68729
 postcode: "18230"
 city: Atarfe
-street: "Calle Lope de Vega"
-housenumber: 1
-phone: "+34 958 43 90 07"
-opening_hours: "Mo-Sa 10:00-14:00; Mo-Fr 17:00-21:00"
-website: "http://sonimart.es/"
+street: Calle Lope de Vega
+housenumber: "1"
+phone: +34 958 43 90 07
+opening_hours: Mo-Sa 10:00-14:00; Mo-Fr 17:00-21:00
+website: http://sonimart.es/

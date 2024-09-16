@@ -4,8 +4,8 @@ latitude: 37.17322
 longitude: -3.60906
 postcode: "18004"
 city: Granada
-street: "Calle Arabial"
-housenumber: 52
+street: Calle Arabial
+housenumber: "52"
 phone: "+34958256862"
-opening_hours: "Mo-Fr 10:00-14:00,17:00-21:00; Sa 10:00-14:00"
-website: "https://www.mascotasarabial.com/"
+opening_hours: Mo-Fr 10:00-14:00,17:00-21:00; Sa 10:00-14:00
+website: https://www.mascotasarabial.com/

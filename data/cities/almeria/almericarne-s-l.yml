@@ -1,11 +1,11 @@
 id: 592740981
-type: way
+type: node
 latitude: 36.84058
 longitude: -2.4552
 postcode: "04005"
 city: Almería
-street: "Calle Hermanos Pinzón"
-housenumber: 50
+street: Calle Hermanos Pinzón
+housenumber: "50"
 phone: ""
 opening_hours: ""
 website: ""

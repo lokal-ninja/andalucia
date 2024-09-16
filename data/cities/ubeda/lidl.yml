@@ -1,11 +1,11 @@
 id: 434578493
-type: way
+type: node
 latitude: 38.01804
 longitude: -3.38254
 postcode: "23400"
 city: Úbeda
-street: "Avenida de la Ciudad de Linares"
-housenumber: 27
+street: Avenida de la Ciudad de Linares
+housenumber: "27"
 phone: ""
-opening_hours: "Mo-Sa 09:00-21:30"
+opening_hours: Mo-Sa 09:00-21:30
 website: ""

@@ -4,8 +4,8 @@ latitude: 37.16037
 longitude: -3.59952
 postcode: "18007"
 city: Granada
-street: "Calle Palencia"
-housenumber: 1
-phone: "+34 958 81 83 00"
-opening_hours: "Mo-Fr 10:00-14:00,17:30-20:30; Sa 10:00-14:00"
+street: Calle Palencia
+housenumber: "1"
+phone: +34 958 81 83 00
+opening_hours: Mo-Fr 10:00-14:00,17:30-20:30; Sa 10:00-14:00
 website: ""

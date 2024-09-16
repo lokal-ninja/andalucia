@@ -4,8 +4,8 @@ latitude: 36.84413
 longitude: -2.45848
 postcode: "04008"
 city: Almería
-street: "Calle Murcia"
-housenumber: 99
+street: Calle Murcia
+housenumber: "99"
 phone: ""
-opening_hours: "Mo-Fr 09:30-13:30,17:00-20:30; Sa 09:30-13:30"
+opening_hours: Mo-Fr 09:30-13:30,17:00-20:30; Sa 09:30-13:30
 website: ""

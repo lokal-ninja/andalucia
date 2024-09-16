@@ -4,8 +4,8 @@ latitude: 37.40055
 longitude: -5.97585
 postcode: "41008"
 city: Sevilla
-street: "Calle Carretera de Carmona"
-housenumber: 30
+street: Calle Carretera de Carmona
+housenumber: "30"
 phone: "+34954969205"
-opening_hours: "Mo-Fr 10:00-13:30,19:00-21:00; Sa 10:00-13:30"
-website: "https://pasatitos.com/"
+opening_hours: Mo-Fr 10:00-13:30,19:00-21:00; Sa 10:00-13:30
+website: https://pasatitos.com/

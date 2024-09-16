@@ -4,8 +4,8 @@ latitude: 37.38511
 longitude: -5.97331
 postcode: "41018"
 city: Sevilla
-street: "Calle Martínez de Medina"
-housenumber: 3
-phone: "+34 626 942 695"
-opening_hours: "Mo-Fr 09:30-21:00"
+street: Calle Martínez de Medina
+housenumber: "3"
+phone: +34 626 942 695
+opening_hours: Mo-Fr 09:30-21:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 37.3753
 longitude: -5.99897
 postcode: "41010"
 city: Sevilla
-street: "Calle Juan Ramón Jiménez"
-housenumber: 6
+street: Calle Juan Ramón Jiménez
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Fr 09:00-15:00,17:00-22:00; Sa,Su 09:00-15:00"
+opening_hours: Mo-Fr 09:00-15:00,17:00-22:00; Sa,Su 09:00-15:00
 website: ""

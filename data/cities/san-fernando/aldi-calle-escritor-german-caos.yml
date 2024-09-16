@@ -1,11 +1,11 @@
 id: 501498565
-type: way
+type: node
 latitude: 36.47686
 longitude: -6.20044
 postcode: "11100"
 city: San Fernando
-street: "Calle Escritor Germán Caos"
-housenumber: 
-phone: "900 902 466"
+street: Calle Escritor Germán Caos
+housenumber: ""
+phone: 900 902 466
 opening_hours: ""
-website: "https://www.aldi.es/"
+website: https://www.aldi.es/

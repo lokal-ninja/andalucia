@@ -1,11 +1,11 @@
 id: 831859916
-type: way
+type: node
 latitude: 38.04462
 longitude: -3.46934
 postcode: ""
 city: Rus
-street: "Calle de Canena"
-housenumber: 31
+street: Calle de Canena
+housenumber: "31"
 phone: ""
 opening_hours: ""
 website: ""

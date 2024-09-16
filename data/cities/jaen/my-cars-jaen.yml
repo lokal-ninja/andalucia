@@ -1,11 +1,11 @@
 id: 888445526
-type: way
+type: node
 latitude: 37.7951
 longitude: -3.78129
 postcode: "23009"
 city: Jaén
-street: "Calle Ortega Nieto"
-housenumber: 3
-phone: "+34 663 548 538"
+street: Calle Ortega Nieto
+housenumber: "3"
+phone: +34 663 548 538
 opening_hours: ""
-website: "https://redcomercial.peugeot.es/my-cars-jaen/?location=Ja%C3%A9n%7C0"
+website: https://redcomercial.peugeot.es/my-cars-jaen/?location=Ja%C3%A9n%7C0

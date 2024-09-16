@@ -4,8 +4,8 @@ latitude: 37.3908
 longitude: -5.99442
 postcode: "41004"
 city: Sevilla
-street: "Calle Sierpes"
-housenumber: 55
-phone: "+34 934941460"
-opening_hours: "Mo-Th 09:00-14:00, 15:00-18:00; Fr 09:00-15:00"
-website: "https://www.naturaselection.com"
+street: Calle Sierpes
+housenumber: "55"
+phone: +34 934941460
+opening_hours: Mo-Th 09:00-14:00, 15:00-18:00; Fr 09:00-15:00
+website: https://www.naturaselection.com

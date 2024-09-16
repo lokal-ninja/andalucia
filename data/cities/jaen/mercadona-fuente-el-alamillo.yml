@@ -1,11 +1,11 @@
 id: 593125201
-type: way
+type: node
 latitude: 37.78084
 longitude: -3.80993
 postcode: "23006"
 city: Jaén
-street: "Fuente El Alamillo"
-housenumber: 
-phone: "+34 953225971"
-opening_hours: "Mo-Sa 09:00-21:30"
-website: "https://www.mercadona.es"
+street: Fuente El Alamillo
+housenumber: ""
+phone: +34 953225971
+opening_hours: Mo-Sa 09:00-21:30
+website: https://www.mercadona.es

@@ -4,8 +4,9 @@ latitude: 37.17977
 longitude: -3.61382
 postcode: "18004"
 city: Granada
-street: "Calle Santo Tomás de Villanueva"
-housenumber: 7
+street: Calle Santo Tomás de Villanueva
+housenumber: "7"
 phone: ""
-opening_hours: "Mo 16:00-20:00; Tu-Fr 10:00-13:30,16:00-20:00; Sa 10:00-13:30; Su,PH off"
+opening_hours: Mo 16:00-20:00; Tu-Fr 10:00-13:30,16:00-20:00; Sa 10:00-13:30; Su,PH
+    off
 website: ""

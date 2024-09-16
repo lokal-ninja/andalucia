@@ -4,8 +4,8 @@ latitude: 37.47072
 longitude: -5.64505
 postcode: "41410"
 city: Carmona
-street: "Calle Tinajería"
-housenumber: 7
+street: Calle Tinajería
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Fr 10:00-13:30,17:00-20:30; Sa 10:00-13:30"
-website: "http://www.artesaniatorres.es/"
+opening_hours: Mo-Fr 10:00-13:30,17:00-20:30; Sa 10:00-13:30
+website: http://www.artesaniatorres.es/

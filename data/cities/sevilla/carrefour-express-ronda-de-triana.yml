@@ -4,8 +4,8 @@ latitude: 37.38886
 longitude: -6.01075
 postcode: "41010"
 city: Sevilla
-street: "Ronda de Triana"
-housenumber: 2
+street: Ronda de Triana
+housenumber: "2"
 phone: ""
-opening_hours: "PH,Mo-Su 09:00-22:00"
+opening_hours: PH,Mo-Su 09:00-22:00
 website: ""

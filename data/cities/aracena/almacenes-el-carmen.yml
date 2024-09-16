@@ -1,11 +1,11 @@
 id: 402451263
-type: way
+type: node
 latitude: 37.89541
 longitude: -6.5601
 postcode: "21200"
 city: Aracena
-street: "Calle Olvido"
-housenumber: 
+street: Calle Olvido
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

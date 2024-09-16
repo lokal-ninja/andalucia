@@ -1,11 +1,11 @@
 id: 596307219
-type: way
+type: node
 latitude: 37.8864
 longitude: -4.79131
 postcode: "14005"
 city: Córdoba
-street: "Calle de Los Omeyas"
-housenumber: 
+street: Calle de Los Omeyas
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:00-21:30"
-website: "https://www.cashfresh.es/cash/c-los-omeyas-esq-calle-gareano/"
+opening_hours: Mo-Sa 09:00-21:30
+website: https://www.cashfresh.es/cash/c-los-omeyas-esq-calle-gareano/

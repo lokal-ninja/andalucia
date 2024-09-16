@@ -4,8 +4,8 @@ latitude: 36.60649
 longitude: -4.53241
 postcode: "29631"
 city: Benalmádena
-street: "Calle Moscatel"
-housenumber: 9
-phone: "+34 952 85 87 77"
-opening_hours: "Mo-Fr 10:00-14:00, 17:00-20:00; Sa 10:00-14:00"
-website: "https://backlinerent.es"
+street: Calle Moscatel
+housenumber: "9"
+phone: +34 952 85 87 77
+opening_hours: Mo-Fr 10:00-14:00, 17:00-20:00; Sa 10:00-14:00
+website: https://backlinerent.es

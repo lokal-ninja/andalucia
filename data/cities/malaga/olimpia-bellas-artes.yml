@@ -4,8 +4,8 @@ latitude: 36.72318
 longitude: -4.42085
 postcode: "29008"
 city: Málaga
-street: "Calle Méndez Núñez"
-housenumber: 10
-phone: "+34 952 21 84 29"
-opening_hours: "Mo-Fr 09:30-13:30,17:00- 20:30; Sa 10:00-13:30"
+street: Calle Méndez Núñez
+housenumber: "10"
+phone: +34 952 21 84 29
+opening_hours: Mo-Fr 09:30-13:30,17:00- 20:30; Sa 10:00-13:30
 website: ""

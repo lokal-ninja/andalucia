@@ -4,8 +4,8 @@ latitude: 37.22601
 longitude: -3.68516
 postcode: "18230"
 city: Atarfe
-street: "Calle Cedazos"
-housenumber: 61
-phone: "+34 958 43 88 19"
-opening_hours: "Mo-Fr 09:00-13:30, 16:30-20:30; Sa 09:00-13:30"
-website: "http://ferreteria-sanchez.es/es"
+street: Calle Cedazos
+housenumber: "61"
+phone: +34 958 43 88 19
+opening_hours: Mo-Fr 09:00-13:30, 16:30-20:30; Sa 09:00-13:30
+website: http://ferreteria-sanchez.es/es

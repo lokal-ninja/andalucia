@@ -4,8 +4,8 @@ latitude: 37.39008
 longitude: -6.00285
 postcode: ""
 city: Sevilla
-street: "Calle Arjona"
-housenumber: 2
-phone: "+34 954 210 605"
-opening_hours: "Mo-Fr 10:00-13:00,16:00-20:30"
-website: "http://www.ruachaque.es/"
+street: Calle Arjona
+housenumber: "2"
+phone: +34 954 210 605
+opening_hours: Mo-Fr 10:00-13:00,16:00-20:30
+website: http://www.ruachaque.es/

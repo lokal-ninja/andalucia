@@ -1,11 +1,11 @@
 id: 216949134
-type: way
+type: node
 latitude: 38.09272
 longitude: -3.63718
 postcode: "23700"
 city: Linares
-street: "Avenida de Andalucía"
-housenumber: 
+street: Avenida de Andalucía
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 10:00-14:00, 16:30-20:30; Sa 10:00-14:00"
+opening_hours: Mo-Fr 10:00-14:00, 16:30-20:30; Sa 10:00-14:00
 website: ""

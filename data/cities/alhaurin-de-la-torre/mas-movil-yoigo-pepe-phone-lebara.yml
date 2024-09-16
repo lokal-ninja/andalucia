@@ -4,8 +4,8 @@ latitude: 36.66077
 longitude: -4.56202
 postcode: "29130"
 city: Alhaurín de la Torre
-street: "Calle San Juan"
-housenumber: 6
-phone: "+34 952 417 897"
-opening_hours: "Mo-Fr 09:30-13:30,17:00-20:00; Sa 10:00-13:30"
-website: "https://maslife.es"
+street: Calle San Juan
+housenumber: "6"
+phone: +34 952 417 897
+opening_hours: Mo-Fr 09:30-13:30,17:00-20:00; Sa 10:00-13:30
+website: https://maslife.es

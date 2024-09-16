@@ -4,8 +4,8 @@ latitude: 37.77871
 longitude: -3.78876
 postcode: "23008"
 city: Jaén
-street: "Calle Andrés Segovia"
-housenumber: 9
-phone: "+34 656 85 30 84"
-opening_hours: "Mo-Fr 09:00-20:30"
-website: "http://www.publiprenda.com/"
+street: Calle Andrés Segovia
+housenumber: "9"
+phone: +34 656 85 30 84
+opening_hours: Mo-Fr 09:00-20:30
+website: http://www.publiprenda.com/

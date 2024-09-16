@@ -2,10 +2,10 @@ id: 9458410459
 type: node
 latitude: 36.14038
 longitude: -5.35431
-postcode: "GX11 1AA"
+postcode: GX11 1AA
 city: Gibraltar
-street: "College Lane"
-housenumber: 24
+street: College Lane
+housenumber: "24"
 phone: ""
 opening_hours: ""
 website: ""

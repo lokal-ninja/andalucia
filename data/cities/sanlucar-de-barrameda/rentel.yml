@@ -1,11 +1,11 @@
 id: 997695618
-type: way
+type: node
 latitude: 36.78421
 longitude: -6.35243
 postcode: "11540"
 city: Sanlúcar de Barrameda
-street: "Avenida Cabo Noval"
-housenumber: 21
+street: Avenida Cabo Noval
+housenumber: "21"
 phone: ""
 opening_hours: ""
 website: ""

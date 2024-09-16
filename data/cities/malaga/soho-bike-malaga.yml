@@ -4,8 +4,8 @@ latitude: 36.7159
 longitude: -4.42169
 postcode: "29001"
 city: Málaga
-street: "Calle Córdoba"
-housenumber: 17
-phone: "+34 682214249"
-opening_hours: "Mo-Su 10:00-20:00"
-website: "https://www.sohobikemalaga.com/"
+street: Calle Córdoba
+housenumber: "17"
+phone: +34 682214249
+opening_hours: Mo-Su 10:00-20:00
+website: https://www.sohobikemalaga.com/

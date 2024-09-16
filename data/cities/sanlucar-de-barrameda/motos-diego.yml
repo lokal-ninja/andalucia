@@ -1,11 +1,11 @@
 id: 1061045638
-type: way
+type: node
 latitude: 36.77276
 longitude: -6.35459
 postcode: "11540"
 city: Sanlúcar de Barrameda
-street: "Calle Samborondon"
-housenumber: 5
+street: Calle Samborondon
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

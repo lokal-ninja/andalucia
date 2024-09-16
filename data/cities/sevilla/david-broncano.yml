@@ -4,8 +4,8 @@ latitude: 37.37712
 longitude: -5.9969
 postcode: "41011"
 city: Sevilla
-street: "Calle Monte Carmelo"
-housenumber: 20
-phone: "+34 605765644"
-opening_hours: "Mo-Fr 09:30-13:30,17:00-20:30; Sa 09:30-14:00"
-website: "http://dbroncano.com/"
+street: Calle Monte Carmelo
+housenumber: "20"
+phone: +34 605765644
+opening_hours: Mo-Fr 09:30-13:30,17:00-20:30; Sa 09:30-14:00
+website: http://dbroncano.com/

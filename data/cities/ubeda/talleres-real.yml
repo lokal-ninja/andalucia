@@ -1,11 +1,11 @@
 id: 335688930
-type: way
+type: node
 latitude: 38.02446
 longitude: -3.37035
 postcode: "23400"
 city: Úbeda
-street: "Carretera de Vilches"
-housenumber: 28
+street: Carretera de Vilches
+housenumber: "28"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 305361264
-type: way
+type: node
 latitude: 38.01928
 longitude: -3.37378
 postcode: "23400"
 city: Úbeda
-street: "Avenida de Don Cristóbal Cantero"
-housenumber: 28
+street: Avenida de Don Cristóbal Cantero
+housenumber: "28"
 phone: ""
 opening_hours: ""
 website: ""

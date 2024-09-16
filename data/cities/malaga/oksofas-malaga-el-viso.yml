@@ -1,11 +1,11 @@
 id: 99160167
-type: way
+type: node
 latitude: 36.71241
 longitude: -4.48347
 postcode: "29006"
 city: Málaga
-street: "Avenida Washington"
-housenumber: 51
+street: Avenida Washington
+housenumber: "51"
 phone: ""
 opening_hours: ""
 website: ""

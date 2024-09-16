@@ -1,11 +1,11 @@
 id: 1207574356
-type: way
+type: node
 latitude: 36.47414
 longitude: -6.20689
 postcode: "11100"
 city: San Fernando
-street: "Calle Carpinteros"
-housenumber: 10
-phone: "+34 956940063"
+street: Calle Carpinteros
+housenumber: "10"
+phone: +34 956940063
 opening_hours: ""
 website: ""

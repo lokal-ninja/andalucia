@@ -1,11 +1,11 @@
 id: 1202608956
-type: way
+type: node
 latitude: 36.73693
 longitude: -3.51186
 postcode: "18600"
 city: Motril
-street: "Calle Santo Domingo"
-housenumber: 
+street: Calle Santo Domingo
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 204356115
-type: way
+type: node
 latitude: 37.3577
 longitude: -6.19955
 postcode: "41805"
 city: Benacazón
-street: "Calle de La Fuente"
-housenumber: 59
+street: Calle de La Fuente
+housenumber: "59"
 phone: ""
-opening_hours: "Mo-Fr 10:00-14:00,17:30-21:00; Sa 10:00-14:00"
+opening_hours: Mo-Fr 10:00-14:00,17:30-21:00; Sa 10:00-14:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 37.40306
 longitude: -5.9906
 postcode: "41002"
 city: Sevilla
-street: "Calle Resolana"
-housenumber: 13
+street: Calle Resolana
+housenumber: "13"
 phone: "+34651548558"
-opening_hours: "Mo-Sa 10:00-14:00; Mo-Fr 17:00-20:00"
-website: "https://tiendakaminature.es/"
+opening_hours: Mo-Sa 10:00-14:00; Mo-Fr 17:00-20:00
+website: https://tiendakaminature.es/

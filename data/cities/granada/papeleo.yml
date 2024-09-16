@@ -4,8 +4,8 @@ latitude: 37.17558
 longitude: -3.60357
 postcode: "18071"
 city: Granada
-street: "Calle Puentezuelas"
-housenumber: 48
-phone: "+34 958 25 37 66"
-opening_hours: "Mo-Fr 09:15-13:45; Sa 11:00-14:00; Mo-Fr 16:30-20:30"
+street: Calle Puentezuelas
+housenumber: "48"
+phone: +34 958 25 37 66
+opening_hours: Mo-Fr 09:15-13:45; Sa 11:00-14:00; Mo-Fr 16:30-20:30
 website: ""

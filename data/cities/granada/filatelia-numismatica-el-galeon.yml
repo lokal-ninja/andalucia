@@ -4,8 +4,8 @@ latitude: 37.17401
 longitude: -3.60326
 postcode: "18002"
 city: Granada
-street: "Calle Verónica de la Magdalena"
-housenumber: 25
-phone: "+34 958 26 71 65"
-opening_hours: "Mo-Fr 10:30-13:00, 18:00-20:00; Sa 10:30-13:00"
+street: Calle Verónica de la Magdalena
+housenumber: "25"
+phone: +34 958 26 71 65
+opening_hours: Mo-Fr 10:30-13:00, 18:00-20:00; Sa 10:30-13:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 37.17311
 longitude: -3.60431
 postcode: "18002"
 city: Granada
-street: "Plaza de Gracia"
-housenumber: 7
-phone: "+34 958 26 29 06"
-opening_hours: "Mo-Fr 09:00-14:00, 16:00-20:30; Sa 09:00-14:00"
-website: "https://www.repuestosgracia.es/"
+street: Plaza de Gracia
+housenumber: "7"
+phone: +34 958 26 29 06
+opening_hours: Mo-Fr 09:00-14:00, 16:00-20:30; Sa 09:00-14:00
+website: https://www.repuestosgracia.es/

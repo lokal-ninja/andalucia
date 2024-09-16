@@ -1,11 +1,11 @@
 id: 405734421
-type: way
+type: node
 latitude: 37.87965
 longitude: -4.76702
 postcode: "14010"
 city: Córdoba
-street: "Avenida del Arcángel"
-housenumber: 
+street: Avenida del Arcángel
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.ccelarcangel.com/"
+website: https://www.ccelarcangel.com/

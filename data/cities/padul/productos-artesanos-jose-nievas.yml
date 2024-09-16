@@ -4,8 +4,8 @@ latitude: 37.02347
 longitude: -3.62425
 postcode: "18640"
 city: Padul
-street: "Calle Alcarceles"
-housenumber: 12
-phone: "+34 958 79 01 98"
-opening_hours: "Mo-Th 07:00-15:00; Fr 10:00-13:30; Sa-Su off"
+street: Calle Alcarceles
+housenumber: "12"
+phone: +34 958 79 01 98
+opening_hours: Mo-Th 07:00-15:00; Fr 10:00-13:30; Sa-Su off
 website: ""

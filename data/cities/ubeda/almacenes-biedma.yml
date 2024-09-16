@@ -1,11 +1,11 @@
 id: 629585559
-type: way
+type: node
 latitude: 38.0114
 longitude: -3.37095
 postcode: "23400"
 city: Úbeda
-street: "Calle de la Corredera de San Fernando"
-housenumber: 12
+street: Calle de la Corredera de San Fernando
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

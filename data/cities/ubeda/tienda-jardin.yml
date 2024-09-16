@@ -1,11 +1,11 @@
 id: 449134928
-type: way
+type: node
 latitude: 38.02316
 longitude: -3.3736
 postcode: "23400"
 city: Úbeda
-street: "Camino del Cementerio"
-housenumber: 16
+street: Camino del Cementerio
+housenumber: "16"
 phone: ""
 opening_hours: ""
 website: ""

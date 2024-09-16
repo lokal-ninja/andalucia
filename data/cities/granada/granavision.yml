@@ -4,8 +4,8 @@ latitude: 37.17563
 longitude: -3.59804
 postcode: "18001"
 city: Granada
-street: "Calle Reyes Católicos"
-housenumber: 47
-phone: "+34 958 53 58 72"
-opening_hours: "Mo-Fr 08:30-20:00; Sa,Su,PH 08:30-13:00"
-website: "http://www.granavision.com"
+street: Calle Reyes Católicos
+housenumber: "47"
+phone: +34 958 53 58 72
+opening_hours: Mo-Fr 08:30-20:00; Sa,Su,PH 08:30-13:00
+website: http://www.granavision.com

@@ -4,8 +4,8 @@ latitude: 37.87942
 longitude: -4.7646
 postcode: "14010"
 city: Córdoba
-street: "Calle Camino de la Barca"
-housenumber: 1
-phone: "+34 957 07 69 20"
-opening_hours: "Mo-Sa 09:00-21:00"
+street: Calle Camino de la Barca
+housenumber: "1"
+phone: +34 957 07 69 20
+opening_hours: Mo-Sa 09:00-21:00
 website: ""

@@ -1,11 +1,11 @@
 id: 292666350
-type: way
+type: node
 latitude: 38.01513
 longitude: -3.38477
 postcode: "23400"
 city: Úbeda
-street: "Calle Cronista Juan de la Torre"
-housenumber: 1
+street: Calle Cronista Juan de la Torre
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

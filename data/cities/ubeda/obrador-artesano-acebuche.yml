@@ -1,11 +1,11 @@
 id: 297008331
-type: way
+type: node
 latitude: 38.02502
 longitude: -3.37213
 postcode: "23400"
 city: Úbeda
-street: "Calle Curtidores"
-housenumber: 8
+street: Calle Curtidores
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

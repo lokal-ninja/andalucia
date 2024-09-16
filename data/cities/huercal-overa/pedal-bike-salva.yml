@@ -1,11 +1,11 @@
 id: 1076180295
-type: way
+type: node
 latitude: 37.3994
 longitude: -1.93905
 postcode: "04600"
 city: Huercal-Overa
-street: "Calle Amanecer"
-housenumber: 
+street: Calle Amanecer
+housenumber: ""
 phone: "+34950888636"
 opening_hours: ""
-website: "http://www.pedalbike.es/"
+website: http://www.pedalbike.es/

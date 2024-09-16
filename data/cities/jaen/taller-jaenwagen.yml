@@ -1,11 +1,11 @@
 id: 1058668395
-type: way
+type: node
 latitude: 37.80181
 longitude: -3.78655
 postcode: "23009"
 city: Jaen
-street: "Calle Mancha Real"
-housenumber: 51
+street: Calle Mancha Real
+housenumber: "51"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 861038921
-type: way
+type: node
 latitude: 37.46353
 longitude: -5.65241
 postcode: "41410"
 city: Carmona
-street: "Avenida Doctor Villa"
-housenumber: 1
+street: Avenida Doctor Villa
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 09:00-21:30"
+opening_hours: Mo-Sa 09:00-21:30
 website: ""

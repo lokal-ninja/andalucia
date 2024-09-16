@@ -1,11 +1,11 @@
 id: 364227593
-type: way
+type: node
 latitude: 38.31604
 longitude: -2.6603
 postcode: "23370"
 city: Orcera
-street: "Calle San Mateo"
-housenumber: 12
+street: Calle San Mateo
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

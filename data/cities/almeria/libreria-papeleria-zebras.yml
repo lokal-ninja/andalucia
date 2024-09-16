@@ -4,8 +4,8 @@ latitude: 36.83052
 longitude: -2.45542
 postcode: "04007"
 city: Almería
-street: "Plaza Balneario San Miguel"
-housenumber: 3
+street: Plaza Balneario San Miguel
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 09:30-13:30,17:30-20:30; Sa-Su 09:30-14:00"
-website: "https://www.libreriazebras.com/es/"
+opening_hours: Mo-Fr 09:30-13:30,17:30-20:30; Sa-Su 09:30-14:00
+website: https://www.libreriazebras.com/es/

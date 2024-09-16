@@ -4,8 +4,8 @@ latitude: 36.53392
 longitude: -6.29623
 postcode: ""
 city: Cádiz
-street: "Calle Valverde"
-housenumber: 4
-phone: "+34 856 17 16 17"
-opening_hours: "Mo-Fr 10:30-14:00,18:00-21:00; Sa 10:30-14:00"
-website: "https://mechanicpeople.com/"
+street: Calle Valverde
+housenumber: "4"
+phone: +34 856 17 16 17
+opening_hours: Mo-Fr 10:30-14:00,18:00-21:00; Sa 10:30-14:00
+website: https://mechanicpeople.com/

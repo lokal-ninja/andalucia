@@ -4,8 +4,8 @@ latitude: 37.17824
 longitude: -3.61219
 postcode: "18003"
 city: Granada
-street: "Calle Arabial"
-housenumber: 94
+street: Calle Arabial
+housenumber: "94"
 phone: ""
-opening_hours: "Mo-Fr 10:00-14:00,18:00-21:00; Jul: Sa off; Aug: Sa off; Su,PH off"
+opening_hours: 'Mo-Fr 10:00-14:00,18:00-21:00; Jul: Sa off; Aug: Sa off; Su,PH off'
 website: ""

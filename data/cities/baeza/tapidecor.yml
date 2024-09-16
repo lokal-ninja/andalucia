@@ -1,11 +1,11 @@
 id: 109231363
-type: way
+type: node
 latitude: 37.99719
 longitude: -3.47841
 postcode: "23440"
 city: Baeza
-street: "Calle Castilla y León"
-housenumber: 2
+street: Calle Castilla y León
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

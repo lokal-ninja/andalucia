@@ -1,11 +1,11 @@
 id: 326494736
-type: way
+type: node
 latitude: 36.50713
 longitude: -4.67689
 postcode: "29649"
 city: Mijas
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:00-21:30"
-website: "https://www.mercadona.es"
+opening_hours: Mo-Sa 09:00-21:30
+website: https://www.mercadona.es

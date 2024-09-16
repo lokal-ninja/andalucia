@@ -4,8 +4,8 @@ latitude: 36.78163
 longitude: -4.10796
 postcode: ""
 city: Vélez-Málaga
-street: "Calle Alcalde Juan Barranquero"
-housenumber: 5
+street: Calle Alcalde Juan Barranquero
+housenumber: "5"
 phone: ""
 opening_hours: ""
-website: "https://www.mercadona.es"
+website: https://www.mercadona.es

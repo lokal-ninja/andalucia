@@ -1,11 +1,11 @@
 id: 630289833
-type: way
+type: node
 latitude: 36.66131
 longitude: -4.47443
 postcode: "29003"
 city: Málaga
-street: "Avenida Enrique Granados"
-housenumber: 3
+street: Avenida Enrique Granados
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

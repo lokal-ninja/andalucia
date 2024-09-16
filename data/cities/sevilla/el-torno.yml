@@ -4,8 +4,8 @@ latitude: 37.38563
 longitude: -5.99454
 postcode: "41001"
 city: Sevilla
-street: "Avenida de la Constitución"
-housenumber: 24
-phone: "+34 954 21 91 90"
-opening_hours: "Mo-Su 11:00-19:00"
+street: Avenida de la Constitución
+housenumber: "24"
+phone: +34 954 21 91 90
+opening_hours: Mo-Su 11:00-19:00
 website: ""

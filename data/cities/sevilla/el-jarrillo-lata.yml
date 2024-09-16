@@ -4,8 +4,8 @@ latitude: 37.40266
 longitude: -5.99173
 postcode: "41002"
 city: Sevilla
-street: "Calle Feria"
-housenumber: 140
-phone: "+34 722 61 68 27"
-opening_hours: "Mo-Fr 10:00-14:00,17:30-20:30; Sa 10:00-14:00"
-website: "https://eljarrillolata.es/"
+street: Calle Feria
+housenumber: "140"
+phone: +34 722 61 68 27
+opening_hours: Mo-Fr 10:00-14:00,17:30-20:30; Sa 10:00-14:00
+website: https://eljarrillolata.es/

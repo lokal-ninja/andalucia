@@ -1,11 +1,11 @@
 id: 589523373
-type: way
+type: node
 latitude: 37.20873
 longitude: -3.67642
 postcode: "18230"
 city: Atarfe
-street: "Carretera de Granada a Badajoz"
-housenumber: 
+street: Carretera de Granada a Badajoz
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.lavinuela.net/"
+website: https://www.lavinuela.net/

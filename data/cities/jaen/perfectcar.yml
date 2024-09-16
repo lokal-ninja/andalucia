@@ -1,11 +1,11 @@
 id: 1059330359
-type: way
+type: node
 latitude: 37.80119
 longitude: -3.78643
 postcode: "23009"
 city: Jaén
-street: "Calle Jabalquinto"
-housenumber: 18
-phone: "+34 953379177"
+street: Calle Jabalquinto
+housenumber: "18"
+phone: +34 953379177
 opening_hours: ""
 website: ""

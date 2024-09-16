@@ -4,8 +4,8 @@ latitude: 37.22261
 longitude: -3.69214
 postcode: "18230"
 city: Atarfe
-street: "Calle Silencio"
-housenumber: 3
-phone: "+34 655 80 50 20"
-opening_hours: "Mo-Fr 09:00-14:00, 16:00-19:00"
+street: Calle Silencio
+housenumber: "3"
+phone: +34 655 80 50 20
+opening_hours: Mo-Fr 09:00-14:00, 16:00-19:00
 website: ""

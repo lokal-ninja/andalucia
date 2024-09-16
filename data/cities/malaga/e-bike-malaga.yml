@@ -4,8 +4,8 @@ latitude: 36.71665
 longitude: -4.42145
 postcode: "29001"
 city: Málaga
-street: "Calle Casas de Campos"
-housenumber: 2
-phone: "+34 952221156"
+street: Calle Casas de Campos
+housenumber: "2"
+phone: +34 952221156
 opening_hours: ""
-website: "https://ebikemalaga.es"
+website: https://ebikemalaga.es

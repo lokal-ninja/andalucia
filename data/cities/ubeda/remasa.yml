@@ -1,11 +1,11 @@
 id: 460173709
-type: way
+type: node
 latitude: 38.01954
 longitude: -3.36219
 postcode: "23400"
 city: Úbeda
-street: "Carretera de Circunvalación"
-housenumber: 22
+street: Carretera de Circunvalación
+housenumber: "22"
 phone: ""
 opening_hours: ""
 website: ""

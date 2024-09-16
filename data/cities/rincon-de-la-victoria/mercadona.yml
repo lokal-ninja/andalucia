@@ -1,11 +1,11 @@
 id: 397641143
-type: way
+type: node
 latitude: 36.71752
 longitude: -4.27716
 postcode: "29730"
 city: Rincón de la Victoria
-street: "Plaza Costa del Sol"
-housenumber: 
-phone: "+34 95 297 21 56"
-opening_hours: "Mo-Sa 09:00-21:30"
-website: "https://www.mercadona.es"
+street: Plaza Costa del Sol
+housenumber: ""
+phone: +34 95 297 21 56
+opening_hours: Mo-Sa 09:00-21:30
+website: https://www.mercadona.es

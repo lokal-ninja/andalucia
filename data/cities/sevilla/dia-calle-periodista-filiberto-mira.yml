@@ -4,8 +4,8 @@ latitude: 37.40223
 longitude: -5.97755
 postcode: "41008"
 city: Sevilla
-street: "Calle Periodista Filiberto Mira"
-housenumber: 4
+street: Calle Periodista Filiberto Mira
+housenumber: "4"
 phone: "+34912170453"
-opening_hours: "Mo-Sa 09:00-22:00"
-website: "https://www.dia.es"
+opening_hours: Mo-Sa 09:00-22:00
+website: https://www.dia.es

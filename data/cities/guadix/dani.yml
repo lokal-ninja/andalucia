@@ -4,8 +4,8 @@ latitude: 37.30407
 longitude: -3.14257
 postcode: "18500"
 city: Guadix
-street: "Avenida Mariana Pineda"
-housenumber: 39
+street: Avenida Mariana Pineda
+housenumber: "39"
 phone: ""
-opening_hours: "Mo-Sa 09:30-14:00,17:00-20:30"
-website: "https://www.supermercadosdani.es"
+opening_hours: Mo-Sa 09:30-14:00,17:00-20:30
+website: https://www.supermercadosdani.es

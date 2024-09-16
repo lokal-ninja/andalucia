@@ -4,8 +4,8 @@ latitude: 37.17363
 longitude: -3.60672
 postcode: "18002"
 city: Granada
-street: "Calle Pedro Antonio de Alarcón"
-housenumber: 40
+street: Calle Pedro Antonio de Alarcón
+housenumber: "40"
 phone: ""
-opening_hours: "Mo-Fr 09:30-13:30,17:00-20:30; Sa 09:30-13:30"
-website: "https://www.supermercadosdani.es"
+opening_hours: Mo-Fr 09:30-13:30,17:00-20:30; Sa 09:30-13:30
+website: https://www.supermercadosdani.es

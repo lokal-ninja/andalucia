@@ -1,11 +1,11 @@
 id: 414621947
-type: way
+type: node
 latitude: 37.39297
 longitude: -6.00318
 postcode: ""
 city: Sevilla
 street: ""
-housenumber: 
-phone: "+34 954 908769"
-opening_hours: "Mo-Sa 10:00-22:00"
-website: "https://www.mercadona.es"
+housenumber: ""
+phone: +34 954 908769
+opening_hours: Mo-Sa 10:00-22:00
+website: https://www.mercadona.es

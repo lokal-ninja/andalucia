@@ -4,8 +4,8 @@ latitude: 37.7847
 longitude: -3.61146
 postcode: "23100"
 city: Mancha Real
-street: "Calle 28 de Febrero"
-housenumber: 84
+street: Calle 28 de Febrero
+housenumber: "84"
 phone: ""
-opening_hours: "Mo-Fr 08:00-14:30, 17:15-20:00; Sa-Su 08:00-14:30"
-website: "https://www.panaderiameliton.com/"
+opening_hours: Mo-Fr 08:00-14:30, 17:15-20:00; Sa-Su 08:00-14:30
+website: https://www.panaderiameliton.com/

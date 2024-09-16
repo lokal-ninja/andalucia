@@ -4,8 +4,8 @@ latitude: 37.39871
 longitude: -5.99849
 postcode: "41002"
 city: Sevilla
-street: "Calle San Vicente"
-housenumber: 90
+street: Calle San Vicente
+housenumber: "90"
 phone: ""
-opening_hours: "Mo-Su 10:00-22:00"
+opening_hours: Mo-Su 10:00-22:00
 website: ""

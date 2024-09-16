@@ -4,8 +4,8 @@ latitude: 37.19638
 longitude: -3.62267
 postcode: "18014"
 city: Granada
-street: "Calle Periodista Eugenio Sellés"
-housenumber: 8
+street: Calle Periodista Eugenio Sellés
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Fr 09:00-22:00"
-website: "https://www.mercadona.es"
+opening_hours: Mo-Fr 09:00-22:00
+website: https://www.mercadona.es

@@ -4,8 +4,8 @@ latitude: 36.64393
 longitude: -4.68291
 postcode: "29120"
 city: Alhaurín el Grande
-street: "Carretera de Cártama"
-housenumber: 1
-phone: "+34 952 49 11 71"
-opening_hours: "Mo-Fr 09:00-13:00,17:00-20:00; Sa 09:00-13:00"
-website: "https://www.mi-suerte.com/"
+street: Carretera de Cártama
+housenumber: "1"
+phone: +34 952 49 11 71
+opening_hours: Mo-Fr 09:00-13:00,17:00-20:00; Sa 09:00-13:00
+website: https://www.mi-suerte.com/

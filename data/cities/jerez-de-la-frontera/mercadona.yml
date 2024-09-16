@@ -4,8 +4,8 @@ latitude: 36.68264
 longitude: -6.13056
 postcode: "11401"
 city: Jerez de la Frontera
-street: "Calle María Antonia de Jesús Tirado"
-housenumber: 8
+street: Calle María Antonia de Jesús Tirado
+housenumber: "8"
 phone: "+34956325588"
-opening_hours: "Mo-Sa 09:00-22:00"
-website: "https://www.mercadona.es"
+opening_hours: Mo-Sa 09:00-22:00
+website: https://www.mercadona.es

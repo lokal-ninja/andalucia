@@ -4,8 +4,8 @@ latitude: 36.68237
 longitude: -6.1307
 postcode: "11401"
 city: Jerez de la Frontera
-street: "Calle María Antonia de Jesús Tirado"
-housenumber: 8
+street: Calle María Antonia de Jesús Tirado
+housenumber: "8"
 phone: "+34956301300"
-opening_hours: "Mo-Fr 10:00-13:30, 18:00-20:30; Sa 10:00-13:30"
-website: "https://centroauditivojerez.es/"
+opening_hours: Mo-Fr 10:00-13:30, 18:00-20:30; Sa 10:00-13:30
+website: https://centroauditivojerez.es/

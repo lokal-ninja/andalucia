@@ -1,11 +1,11 @@
 id: 448770163
-type: way
+type: node
 latitude: 37.13779
 longitude: -1.83193
 postcode: "04638"
 city: Mojácar Playa
-street: "Avenida de la Luz"
-housenumber: 14
+street: Avenida de la Luz
+housenumber: "14"
 phone: "+34950615219"
-opening_hours: "Sep 16-Jun 23 Mo-Sa 09:00-21:30; Jun 24-Sep 15 Mo-Su 09:00-21:30"
-website: "https://info.mercadona.es/es/supermercados?s=04638&k=883185312802"
+opening_hours: Sep 16-Jun 23 Mo-Sa 09:00-21:30; Jun 24-Sep 15 Mo-Su 09:00-21:30
+website: https://info.mercadona.es/es/supermercados?s=04638&k=883185312802

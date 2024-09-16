@@ -1,11 +1,11 @@
 id: 115176013
-type: way
+type: node
 latitude: 37.32663
 longitude: -5.9655
 postcode: "41013"
 city: Sevilla
-street: "Avenida de Jerez"
-housenumber: 13
+street: Avenida de Jerez
+housenumber: "13"
 phone: ""
 opening_hours: ""
-website: "https://www.mercadona.es"
+website: https://www.mercadona.es

@@ -4,8 +4,8 @@ latitude: 37.38969
 longitude: -6.00274
 postcode: ""
 city: Sevilla
-street: "Calle Arjona"
-housenumber: 4
-phone: "+34 955 517 524"
-opening_hours: "Mo-Sa 10:00-14:00,17:30-20:30; Su 10:00-14:00"
+street: Calle Arjona
+housenumber: "4"
+phone: +34 955 517 524
+opening_hours: Mo-Sa 10:00-14:00,17:30-20:30; Su 10:00-14:00
 website: ""

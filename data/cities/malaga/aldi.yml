@@ -5,7 +5,7 @@ longitude: -4.4404
 postcode: "29006"
 city: Málaga
 street: ""
-housenumber: 1
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 09:00-21:30"
-website: "https://www.aldi.es"
+opening_hours: Mo-Sa 09:00-21:30
+website: https://www.aldi.es

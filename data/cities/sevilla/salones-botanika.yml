@@ -4,8 +4,8 @@ latitude: 37.37862
 longitude: -5.99862
 postcode: "41011"
 city: Sevilla
-street: "Calle Niebla"
-housenumber: 1
+street: Calle Niebla
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "https://botanikasevilla.com/"
+website: https://botanikasevilla.com/

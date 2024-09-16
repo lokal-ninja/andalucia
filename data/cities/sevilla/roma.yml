@@ -4,8 +4,8 @@ latitude: 37.38832
 longitude: -6.00079
 postcode: ""
 city: Sevilla
-street: "Calle Reyes Católicos"
-housenumber: 12
+street: Calle Reyes Católicos
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Fr 09:00-14:00,16:15-21:30; Sa 09:00-14:00"
+opening_hours: Mo-Fr 09:00-14:00,16:15-21:30; Sa 09:00-14:00
 website: ""

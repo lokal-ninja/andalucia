@@ -1,11 +1,11 @@
 id: 335603087
-type: way
+type: node
 latitude: 38.02575
 longitude: -3.36837
 postcode: "23400"
 city: Úbeda
-street: "Calle Artesanía"
-housenumber: 15
+street: Calle Artesanía
+housenumber: "15"
 phone: ""
 opening_hours: ""
 website: ""

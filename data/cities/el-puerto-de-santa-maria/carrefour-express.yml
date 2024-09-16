@@ -4,8 +4,8 @@ latitude: 36.57968
 longitude: -6.2242
 postcode: "11500"
 city: El Puerto de Santa María
-street: "Avenida de la Paz"
-housenumber: 34
+street: Avenida de la Paz
+housenumber: "34"
 phone: ""
-opening_hours: "Mo-Su 09:00-21:00"
-website: "https://www.carrefour.es/tiendas-carrefour/supermercados/carrefour-express/avenida-de-la-paz-puerto-de-santa-maria-s.aspx"
+opening_hours: Mo-Su 09:00-21:00
+website: https://www.carrefour.es/tiendas-carrefour/supermercados/carrefour-express/avenida-de-la-paz-puerto-de-santa-maria-s.aspx

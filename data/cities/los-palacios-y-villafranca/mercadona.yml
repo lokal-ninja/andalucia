@@ -1,11 +1,11 @@
 id: 315833776
-type: way
+type: node
 latitude: 37.1623
 longitude: -5.93457
 postcode: "41720"
 city: Los Palacios y Villafranca
-street: "Calle Fernanda Calado"
-housenumber: 
+street: Calle Fernanda Calado
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.mercadona.es"
+website: https://www.mercadona.es

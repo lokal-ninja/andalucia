@@ -4,8 +4,8 @@ latitude: 37.39037
 longitude: -5.99991
 postcode: "41001"
 city: Sevilla
-street: "Calle Canalejas"
-housenumber: 7
+street: Calle Canalejas
+housenumber: "7"
 phone: ""
 opening_hours: ""
-website: "https://www.santagloria.com/es"
+website: https://www.santagloria.com/es

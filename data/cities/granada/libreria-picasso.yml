@@ -4,8 +4,8 @@ latitude: 37.17521
 longitude: -3.60463
 postcode: "18002"
 city: Granada
-street: "Calle Obispo Hurtado"
-housenumber: 5
-phone: "+34 958 53 69 10"
-opening_hours: "Mo-Fr 10:00-14:00,17:00-21:00; Sa 10:00-14:00,17:30-20:30"
-website: "https://www.librerias-picasso.com/"
+street: Calle Obispo Hurtado
+housenumber: "5"
+phone: +34 958 53 69 10
+opening_hours: Mo-Fr 10:00-14:00,17:00-21:00; Sa 10:00-14:00,17:30-20:30
+website: https://www.librerias-picasso.com/

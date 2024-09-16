@@ -4,8 +4,8 @@ latitude: 37.81376
 longitude: -3.78572
 postcode: "23009"
 city: Jaén
-street: "Calle de Beatriz Nunez"
-housenumber: 1
-phone: "+34 953 28 09 53"
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://avolo.net/skoda/"
+street: Calle de Beatriz Nunez
+housenumber: "1"
+phone: +34 953 28 09 53
+opening_hours: Mo-Sa 09:00-20:00
+website: https://avolo.net/skoda/

@@ -1,11 +1,11 @@
 id: 880252613
-type: way
+type: node
 latitude: 37.11872
 longitude: -1.83519
 postcode: "04638"
 city: Mojácar Playa
-street: "Paseo del Mediterráneo"
-housenumber: 237
+street: Paseo del Mediterráneo
+housenumber: "237"
 phone: ""
 opening_hours: ""
 website: ""

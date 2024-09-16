@@ -4,8 +4,8 @@ latitude: 37.39467
 longitude: -5.99159
 postcode: "41003"
 city: Sevilla
-street: "Calle Regina"
-housenumber: 9
+street: Calle Regina
+housenumber: "9"
 phone: "+34687825925"
 opening_hours: ""
-website: "https://vazon.es/"
+website: https://vazon.es/

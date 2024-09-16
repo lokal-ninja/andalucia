@@ -1,11 +1,11 @@
 id: 1200912849
-type: way
+type: node
 latitude: 36.47618
 longitude: -6.20081
 postcode: "11100"
 city: San Fernando
-street: "Avenida del Ferrocarril"
-housenumber: 
-phone: "900 958 311"
+street: Avenida del Ferrocarril
+housenumber: ""
+phone: 900 958 311
 opening_hours: ""
-website: "https://www.lidl.es/"
+website: https://www.lidl.es/

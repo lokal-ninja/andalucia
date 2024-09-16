@@ -4,8 +4,8 @@ latitude: 37.34758
 longitude: -5.98045
 postcode: "41012"
 city: Sevilla
-street: "Paseo de Europa"
-housenumber: 8
+street: Paseo de Europa
+housenumber: "8"
 phone: "+34647919350"
-opening_hours: "Mo-Sa 09:00-21:30"
-website: "https://www.supermercadoseljamon.com"
+opening_hours: Mo-Sa 09:00-21:30
+website: https://www.supermercadoseljamon.com

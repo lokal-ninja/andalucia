@@ -4,8 +4,8 @@ latitude: 37.64616
 longitude: -3.45202
 postcode: "23560"
 city: Huelma
-street: "Avenida de Rafael Alberti"
-housenumber: 19
-phone: "+34 953 39 02 45"
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.eroski.es/localizador-de-tiendas/supermercado/jaen/huelma/eroskicity-huelma/"
+street: Avenida de Rafael Alberti
+housenumber: "19"
+phone: +34 953 39 02 45
+opening_hours: Mo-Sa 09:00-20:00
+website: https://www.eroski.es/localizador-de-tiendas/supermercado/jaen/huelma/eroskicity-huelma/

@@ -1,11 +1,11 @@
 id: 388553650
-type: way
+type: node
 latitude: 37.91938
 longitude: -3.02359
 postcode: "23470"
 city: Cazorla
-street: "Calle Poniente"
-housenumber: 48
+street: Calle Poniente
+housenumber: "48"
 phone: ""
-opening_hours: "Mo-Fr 08:30-20:00; Sa,Su 08:00-15:00; PH off"
+opening_hours: Mo-Fr 08:30-20:00; Sa,Su 08:00-15:00; PH off
 website: ""

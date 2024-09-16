@@ -4,8 +4,8 @@ latitude: 37.38908
 longitude: -6.00256
 postcode: ""
 city: Sevilla
-street: "Calle Arjona"
-housenumber: 8
-phone: "+34 954560095"
-opening_hours: "Mo-Fr 10:00-14:00,17:00-20:30; Sa 10:00-14:00"
-website: "http://suraventurabikes.es/"
+street: Calle Arjona
+housenumber: "8"
+phone: +34 954560095
+opening_hours: Mo-Fr 10:00-14:00,17:00-20:30; Sa 10:00-14:00
+website: http://suraventurabikes.es/

@@ -4,8 +4,8 @@ latitude: 37.17435
 longitude: -3.6011
 postcode: "18001"
 city: Granada
-street: "Calle Alhóndiga"
-housenumber: 1
-phone: "+34 958 25 12 34"
-opening_hours: "Mo-Sa 09:00-14:00,17:00-20:30"
+street: Calle Alhóndiga
+housenumber: "1"
+phone: +34 958 25 12 34
+opening_hours: Mo-Sa 09:00-14:00,17:00-20:30
 website: ""

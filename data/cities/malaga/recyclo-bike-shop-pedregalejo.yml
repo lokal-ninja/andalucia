@@ -4,8 +4,8 @@ latitude: 36.72223
 longitude: -4.37644
 postcode: "29017"
 city: Malaga
-street: "Avenida Juan Sebastián Elcano"
-housenumber: 50
-phone: "+34 952 297 324"
-opening_hours: "Mo-Fr 09:00-17:00; Sa 09:00-14:00"
-website: "https://recyclobike.com"
+street: Avenida Juan Sebastián Elcano
+housenumber: "50"
+phone: +34 952 297 324
+opening_hours: Mo-Fr 09:00-17:00; Sa 09:00-14:00
+website: https://recyclobike.com

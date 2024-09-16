@@ -1,11 +1,11 @@
 id: 564085821
-type: way
+type: node
 latitude: 36.6845
 longitude: -6.12122
 postcode: "11406"
 city: Jerez de la Frontera
-street: "Calle Ronda de los Viñedos"
-housenumber: 2
+street: Calle Ronda de los Viñedos
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

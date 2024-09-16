@@ -1,11 +1,11 @@
 id: 680399321
-type: way
+type: node
 latitude: 36.74316
 longitude: -3.52687
 postcode: "18600"
 city: Motril
-street: "Avenida Doctor Norman Bethune"
-housenumber: 
+street: Avenida Doctor Norman Bethune
+housenumber: ""
 phone: ""
-opening_hours: "Jun-Aug: Mo-Sa 09:00-22:00"
+opening_hours: 'Jun-Aug: Mo-Sa 09:00-22:00'
 website: ""

@@ -4,8 +4,8 @@ latitude: 36.43057
 longitude: -5.12506
 postcode: "29680"
 city: Estepona
-street: "Avenida del Litoral"
-housenumber: 
+street: Avenida del Litoral
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 10:00-20:00; Sa 10:00-16:00; Su,PH off"
-website: "https://www.mercadodevida.es/"
+opening_hours: Mo-Fr 10:00-20:00; Sa 10:00-16:00; Su,PH off
+website: https://www.mercadodevida.es/

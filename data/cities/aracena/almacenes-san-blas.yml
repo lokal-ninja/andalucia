@@ -1,11 +1,11 @@
 id: 400558582
-type: way
+type: node
 latitude: 37.88837
 longitude: -6.55955
 postcode: "21200"
 city: Aracena
-street: "Calle Santo Domingo"
-housenumber: 
-phone: "+34 959 126 336"
+street: Calle Santo Domingo
+housenumber: ""
+phone: +34 959 126 336
 opening_hours: ""
-website: "http://www.almacenes-sanblas.com/"
+website: http://www.almacenes-sanblas.com/

@@ -4,8 +4,8 @@ latitude: 36.83657
 longitude: -2.44483
 postcode: "04007"
 city: Almería
-street: "Calle Benizalón"
-housenumber: 10
-phone: "+34 950206296"
-opening_hours: "Mo-Sa 09:00-21:30"
-website: "https://www.mercadona.es"
+street: Calle Benizalón
+housenumber: "10"
+phone: +34 950206296
+opening_hours: Mo-Sa 09:00-21:30
+website: https://www.mercadona.es

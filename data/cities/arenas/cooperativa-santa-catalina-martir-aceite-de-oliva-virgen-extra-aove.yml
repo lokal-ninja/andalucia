@@ -1,11 +1,11 @@
 id: 457047847
-type: way
+type: node
 latitude: 36.81421
 longitude: -4.04627
 postcode: "29753"
 city: Arenas
-street: "Calle Calvario"
-housenumber: 2
-phone: "+34 952509003"
+street: Calle Calvario
+housenumber: "2"
+phone: +34 952509003
 opening_hours: ""
-website: "https://santacatalinamartir.es"
+website: https://santacatalinamartir.es

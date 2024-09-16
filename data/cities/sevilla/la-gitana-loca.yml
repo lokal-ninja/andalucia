@@ -4,8 +4,8 @@ latitude: 37.3901
 longitude: -5.99015
 postcode: "41004"
 city: Sevilla
-street: "Calle Alfalfa"
-housenumber: 7
+street: Calle Alfalfa
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Fr 10:00-14:00,17:00-20:30; Sa 10:30-13:30"
+opening_hours: Mo-Fr 10:00-14:00,17:00-20:30; Sa 10:30-13:30
 website: ""

@@ -4,8 +4,8 @@ latitude: 37.41425
 longitude: -5.95367
 postcode: "41007"
 city: Sevilla
-street: "Calle Azogue"
-housenumber: 11
-phone: "+34 954 047 943"
-opening_hours: "9:00-19:30"
-website: "http://www.ngtalleres.es"
+street: Calle Azogue
+housenumber: "11"
+phone: +34 954 047 943
+opening_hours: 9:00-19:30
+website: http://www.ngtalleres.es

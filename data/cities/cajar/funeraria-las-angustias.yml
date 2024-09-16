@@ -1,11 +1,11 @@
 id: 1029878892
-type: way
+type: node
 latitude: 37.12843
 longitude: -3.56618
 postcode: "18199"
 city: Cájar
-street: "Calle Veleta"
-housenumber: 11
+street: Calle Veleta
+housenumber: "11"
 phone: "+32958570745"
 opening_hours: ""
-website: "https://www.funerarialasangustias.com/"
+website: https://www.funerarialasangustias.com/

@@ -1,11 +1,11 @@
 id: 121913901
-type: way
+type: node
 latitude: 37.14773
 longitude: -3.57805
 postcode: "18198"
 city: Huétor Vega
-street: "Avenida de Andalucía"
-housenumber: 69
+street: Avenida de Andalucía
+housenumber: "69"
 phone: ""
 opening_hours: ""
 website: ""

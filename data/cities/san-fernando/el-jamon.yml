@@ -4,8 +4,8 @@ latitude: 36.46657
 longitude: -6.19577
 postcode: "11100"
 city: San Fernando
-street: "Calle Real"
-housenumber: 24
+street: Calle Real
+housenumber: "24"
 phone: "+34662415636"
-opening_hours: "Mo-Sa 09:00-21:30"
-website: "https://www.supermercadoseljamon.com"
+opening_hours: Mo-Sa 09:00-21:30
+website: https://www.supermercadoseljamon.com

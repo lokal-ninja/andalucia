@@ -4,8 +4,8 @@ latitude: 37.77758
 longitude: -3.79474
 postcode: "23006"
 city: Jaén
-street: "Avenida de Andalucía"
-housenumber: 24
-phone: "+34 953 37 92 99"
-opening_hours: "Mo-Fr 10:00-14:00,18:00-20:00; Sa 10:00-14:00"
-website: "https://www.hogarium.es"
+street: Avenida de Andalucía
+housenumber: "24"
+phone: +34 953 37 92 99
+opening_hours: Mo-Fr 10:00-14:00,18:00-20:00; Sa 10:00-14:00
+website: https://www.hogarium.es

@@ -4,8 +4,8 @@ latitude: 37.17633
 longitude: -3.59644
 postcode: "18010"
 city: Granada
-street: "Calle Reyes Católicos"
-housenumber: 54
-phone: "+34 958 22 49 00"
-opening_hours: "Mo-Su 10:00-22:00"
-website: "https://www.artesaniasmedina.com"
+street: Calle Reyes Católicos
+housenumber: "54"
+phone: +34 958 22 49 00
+opening_hours: Mo-Su 10:00-22:00
+website: https://www.artesaniasmedina.com

@@ -1,11 +1,11 @@
 id: 842264381
-type: way
+type: node
 latitude: 36.97457
 longitude: -3.55659
 postcode: "18657"
 city: Nigüelas
-street: "GR-9067"
-housenumber: 
-phone: "+34 958 46 06 55"
-opening_hours: "Mo-Sa 09:00-21:30"
-website: "https://www.mercadona.es"
+street: GR-9067
+housenumber: ""
+phone: +34 958 46 06 55
+opening_hours: Mo-Sa 09:00-21:30
+website: https://www.mercadona.es

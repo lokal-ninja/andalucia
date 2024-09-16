@@ -1,11 +1,11 @@
 id: 710874667
-type: way
+type: node
 latitude: 36.87409
 longitude: -2.44081
 postcode: "04230"
 city: Almería
-street: "Carretera Almería"
-housenumber: 214
-phone: "+34 950 11 82 65"
+street: Carretera Almería
+housenumber: "214"
+phone: +34 950 11 82 65
 opening_hours: ""
 website: ""

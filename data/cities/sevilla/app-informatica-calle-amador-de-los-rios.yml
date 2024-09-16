@@ -4,8 +4,8 @@ latitude: 37.38921
 longitude: -5.98239
 postcode: ""
 city: Sevilla
-street: "Calle Amador de Los Rios"
-housenumber: 5
+street: Calle Amador de Los Rios
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 10:00-14:00,17:00-20:30; Sa 10:00-14:00"
-website: "https://www.pcbox.com/"
+opening_hours: Mo-Fr 10:00-14:00,17:00-20:30; Sa 10:00-14:00
+website: https://www.pcbox.com/

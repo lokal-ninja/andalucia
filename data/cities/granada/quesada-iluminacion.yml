@@ -4,8 +4,8 @@ latitude: 37.16827
 longitude: -3.6028
 postcode: "18004"
 city: Granada
-street: "Calle Marqués de Mondéjar"
-housenumber: 19
-phone: "+34 678 27 70 43"
-opening_hours: "10:00-14:00,17:00-20:30"
-website: "https://www.quesadailumina.es/"
+street: Calle Marqués de Mondéjar
+housenumber: "19"
+phone: +34 678 27 70 43
+opening_hours: 10:00-14:00,17:00-20:30
+website: https://www.quesadailumina.es/

@@ -4,8 +4,8 @@ latitude: 37.39944
 longitude: -5.98838
 postcode: "41003"
 city: Sevilla
-street: "Calle San Luis"
-housenumber: 55
+street: Calle San Luis
+housenumber: "55"
 phone: ""
-opening_hours: "Mo-Fr 08:30-14:30, 17:30-21:00; Sa-Su 08:30-12:00"
-website: "https://das-brot.net/"
+opening_hours: Mo-Fr 08:30-14:30, 17:30-21:00; Sa-Su 08:30-12:00
+website: https://das-brot.net/

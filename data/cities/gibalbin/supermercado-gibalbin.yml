@@ -1,11 +1,11 @@
 id: 1037075355
-type: way
+type: node
 latitude: 36.82926
 longitude: -5.92235
 postcode: "11592"
 city: Gibalbín
-street: "Barriada Gibalbín"
-housenumber: 148
+street: Barriada Gibalbín
+housenumber: "148"
 phone: ""
 opening_hours: ""
-website: "https://www.supergibalbin.es"
+website: https://www.supergibalbin.es

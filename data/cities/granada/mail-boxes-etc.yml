@@ -4,8 +4,8 @@ latitude: 37.17011
 longitude: -3.59822
 postcode: "18005"
 city: Granada
-street: "Calle Verónica de la Virgen"
-housenumber: 1
-phone: "+34 958 53 68 11"
-opening_hours: "Mo-Fr 09:00-14:00,16:00-19:00"
-website: "https://www.mbe.es"
+street: Calle Verónica de la Virgen
+housenumber: "1"
+phone: +34 958 53 68 11
+opening_hours: Mo-Fr 09:00-14:00,16:00-19:00
+website: https://www.mbe.es

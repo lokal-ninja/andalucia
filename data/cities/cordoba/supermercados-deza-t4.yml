@@ -4,8 +4,8 @@ latitude: 37.88725
 longitude: -4.80216
 postcode: "14011"
 city: Córdoba
-street: "Calle Isla de Fuerteventura"
-housenumber: 48
-phone: "+34 957 61 35 06"
-opening_hours: "Mo-Sa 09:00-21:30"
-website: "https://www.dezacalidad.es/centros/avda-isla-fuerteventura/"
+street: Calle Isla de Fuerteventura
+housenumber: "48"
+phone: +34 957 61 35 06
+opening_hours: Mo-Sa 09:00-21:30
+website: https://www.dezacalidad.es/centros/avda-isla-fuerteventura/

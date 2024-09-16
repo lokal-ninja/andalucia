@@ -4,8 +4,9 @@ latitude: 37.80772
 longitude: -2.5395
 postcode: "18830"
 city: Huéscar
-street: "Avenida de Barroeta"
-housenumber: 35
-phone: "+34 958 74 23 73"
-opening_hours: "Dias de 9 a 14 y tardes 16.30 a 20 de Lunes hasta Viernes y Sabado solo tardes"
+street: Avenida de Barroeta
+housenumber: "35"
+phone: +34 958 74 23 73
+opening_hours: Dias de 9 a 14 y tardes 16.30 a 20 de Lunes hasta Viernes y Sabado
+    solo tardes
 website: ""

@@ -1,11 +1,11 @@
 id: 421161035
-type: way
+type: node
 latitude: 37.91577
 longitude: -3.01879
 postcode: "23470"
 city: Cazorla
-street: "Calle Levante"
-housenumber: 4
+street: Calle Levante
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Su 08:00-18:00; Jun: 08:00-14:00; Apr 10-Apr 15,Aug,Dec 25: off"
+opening_hours: 'Mo-Su 08:00-18:00; Jun: 08:00-14:00; Apr 10-Apr 15,Aug,Dec 25: off'
 website: ""

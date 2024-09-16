@@ -1,11 +1,11 @@
 id: 835573324
-type: way
+type: node
 latitude: 38.02698
 longitude: -3.36735
 postcode: "23400"
 city: Úbeda
-street: "Calle Solería"
-housenumber: 54
+street: Calle Solería
+housenumber: "54"
 phone: ""
 opening_hours: ""
 website: ""

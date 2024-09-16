@@ -4,8 +4,8 @@ latitude: 37.38341
 longitude: -5.97329
 postcode: "41018"
 city: Sevilla
-street: "Avenida Luis de Morales"
-housenumber: 32
+street: Avenida Luis de Morales
+housenumber: "32"
 phone: ""
-opening_hours: "Mo-Sa 08:30-20:00; Su 17:00-22:00"
-website: "https://es.webuy.com/"
+opening_hours: Mo-Sa 08:30-20:00; Su 17:00-22:00
+website: https://es.webuy.com/

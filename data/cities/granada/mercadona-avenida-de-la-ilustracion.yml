@@ -4,8 +4,8 @@ latitude: 37.14966
 longitude: -3.60614
 postcode: "18016"
 city: Granada
-street: "Avenida de la Ilustración"
-housenumber: 51
-phone: "+34 958130312"
-opening_hours: "Mo-Sa 09:00-21:30"
-website: "https://www.mercadona.es"
+street: Avenida de la Ilustración
+housenumber: "51"
+phone: +34 958130312
+opening_hours: Mo-Sa 09:00-21:30
+website: https://www.mercadona.es

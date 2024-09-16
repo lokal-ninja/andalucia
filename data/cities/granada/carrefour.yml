@@ -1,11 +1,11 @@
 id: 210278580
-type: way
+type: node
 latitude: 37.1544
 longitude: -3.60722
 postcode: "18006"
 city: Granada
-street: "Avenida Fernando de los Ríos"
-housenumber: 
-phone: "+34 914 90 89 00"
-opening_hours: "Mo-Sa 09:00-22:00; Su,PH 10:00-22:00"
-website: "https://www.carrefour.es"
+street: Avenida Fernando de los Ríos
+housenumber: ""
+phone: +34 914 90 89 00
+opening_hours: Mo-Sa 09:00-22:00; Su,PH 10:00-22:00
+website: https://www.carrefour.es

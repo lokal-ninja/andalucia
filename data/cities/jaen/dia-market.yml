@@ -1,11 +1,11 @@
 id: 904589327
-type: way
+type: node
 latitude: 37.77999
 longitude: -3.78748
 postcode: "23009"
 city: Jaén
-street: "Calle Miguel Castillejo"
-housenumber: 4
+street: Calle Miguel Castillejo
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

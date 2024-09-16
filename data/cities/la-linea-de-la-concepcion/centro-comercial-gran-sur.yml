@@ -1,11 +1,11 @@
 id: 297238318
-type: way
+type: node
 latitude: 36.17388
 longitude: -5.36481
 postcode: "11300"
 city: La Línea de la Concepción
-street: "Avenida de la Colonia"
-housenumber: 
-phone: "+34 956 17 48 06"
-opening_hours: "Mo-Sa 09:00-22:30"
+street: Avenida de la Colonia
+housenumber: ""
+phone: +34 956 17 48 06
+opening_hours: Mo-Sa 09:00-22:30
 website: ""

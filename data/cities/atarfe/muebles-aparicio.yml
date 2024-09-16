@@ -4,8 +4,8 @@ latitude: 37.22667
 longitude: -3.67888
 postcode: "18230"
 city: Atarfe
-street: "Paseo de la Redonda"
-housenumber: 
-phone: "+34 958 35 71 37;+34 693 46 59 07"
-opening_hours: "Mo-Sa 09:30-14:00,16:30-21:00; Jul-Aug: Sa 09:30-14:00"
+street: Paseo de la Redonda
+housenumber: ""
+phone: +34 958 35 71 37;+34 693 46 59 07
+opening_hours: 'Mo-Sa 09:30-14:00,16:30-21:00; Jul-Aug: Sa 09:30-14:00'
 website: ""

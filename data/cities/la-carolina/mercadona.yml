@@ -1,11 +1,11 @@
 id: 123396445
-type: way
+type: node
 latitude: 38.27517
 longitude: -3.61223
 postcode: ""
 city: La Carolina
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "09:00-21:30"
-website: "https://www.mercadona.es"
+opening_hours: 09:00-21:30
+website: https://www.mercadona.es

@@ -1,11 +1,11 @@
 id: 99001095
-type: way
+type: node
 latitude: 36.70874
 longitude: -4.44446
 postcode: "29006"
 city: Málaga
-street: "Avenida Juan XXIII"
-housenumber: 33
+street: Avenida Juan XXIII
+housenumber: "33"
 phone: ""
 opening_hours: ""
-website: "https://www.garummotor.com"
+website: https://www.garummotor.com

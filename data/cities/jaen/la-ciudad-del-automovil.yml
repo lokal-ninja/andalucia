@@ -1,11 +1,11 @@
 id: 1206574620
-type: way
+type: node
 latitude: 37.81395
 longitude: -3.78672
 postcode: "23009"
 city: Jaén
-street: "Calle de Beatriz Nunez"
-housenumber: 1
+street: Calle de Beatriz Nunez
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "https://avolo.net/"
+website: https://avolo.net/

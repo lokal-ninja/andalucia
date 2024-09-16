@@ -1,11 +1,11 @@
 id: 1038843998
-type: way
+type: node
 latitude: 37.76031
 longitude: -2.55479
 postcode: "18840"
 city: Galera
-street: "De A-330 a A-4200"
-housenumber: 
+street: De A-330 a A-4200
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

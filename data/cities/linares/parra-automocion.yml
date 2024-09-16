@@ -1,11 +1,11 @@
 id: 625586182
-type: way
+type: node
 latitude: 38.08596
 longitude: -3.65543
 postcode: "23700"
 city: Linares
-street: "Calle 4"
-housenumber: 
+street: Calle 4
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

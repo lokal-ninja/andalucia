@@ -1,11 +1,11 @@
 id: 429038615
-type: way
+type: node
 latitude: 37.21576
 longitude: -4.01247
 postcode: "18369"
 city: Villanueva Mesía
-street: "Calle Panamá"
-housenumber: 16
-phone: "+34 958 44 44 23"
+street: Calle Panamá
+housenumber: "16"
+phone: +34 958 44 44 23
 opening_hours: ""
-website: "https://www.migenil.es/"
+website: https://www.migenil.es/

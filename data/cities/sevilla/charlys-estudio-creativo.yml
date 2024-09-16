@@ -4,8 +4,8 @@ latitude: 37.39643
 longitude: -5.97514
 postcode: ""
 city: Sevilla
-street: "Calle Samaniego"
-housenumber: 44
-phone: "+34 954 10 38 78"
-opening_hours: "Mo-Sa 10:00-14:00; Mo-Fr 17:00-21:00"
+street: Calle Samaniego
+housenumber: "44"
+phone: +34 954 10 38 78
+opening_hours: Mo-Sa 10:00-14:00; Mo-Fr 17:00-21:00
 website: ""

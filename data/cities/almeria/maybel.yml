@@ -1,11 +1,12 @@
 id: 592739270
-type: way
+type: node
 latitude: 36.84285
 longitude: -2.45813
 postcode: "04004"
 city: Almería
-street: "Avenida Federico García Lorca"
-housenumber: 103
+street: Avenida Federico García Lorca
+housenumber: "103"
 phone: ""
-opening_hours: "Tu-Th 09:30-13:30,16:30-20:30; Fr 09:30-20:30; Sa 09:30-14:00; Mo,Su off"
+opening_hours: Tu-Th 09:30-13:30,16:30-20:30; Fr 09:30-20:30; Sa 09:30-14:00; Mo,Su
+    off
 website: ""

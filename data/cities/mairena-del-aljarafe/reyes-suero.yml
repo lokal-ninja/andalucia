@@ -1,11 +1,11 @@
 id: 344537514
-type: way
+type: node
 latitude: 37.35529
 longitude: -6.05312
 postcode: "41927"
 city: Mairena del Aljarafe
-street: "Calle Juventud"
-housenumber: 4
-phone: "+34 954181316"
+street: Calle Juventud
+housenumber: "4"
+phone: +34 954181316
 opening_hours: ""
-website: "https://www.reyessuero.com/"
+website: https://www.reyessuero.com/

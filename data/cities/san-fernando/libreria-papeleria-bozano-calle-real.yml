@@ -4,8 +4,8 @@ latitude: 36.46407
 longitude: -6.19804
 postcode: "11100"
 city: San Fernando
-street: "Calle Real"
-housenumber: 115
-phone: "+34 956 88 14 19"
-opening_hours: "Mo-Fr 09:30-13:30,17:30-21:00; Sa 10:00-13:30"
-website: "http://libreriabozano.es/"
+street: Calle Real
+housenumber: "115"
+phone: +34 956 88 14 19
+opening_hours: Mo-Fr 09:30-13:30,17:30-21:00; Sa 10:00-13:30
+website: http://libreriabozano.es/
