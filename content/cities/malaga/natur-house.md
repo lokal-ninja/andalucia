@@ -1,5 +1,5 @@
 ---
-title: "Natur house"
+title: "Natur House"
 url: /malaga/natur-house/
-shop: herbolario
+shop: suplementos nutricionales
 ---
