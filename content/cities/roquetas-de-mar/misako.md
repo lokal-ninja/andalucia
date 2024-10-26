@@ -1,5 +1,5 @@
 ---
-title: "MISAKO"
+title: "Misako"
 url: /roquetas-de-mar/misako/
-shop: zapatos
+shop: bolsas y maletas
 ---
