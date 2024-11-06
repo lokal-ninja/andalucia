@@ -1,6 +1,6 @@
 ---
 title: Lebrija
 url: /lebrija/
-latitude: 36.915
-longitude: -6.082
+latitude: 36.921
+longitude: -6.09
 ---
