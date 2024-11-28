@@ -1,6 +1,6 @@
 ---
 title: Cambil
 url: /cambil/
-latitude: 37.676
-longitude: -3.566
+latitude: 37.679
+longitude: -3.564
 ---
