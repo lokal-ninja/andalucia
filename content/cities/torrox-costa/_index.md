@@ -1,6 +1,6 @@
 ---
-title: Torrox-Costa
+title: Torrox Costa
 url: /torrox-costa/
-latitude: 36.73
-longitude: -3.964
+latitude: 36.732
+longitude: -3.965
 ---
