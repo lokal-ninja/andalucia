@@ -1,5 +1,5 @@
 ---
 title: "Lámparas Salcedo"
 url: /sevilla/lamparas-salcedo/
-shop: general
+shop: lámparas
 ---
