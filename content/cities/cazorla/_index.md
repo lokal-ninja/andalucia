@@ -1,6 +1,6 @@
 ---
 title: Cazorla
 url: /cazorla/
-latitude: 37.913
-longitude: -3.003
+latitude: 37.917
+longitude: -3.005
 ---

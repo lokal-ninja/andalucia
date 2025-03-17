@@ -1,5 +1,5 @@
 ---
 title: "Glamour & Estilo"
 url: /garrucha/glamour-y-estilo/
-shop: general
+shop: cosméticos
 ---
