@@ -2,5 +2,5 @@
 title: Algeciras
 url: /algeciras/
 latitude: 36.133
-longitude: -5.45
+longitude: -5.452
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Mármoles Del Moral"
+title: "Mármoles del Moral"
 url: /jaen/marmoles-del-moral/
 shop: piedras
 ---
