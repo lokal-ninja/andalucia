@@ -1,6 +1,6 @@
 ---
 title: Castilléjar
 url: /castillejar/
-latitude: 37.714
+latitude: 37.715
 longitude: -2.643
 ---
