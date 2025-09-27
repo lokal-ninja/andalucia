@@ -1,5 +1,5 @@
 ---
 title: "Covirán"
-url: /motril/coviran-calle-canteras/
+url: /padul/coviran-calle-real/
 shop: supermercado
 ---

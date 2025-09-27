@@ -1,6 +1,6 @@
 ---
 title: Mojácar
 url: /mojacar/
-latitude: 37.141
-longitude: -1.851
+latitude: 37.14
+longitude: -1.852
 ---
