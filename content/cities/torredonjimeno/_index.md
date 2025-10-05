@@ -1,6 +1,6 @@
 ---
 title: Torredonjimeno
 url: /torredonjimeno/
-latitude: 37.774
-longitude: -3.959
+latitude: 37.762
+longitude: -3.935
 ---
