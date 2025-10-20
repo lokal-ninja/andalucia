@@ -1,6 +1,6 @@
 ---
 title: Nerja
 url: /nerja/
-latitude: 36.744
-longitude: -3.88
+latitude: 36.748
+longitude: -3.881
 ---
