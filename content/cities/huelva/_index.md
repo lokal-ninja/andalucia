@@ -1,6 +1,6 @@
 ---
 title: Huelva
 url: /huelva/
-latitude: 37.26
-longitude: -6.948
+latitude: 37.267
+longitude: -6.943
 ---

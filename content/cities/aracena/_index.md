@@ -1,6 +1,6 @@
 ---
 title: Aracena
 url: /aracena/
-latitude: 37.897
-longitude: -6.566
+latitude: 37.896
+longitude: -6.562
 ---
