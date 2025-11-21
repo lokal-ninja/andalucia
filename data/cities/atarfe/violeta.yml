@@ -1,12 +1,12 @@
-id: 7127120672
+id: 5453817878
 type: node
-latitude: 37.22274
-longitude: -3.68727
+latitude: 37.22301
+longitude: -3.68762
 postcode: "18230"
 city: Atarfe
-street: Calle San Felipe
-housenumber: "1"
-phone: ""
-opening_hours: 'Jun-Aug: Mo-Fr 10:00-13:30,18:00-21:00; Sep-May: Mo-Fr 10:00-13:30,17:00-20:00;
-    Sa 10:00-13:30'
+street: Avenida de Andalucía
+housenumber: "21"
+phone: +34 691 25 07 82
+opening_hours: Mo-Fr 10:00-13:30,18:00-20:15 "summer"; Mo-Fr 10:00-13:30,17:00-20:00
+    "winter"; Sa 10:00-13:30
 website: ""
