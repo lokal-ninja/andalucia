@@ -1,5 +1,5 @@
 ---
-title: "Zapateria tacones"
+title: "Zapatería Tacones"
 url: /motril/zapateria-tacones/
 shop: zapatos
 ---
