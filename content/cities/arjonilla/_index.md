@@ -1,6 +1,6 @@
 ---
 title: Arjonilla
 url: /arjonilla/
-latitude: 37.974
-longitude: -4.107
+latitude: 37.975
+longitude: -4.104
 ---
