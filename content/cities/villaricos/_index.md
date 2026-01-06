@@ -1,6 +1,6 @@
 ---
 title: Villaricos
 url: /villaricos/
-latitude: 37.247
-longitude: -1.773
+latitude: 37.25
+longitude: -1.77
 ---
