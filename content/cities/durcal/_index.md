@@ -1,6 +1,6 @@
 ---
 title: Dúrcal
 url: /durcal/
-latitude: 37
-longitude: -3.577
+latitude: 36.98
+longitude: -3.562
 ---
