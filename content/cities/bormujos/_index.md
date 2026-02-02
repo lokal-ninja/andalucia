@@ -1,6 +1,6 @@
 ---
 title: Bormujos
 url: /bormujos/
-latitude: 37.381
-longitude: -6.064
+latitude: 37.372
+longitude: -6.073
 ---
