@@ -1,6 +1,6 @@
 ---
 title: Alanís
 url: /alanis/
-latitude: 38.038
-longitude: -5.713
+latitude: 38.039
+longitude: -5.708
 ---
