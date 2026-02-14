@@ -1,5 +1,5 @@
 ---
-title: "Bazar Angel"
+title: "Bazar Ángel"
 url: /mojacar-playa/bazar-angel/
-shop: general
+shop: tienda de variedades
 ---
