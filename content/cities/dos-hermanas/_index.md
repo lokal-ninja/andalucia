@@ -1,6 +1,6 @@
 ---
 title: Dos Hermanas
 url: /dos-hermanas/
-latitude: 37.279
-longitude: -5.934
+latitude: 37.282
+longitude: -5.937
 ---
