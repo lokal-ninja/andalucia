@@ -1,5 +1,5 @@
 ---
-title: "Millán Confort"
+title: "Millán confort"
 url: /jaen/millan-confort/
-shop: muebles
+shop: cama
 ---
