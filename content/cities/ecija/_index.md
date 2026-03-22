@@ -1,6 +1,6 @@
 ---
 title: Écija
 url: /ecija/
-latitude: 37.54
-longitude: -5.088
+latitude: 37.538
+longitude: -5.073
 ---
