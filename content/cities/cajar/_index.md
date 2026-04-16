@@ -1,6 +1,6 @@
 ---
 title: Cájar
 url: /cajar/
-latitude: 37.127
-longitude: -3.569
+latitude: 37.135
+longitude: -3.572
 ---
