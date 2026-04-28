@@ -1,6 +1,6 @@
 ---
 title: Villargordo
 url: /villargordo/
-latitude: 37.94
-longitude: -3.731
+latitude: 37.939
+longitude: -3.73
 ---
