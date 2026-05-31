@@ -1,6 +1,6 @@
 ---
-title: Cúllar
+title: Cullar
 url: /cullar/
-latitude: 37.59
-longitude: -2.586
+latitude: 37.581
+longitude: -2.565
 ---
