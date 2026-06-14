@@ -1,5 +1,5 @@
 ---
 title: "Basar Fu"
 url: /motril/basar-fu/
-shop: comodidad
+shop: tienda de variedades
 ---

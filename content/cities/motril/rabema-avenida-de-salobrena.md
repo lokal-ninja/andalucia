@@ -1,5 +1,5 @@
 ---
 title: "Rabema"
 url: /motril/rabema-avenida-de-salobrena/
-shop: comodidad
+shop: tienda de variedades
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Supereconomia Motril"
 url: /motril/supereconomia-motril/
-shop: comodidad
+shop: tienda de variedades
 ---

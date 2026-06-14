@@ -1,5 +1,5 @@
 ---
 title: "Rabema"
 url: /motril/rabema/
-shop: tienda rural
+shop: tienda de variedades
 ---
