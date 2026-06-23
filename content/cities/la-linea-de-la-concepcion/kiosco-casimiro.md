@@ -1,5 +1,5 @@
 ---
 title: "Kiosco Casimiro"
 url: /la-linea-de-la-concepcion/kiosco-casimiro/
-shop: confitería
+shop: quiosco
 ---
