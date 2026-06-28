@@ -1,6 +1,6 @@
 ---
 title: Guadix
 url: /guadix/
-latitude: 37.304
-longitude: -3.143
+latitude: 37.312
+longitude: -3.152
 ---
