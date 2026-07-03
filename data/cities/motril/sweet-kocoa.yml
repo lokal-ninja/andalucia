@@ -5,7 +5,8 @@ longitude: -3.51933
 postcode: "18600"
 city: Motril
 street: Avenida Salobreña
-housenumber: ""
+housenumber: "4"
 phone: ""
-opening_hours: ""
+opening_hours: Mo-Th 12:00-14:00, 17:00-21:00; Fr 12:00-14:00, 17:00-24:00; Sa 17:00-24:00;Su
+    17:00-22:00
 website: ""
