@@ -1,5 +1,5 @@
 ---
 title: "Frutería Atlanta"
-url: /motril/fruteria-atlanta-calle-carrera/
+url: /motril/fruteria-atlanta-calle-vicario/
 shop: frutería
 ---
