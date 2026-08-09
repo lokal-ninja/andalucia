@@ -1,6 +1,6 @@
 ---
 title: Santo Tomé
 url: /santo-tome/
-latitude: 38.029
-longitude: -3.101
+latitude: 38.028
+longitude: -3.1
 ---
