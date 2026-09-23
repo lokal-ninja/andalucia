@@ -7,5 +7,5 @@ city: Sevilla
 street: Avenida Santa Cecilia
 housenumber: "7"
 phone: ""
-opening_hours: 'Mo-Fr: 8:30 - 14:30 | 17:00 - 20:00          Sa-Su: 9:00-14:00'
+opening_hours: Mo-Fr 08:30-14:30,17:00-20:00, Sa-Su 09:00-14:00
 website: ""
