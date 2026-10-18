@@ -1,6 +1,6 @@
 ---
 title: Garrucha
 url: /garrucha/
-latitude: 37.181
-longitude: -1.822
+latitude: 37.183
+longitude: -1.821
 ---

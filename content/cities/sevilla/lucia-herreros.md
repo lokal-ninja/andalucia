@@ -1,5 +1,5 @@
 ---
-title: "Lucia Herreros"
+title: "Lucía Herreros"
 url: /sevilla/lucia-herreros/
 shop: ropa
 ---

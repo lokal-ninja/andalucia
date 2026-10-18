@@ -1,6 +1,6 @@
 ---
 title: Umbrete
 url: /umbrete/
-latitude: 37.358
-longitude: -6.166
+latitude: 37.368
+longitude: -6.155
 ---
