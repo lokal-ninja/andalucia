@@ -1,6 +1,6 @@
 ---
 title: Padul
 url: /padul/
-latitude: 37.025
-longitude: -3.623
+latitude: 37.024
+longitude: -3.622
 ---
